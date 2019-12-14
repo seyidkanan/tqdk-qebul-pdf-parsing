@@ -69,7 +69,7 @@ for line in text_file:
                 ixtisas_pullu_kechid_bali = string
 
             if string.count("/") == 1 and string.startswith("("):
-                ixtisas_pulsuz_kechid_bali = string
+                ixtisas_pulsuz_kechid_bali = string.replace("(", "").replace(")", "")
 
         if len(ixtisas_id) > 0:
             with open('data.csv', 'a+', newline='') as file:
