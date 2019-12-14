@@ -554,82 +554,67 @@ Azərbaycan Texnologiya Universiteti (Gəncə ş.)
 123898 Biznesin idarə edilməsi (Zaqatala filialı) Q 200 ( - ) 
 123913 Turizm və otelçilik (Zaqatala filialı) Ə 190 (312) 
 123921 Turizm və otelçilik (Zaqatala filialı) Q 187 (402) 
+
 [Azərbaycan Dillər Universiteti]
-126116 Regionşünaslıq (Böyük Britaniya üzrə) Ə 200 (467) 
+
+126116 Regionşünaslıq (Böyük Britaniya üzrə) Ə 200 (467)
 126124 Regionşünaslıq (Almaniya üzrə) Ə 414 ( - ) 
 126132 Regionşünaslıq (Fransa üzrə) Ə 405 ( - ) 
 126149 Regionşünaslıq (Amerika üzrə) Ə 271 (478) 
 126157 Regionşünaslıq (Qafqaz üzrə) Ə 314 ( - ) 
 126165 Regionşünaslıq (İsrail və Yaxın Şərq üzrə) Ə 288 ( - ) 
-126173 Regionşünaslıq (Cənub Şərqi Asiya və 
-İndoneziya üzrə) 
-Ə 267 ( - ) 
+126173 Regionşünaslıq (Cənub Şərqi Asiya və İndoneziya üzrə) Ə 267 ( - )
 126181 Regionşünaslıq (Yaponiya üzrə) Ə 333 (484) 
 126198 Regionşünaslıq (ərəb ölkələri üzrə) Ə 362 ( - ) 
 126213 Regionşünaslıq (Çin üzrə) Ə 293 (530) 
 126221 Regionşünaslıq (Argentina üzrə) Ə 273 ( - ) 
-126238 Regionşünaslıq (Mərkəzi və Şərqi Avropa 
-üzrə) 
-Ə 361 ( - ) 
+126238 Regionşünaslıq (Mərkəzi və Şərqi Avropa üzrə) Ə 361 ( - )
 126246 Regionşünaslıq (Norveç üzrə) Ə 200 (468) 
 126279 Beynəlxalq münasibətlər Ə 401 ( - ) 
-Bakı Slavyan Universiteti 
-127112 Regionşünaslıq (Rusiya üzrə) Ə 278 ( - ) 
+
+[Bakı Slavyan Universiteti]
+
+127112 Regionşünaslıq (Rusiya üzrə) Ə 278 ( - )
 127129 Regionşünaslıq (Ukrayna üzrə) Ə 240 ( - ) 
 127137 Regionşünaslıq (Çexiya üzrə) Ə 243 ( - ) 
 127145 Regionşünaslıq (Azərbaycan üzrə) Ə 276 ( - ) 
 127153 Regionşünaslıq (Türkiyə üzrə) Ə 281 ( - ) 
 127178 Beynəlxalq münasibətlər Ə 359 ( - ) 
-Bakı Mühəndislik Universiteti 
-128385 Dünya iqtisadiyyatı Ə 273 ( - ) 
+[Bakı Mühəndislik Universiteti]
+
+128385 Dünya iqtisadiyyatı Ə 273 ( - )
 128393 Dünya iqtisadiyyatı (tədris ingilis dilində) Ə 200 (604) 
 128417 Mühasibat uçotu və audit Ə 308 ( - ) 
-128425 Mühasibat uçotu və audit (tədris ingilis 
-dilində) 
-Ə 200 (609) 
+128425 Mühasibat uçotu və audit (tədris ingilis dilində) Ə 200 (609)
 128433 Maliyyə Ə 298 ( - ) 
 128441 Maliyyə (tədris ingilis dilində) Ə 200 (632) 
 128458 Sənayenin təşkili və idarə olunması Ə 287 (479) 
-128466 Sənayenin təşkili və idarə olunması (tədris 
-ingilis dilində) 
-Ə 200 (486) 
+128466 Sənayenin təşkili və idarə olunması (tədris ingilis dilində) Ə 200 (486)
 128474 Biznesin idarə edilməsi Ə 272 ( - ) 
-128482 Biznesin idarə edilməsi (tədris ingilis 
-dilində) 
-Ə 200 (578) 
+128482 Biznesin idarə edilməsi (tədris ingilis dilində) Ə 200 (578)
 128499 Dövlət və bələdiyyə idarəetməsi Ə 278 (459) 
-128514 Dövlət və bələdiyyə idarəetməsi (tədris 
-ingilis dilində) 
-Ə 200 (479) 
-Azərbaycan Respublikası Prezidenti yanında 
-Dövlət İdarəçilik Akademiyası 
-129138 Beynəlxalq münasibətlər Ə 619 (619) 
+128514 Dövlət və bələdiyyə idarəetməsi (tədris ingilis dilində) Ə 200 (479)
+
+[Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası]
+
+129138 Beynəlxalq münasibətlər Ə 619 (619)
 129154 İqtisadiyyat Ə 637 (637) 
 129179 Menecment Ə 559 (559) 
 129195 Dövlət və bələdiyyə idarəetməsi Ə 558 (558) 
 129227 Davamlı inkişafın idarə edilməsi Ə 494 (507) 
-"ADA" Universiteti 
-131146 Beynəlxalq münasibətlər (tədris ingilis 
-dilində) 
-Ə 200 
+
+["ADA" Universiteti]
+
+131146 Beynəlxalq münasibətlər (tədris ingilis dilində) Ə 200
 131154 İqtisadiyyat (tədris ingilis dilində) Ə 200 
-131162 Biznesin idarə edilməsi (tədris ingilis 
-dilində) 
-Ə 500 
-Azərbaycan Dövlət Mədəniyyət və İncəsənət 
-Universiteti 
-134119 Sosiologiya Ə 280 (444) 
-Azərbaycan Turizm və Menecment Universiteti 
-Ихтисасын  Тящ. 
-фор. 
-Кечид    
-балы 
- Ихтисасын Тящ. 
-фор. 
-кечид    
-балы коду ады  коду ады 
- 
-52 II груп, Азярбайъан бюлмяси 
+131162 Biznesin idarə edilməsi (tədris ingilis dilində) Ə 500
+
+[Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti]
+
+134119 Sosiologiya Ə 280 (444)
+
+[Azərbaycan Turizm və Menecment Universiteti]
+
 136128 Regionşünaslıq (Qafqaz üzrə) Ə 239 ( - ) 
 136136 Beynəlxalq münasibətlər Ə 292 ( - ) 
 136144 Maliyyə Ə 315 ( - ) 
@@ -639,22 +624,27 @@ Azərbaycan Turizm və Menecment Universiteti
 136193 Biznesin idarə edilməsi Ə 306 ( - ) 
 136217 Turizm və otelçilik Ə 419 (419) 
 136233 Turizm və otelçilik (tədris ingilis dilində) Ə 466 (466) 
-136241 Nəqliyyat servisi (sərnişin daşınmaları 
-nəqliyyatı üzrə) 
-Ə 282 (457) 
-Bakı Xoreoqrafiya Akademiyası 
-136517 Menecment (prodüser) Ə 206 ( - ) 
+136241 Nəqliyyat servisi (sərnişin daşınmaları nəqliyyatı üzrə) Ə 282 (457)
+
+[Bakı Xoreoqrafiya Akademiyası]
+
+136517 Menecment (prodüser) Ə 206 ( - )
 136525 Menecment (prodüser) Q 200 ( - ) 
-Azərbaycan Dövlət Bədən Tərbiyəsi və İdman 
-Akademiyası 
+
+[Azərbaycan Dövlət Bədən Tərbiyəsi və İdman Akademiyası]
+
 137116 İdman menecmenti və kommunikasiya Ə 218 (358) 
-Milli Aviasiya Akademiyası 
+
+[Milli Aviasiya Akademiyası]
+
 138364 Menecment Ə 345 (557) 
 138372 Hidrometeorologiya Ə 451 (451) 
-Azərbaycan Respublikası Dövlət Gömrük 
-Komitəsinin Akademiyası 
-141514 İqtisadiyyat Ə 498 (556) 
-Naxçıvan Dövlət Universiteti 
+[Azərbaycan Respublikası Dövlət Gömrük Komitəsinin Akademiyası]
+
+141514 İqtisadiyyat Ə 498 (556)
+
+[Naxçıvan Dövlət Universiteti]
+
 142268 Coğrafiya müəllimliyi Ə 289 (459) 
 142276 Beynəlxalq münasibətlər Ə 200 ( - ) 
 142284 Dünya iqtisadiyyatı Ə 317 (585) 
@@ -665,8 +655,10 @@ Naxçıvan Dövlət Universiteti
 142349 Menecment Ə 281 (543) 
 142357 Dövlət və bələdiyyə idarəetməsi Ə 278 (455) 
 142365 Turizm və otelçilik Ə 275 (311) 
-Azərbaycan Dövlət Aqrar Universiteti (Gəncə ş.) 
-144414 Mühasibat uçotu və audit Ə 349 (603) 
+
+[Azərbaycan Dövlət Aqrar Universiteti (Gəncə ş.)]
+
+144414 Mühasibat uçotu və audit Ə 349 (603)
 144422 Mühasibat uçotu və audit Q 208 ( - ) 
 144439 Maliyyə Ə 291 ( - ) 
 144447 Maliyyə Q 200 ( - ) 
@@ -677,8 +669,10 @@ Azərbaycan Dövlət Aqrar Universiteti (Gəncə ş.)
 144511 Marketinq Ə 223 ( - ) 
 144528 Marketinq Q 195 ( - ) 
 144536 Biznesin idarə edilməsi Ə 231 ( - ) 
-Gəncə Dövlət Universiteti 
-145192 Tarix və coğrafiya müəllimliyi Ə 311 (435) 
+
+[Gəncə Dövlət Universiteti]
+
+145192 Tarix və coğrafiya müəllimliyi Ə 311 (435)
 145216 Coğrafiya müəllimliyi Ə 293 (474) 
 145224 Mühasibat uçotu və audit Ə 268 ( - ) 
 145232 Mühasibat uçotu və audit Q 200 ( - ) 
@@ -689,9 +683,11 @@ Gəncə Dövlət Universiteti
 145298 Biznesin idarə edilməsi Ə 225 ( - ) 
 145313 Dövlət və bələdiyyə idarəetməsi Ə 227 (456) 
 145321 Turizm və otelçilik Ə 334 (334) 
-145338 Turizm və otelçilik Q 191 ( - ) 
-Azərbaycan Texnologiya Universiteti (Gəncə ş.) 
-147282 Mühasibat uçotu və audit Ə 230 ( - ) 
+145338 Turizm və otelçilik Q 191 ( - )
+
+[Azərbaycan Texnologiya Universiteti (Gəncə ş.)]
+
+147282 Mühasibat uçotu və audit Ə 230 ( - )
 147299 Mühasibat uçotu və audit Q 200 ( - ) 
 147322 Sənayenin təşkili və idarə olunması Ə 206 (488) 
 147339 Sənayenin təşkili və idarə olunması Q 200 ( - ) 
@@ -703,8 +699,10 @@ Azərbaycan Texnologiya Universiteti (Gəncə ş.)
 147396 Biznesin idarə edilməsi Q 200 ( - ) 
 147411 Dövlət və bələdiyyə idarəetməsi Ə 200 (469) 
 147428 Dövlət və bələdiyyə idarəetməsi Q 200 ( - ) 
-Sumqayıt Dövlət Universiteti 
-148416 Tarix və coğrafiya müəllimliyi Ə 324 (434) 
+
+[Sumqayıt Dövlət Universiteti]
+
+148416 Tarix və coğrafiya müəllimliyi Ə 324 (434)
 148424 Coğrafiya müəllimliyi Ə 317 ( - ) 
 148432 Sosiologiya Ə 250 ( - ) 
 148449 Dünya iqtisadiyyatı Ə 268 ( - ) 
@@ -718,8 +716,10 @@ Sumqayıt Dövlət Universiteti
 148538 Menecment Q 213 ( - ) 
 148546 Biznesin idarə edilməsi Ə 270 ( - ) 
 148554 Biznesin idarə edilməsi Q 223 ( - ) 
-Mingəçevir Dövlət Universiteti 
-149218 Mühasibat uçotu və audit Ə 321 ( - ) 
+
+[Mingəçevir Dövlət Universiteti]
+
+149218 Mühasibat uçotu və audit Ə 321 ( - )
 149226 Mühasibat uçotu və audit Q 200 ( - ) 
 149234 Maliyyə Ə 279 ( - ) 
 149242 İqtisadiyyat Ə 261 (581) 
@@ -731,18 +731,10 @@ Mingəçevir Dövlət Universiteti
 149315 Biznesin idarə edilməsi Ə 207 ( - ) 
 149323 Dövlət və bələdiyyə idarəetməsi Ə 204 ( - ) 
 149331 Turizm və otelçilik Ə 254 (308) 
-Lənkəran Dövlət Universiteti 
-Ихтисасын  Тящ. 
-фор. 
-Кечид    
-балы 
- Ихтисасын Тящ. 
-фор. 
-кечид    
-балы коду ады  коду ады 
- 
- II груп, Азярбайъан бюлмяси 53 
-151186 Tarix və coğrafiya müəllimliyi Ə 322 (436) 
+
+[Lənkəran Dövlət Universiteti]
+
+151186 Tarix və coğrafiya müəllimliyi Ə 322 (436)
 151194 Mühasibat uçotu və audit Ə 202 (594) 
 151218 Mühasibat uçotu və audit Q 200 ( - ) 
 151226 Maliyyə Ə 202 ( - ) 
@@ -753,8 +745,10 @@ Lənkəran Dövlət Universiteti
 151275 Biznesin idarə edilməsi Q 200 ( - ) 
 151283 Turizm və otelçilik Ə 199 (318) 
 151291 Turizm və otelçilik Q 187 ( - ) 
-Azərbaycan Kooperasiya Universiteti 
-152166 Dünya iqtisadiyyatı Q 200 
+
+[Azərbaycan Kooperasiya Universiteti]
+
+152166 Dünya iqtisadiyyatı Q 200
 152174 Dünya iqtisadiyyatı Ə 200 
 152182 Mühasibat uçotu və audit Q 200 
 152199 Mühasibat uçotu və audit Ə 200 
@@ -773,21 +767,23 @@ Azərbaycan Kooperasiya Universiteti
 152344 Kommersiya Q 185 
 152352 Coğrafiya Ə 206 ( - ) 
 152369 Turizm və otelçilik Ə 196 
-"Azərbaycan" Universiteti 
-155155 Dünya iqtisadiyyatı Ə 200 ( - ) 
+
+["Azərbaycan" Universiteti]
+
+155155 Dünya iqtisadiyyatı Ə 200 ( - )
 155163 Dünya iqtisadiyyatı (tədris ingilis dilində) Ə 200 ( - ) 
 155171 Mühasibat uçotu və audit Ə 200 ( - ) 
-155188 Mühasibat uçotu və audit (tədris ingilis 
-dilində) 
-Ə 200 ( - ) 
+155188 Mühasibat uçotu və audit (tədris ingilis dilində) Ə 200 ( - )
 155196 Maliyyə Ə 200 ( - ) 
 155211 Maliyyə (tədris ingilis dilində) Ə 200 ( - ) 
 155228 İqtisadiyyat Ə 200 ( - ) 
 155236 Menecment Ə 200 ( - ) 
 155244 Marketinq Ə 194 ( - ) 
 155252 Dövlət və bələdiyyə idarəetməsi Ə 200 ( - ) 
-Qərb Universiteti 
-157261 Regionşünaslıq (Qərbşünaslıq) Ə 198 ( - ) 
+
+[Qərb Universiteti]
+
+157261 Regionşünaslıq (Qərbşünaslıq) Ə 198 ( - )
 157278 Beynəlxalq münasibətlər Ə 216 ( - ) 
 157286 Beynəlxalq münasibətlər Q 200 ( - ) 
 157294 Dünya iqtisadiyyatı Ə 221 ( - ) 
@@ -800,35 +796,35 @@ Qərb Universiteti
 157375 Biznesin idarə edilməsi Ə 222 ( - ) 
 157383 Dövlət və bələdiyyə idarəetməsi Ə 200 ( - ) 
 157391 Turizm və otelçilik Ə 276 (317) 
-Xəzər Universiteti 
-158217 Coğrafiya müəllimliyi Ə 200 (477) 
-158225 Regionşünaslıq (Amerika, Böyük 
-Britaniya, tədris ingilis dilində) 
-Ə 181 (463) 
-158233 Beynəlxalq münasibətlər (tədris ingilis 
-dilində) 
-Ə 200 ( - ) 
-158241 Mühasibat uçotu və audit (tədris ingilis 
-dilində) 
-Ə 200 (587) 
+
+[Xəzər Universiteti]
+
+158217 Coğrafiya müəllimliyi Ə 200 (477)
+158225 Regionşünaslıq (Amerika, Böyük Britaniya, tədris ingilis dilində) Ə 181 (463)
+158233 Beynəlxalq münasibətlər (tədris ingilis dilində) Ə 200 ( - )
+158241 Mühasibat uçotu və audit (tədris ingilis dilində) Ə 200 (587)
 158258 Maliyyə (tədris ingilis dilində) Ə 200 (643) 
 158266 İqtisadiyyat (tədris ingilis dilində) Ə 200 (559) 
 158274 Menecment (tədris ingilis dilində) Ə 200 (541) 
 158282 Marketinq (tədris ingilis dilində) Ə 182 (546) 
-158299 Biznesin idarə edilməsi (tədris ingilis 
-dilində) 
-Ə 200 ( - ) 
+158299 Biznesin idarə edilməsi (tədris ingilis dilində) Ə 200 ( - )
 158314 Turizm və otelçilik (tədris ingilis dilində) Ə 356 (356) 
-Bakı Avrasiya Universiteti 
-162112 Regionşünaslıq (ABŞ və Kanada) Ə 186 ( - ) 
+
+[Bakı Avrasiya Universiteti]
+
+162112 Regionşünaslıq (ABŞ və Kanada) Ə 186 ( - )
 162129 Regionşünaslıq (Avropa ölkələri) Ə 185 ( - ) 
 162137 Regionşünaslıq (Yaxın və Orta Şərq) Ə 183 ( - ) 
 162145 İqtisadiyyat Ə 214 ( - ) 
 162153 İqtisadiyyat Q 200 ( - ) 
-Bakı Qızlar Universiteti 
-163125 Coğrafiya müəllimliyi Ə 227 ( - ) 
-"Odlar Yurdu" Universiteti 
-164154 Beynəlxalq münasibətlər Ə 200 ( - ) 
+
+[Bakı Qızlar Universiteti]
+
+163125 Coğrafiya müəllimliyi Ə 227 ( - )
+
+["Odlar Yurdu" Universiteti]
+
+164154 Beynəlxalq münasibətlər Ə 200 ( - )
 164179 Dünya iqtisadiyyatı Ə 200 ( - ) 
 164195 Mühasibat uçotu və audit Ə 200 ( - ) 
 164227 Maliyyə Ə 200 ( - ) 
@@ -837,8 +833,10 @@ Bakı Qızlar Universiteti
 164284 Biznesin idarə edilməsi Ə 200 ( - ) 
 164316 Dövlət və bələdiyyə idarəetməsi Ə 200 ( - ) 
 164332 Turizm və otelçilik Ə 197 (344) 
-Bakı Biznes Universiteti 
-165118 Dünya iqtisadiyyatı Ə 200 ( - ) 
+
+[Bakı Biznes Universiteti]
+
+165118 Dünya iqtisadiyyatı Ə 200 ( - )
 165126 Mühasibat uçotu və audit Ə 203 ( - ) 
 165134 Maliyyə Ə 200 ( - ) 
 165159 İqtisadiyyat Ə 200 ( - ) 
@@ -848,5994 +846,603 @@ Bakı Biznes Universiteti
 165191 Marketinq Ə 189 ( - ) 
 165215 Biznesin idarə edilməsi Ə 200 ( - ) 
 165223 Dövlət və bələdiyyə idarəetməsi Ə 200 ( - ) 
-"Naxçıvan" Universiteti (Naxçıvan şəhəri) 
-168131 Coğrafiya müəllimliyi Ə 209 ( - ) 
+
+["Naxçıvan" Universiteti (Naxçıvan şəhəri)]
+
+168131 Coğrafiya müəllimliyi Ə 209 ( - )
 168148 Beynəlxalq münasibətlər Ə 200 ( - ) 
 168156 Mühasibat uçotu və audit Ə 200 ( - ) 
 168164 Maliyyə Ə 203 ( - ) 
 168172 İqtisadiyyat Ə 200 ( - ) 
 168189 Turizm və otelçilik Ə 189 (393) 
-Ихтисасын  Тящ. 
-фор. 
-Кечид    
-балы 
- Ихтисасын Тящ. 
-фор. 
-кечид    
-балы коду ады  коду ады 
- 
-54 II груп, Азярбайъан бюлмяси 
-Azərbaycan Əmək və Sosial Münasibətlər 
-Akademiyası 
-171111 Mühasibat uçotu və audit Ə 200 ( - ) 
+
+[Azərbaycan Əmək və Sosial Münasibətlər Akademiyası]
+
+171111 Mühasibat uçotu və audit Ə 200 ( - )
 171136 Maliyyə Ə 200 ( - ) 
 171152 İqtisadiyyat Ə 200 ( - ) 
 171169 Dövlət və bələdiyyə idarəetməsi Ə 200 ( - ) 
  
- III груп, Азярбайъан бюлмяси 43 
-2017/2018-ЪИ ТЯДРИС ИЛИ ЦЧЦН 
-III ГРУП ИХТИСАСЛАР 
-ЦЗРЯ МЦСАБИГЯ НЯТИЪЯЛЯРИНЯ ЭЮРЯ 
-АЛЫНМЫШ МИНИМАЛ КЕЧИД БАЛЛАРЫ 
- 
-1) Keçid balı sütununda mötərizə içərisində müvafiq ixtisas üzrə dövlət sifarişi əsasında qəbulun keçid balı 
-göstərilmişdir. 
-2) Keçid balı sütununda mötərizə içərisində tire ( – ) işarəsi göstərir ki, müvafiq ixtisasda dövlət sifarişi 
-əsasında təhsil almaq hüququ qazanmış abituriyent yoxdur. Təhsili yalnız ödənişli əsaslarla olan 
-ixtisasların qarşısında belə mötərizə göstərilməmişdir. 
- 
-Ихтисасын  Тящ. 
-фор. 
-Кечид    
-балы 
- Ихтисасын Тящ. 
-фор. 
-кечид    
-балы коду ады  коду ады 
-Bakı Dövlət Universiteti 
-111982 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 541 (541) 
-112119 Tarix müəllimliyi Ə 536 (536) 
-112135 Korreksiyaedici təlim Ə 309 (403) 
-112143 Təhsildə sosial-psixoloji xidmət Ə 492 (492) 
-112168 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 444 (613) 
-112176 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 361 ( - ) 
-112184 Filologiya (alman dili və ədəbiyyatı) Ə 200 ( - ) 
-112192 Filologiya (fransız dili və ədəbiyyatı) Ə 200 ( - ) 
-112216 Filologiya (ərəb dili və ədəbiyyatı) Ə 334 (672) 
-112224 Filologiya (fars dili və ədəbiyyatı) Ə 310 ( - ) 
-112232 Filologiya (türk dili və ədəbiyyatı) Ə 332 ( - ) 
-112265 Fəlsəfə Ə 387 (488) 
-112273 Tərcümə (fars dili üzrə) Ə 251 ( - ) 
-112281 Tərcümə (ərəb dili üzrə) Ə 293 ( - ) 
-112298 Kitabşünaslıq Ə 316 (399) 
-112313 Tarix Ə 473 (567) 
-112321 Tarix Q 421 ( - ) 
-112346 Tarix (tədris ingilis dilində) Ə 586 (586) 
-112354 Antropologiya Ə 442 (480) 
-112362 Politologiya Ə 467 (632) 
-112387 Hüquqşünaslıq Ə 568 (674) 
-112395 Hüquqşünaslıq Q 509 (676) 
-112435 Hüquqşünaslıq (tədris ingilis dilində) Ə 671 (675) 
-112443 Kitabxanaçılıq və informasiya Ə 296 (406) 
-112451 Kitabxanaçılıq və informasiya Q 295 (412) 
-112476 Kitabxanaçılıq və informasiya (tədris 
-ingilis dilində) 
-Ə 200 (408) 
-112484 Dövlət və ictimai münasibətlər Ə 503 (667) 
-112492 Sosial iş Ə 520 (520) 
-112516 Jurnalistika Ə 285 (396) 
-112524 Jurnalistika Q 232 ( - ) 
-112549 Jurnalistika (tədris ingilis dilində) Ə 410 (410) 
-112849 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-(Qazax filialı) 
-Ə 301 (517) 
-112857 Tarix müəllimliyi (Qazax filialı) Ə 296 ( - ) 
-112865 İbtidai sinif müəllimliyi (Qazax filialı) Ə 270 (462) 
-112873 Məktəbəqədər təlim və tərbiyə (Qazax 
-filialı) 
-Ə 210 (387) 
-112881 Tarix (Qazax filialı) Ə 267 ( - ) 
-112898 Tarix (Qazax filialı) Q 211 ( - ) 
-112913 Sosial iş (Qazax filialı) Ə 256 ( - ) 
-112921 Sosial iş (Qazax filialı) Q 224 ( - ) 
-Azərbaycan Dövlət Pedaqoji Universiteti 
-122228 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 412 (515) 
-122236 Xarici dil müəllimliyi (fransız dili) Ə 314 ( - ) 
-122244 Xarici dil müəllimliyi (ingilis dili) Ə 434 ( - ) 
-122252 Tarix müəllimliyi Ə 408 (515) 
-122277 İbtidai sinif müəllimliyi Ə 405 (427) 
-122293 Korreksiyaedici təlim Ə 305 (403) 
-122317 Məktəbəqədər təlim və tərbiyə Ə 334 (387) 
-122333 Təhsildə sosial-psixoloji xidmət Ə 333 (473) 
-122358 Sosial iş Ə 416 (513) 
-122488 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-(Şamaxı filialı) 
-Ə 327 ( - ) 
-122496 İbtidai sinif müəllimliyi (Şamaxı filialı) Ə 283 ( - ) 
-122511 Məktəbəqədər təlim və tərbiyə (Şamaxı 
-filialı) 
-Ə 238 (411) 
-122544 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-(Şəki filialı) 
-Ə 346 (518) 
-122552 Xarici dil müəllimliyi (ingilis dili, Şəki 
-filialı) 
-Ə 304 ( - ) 
-122569 Xarici dil müəllimliyi (fransız dili, Şəki 
-filialı) 
-Ə 214 ( - ) 
-122577 İbtidai sinif müəllimliyi (Şəki filialı) Ə 290 (439) 
-122585 Məktəbəqədər təlim və tərbiyə (Şəki 
-filialı) 
-Ə 249 (391) 
-122593 Təhsildə sosial-psixoloji xidmət (Şəki 
-filialı) 
-Ə 273 (488) 
-122633 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-(Ağcabədi filialı) 
-Ə 321 (515) 
-122641 İbtidai sinif müəllimliyi (Ağcabədi filialı) Ə 283 ( - ) 
-122658 Məktəbəqədər təlim və tərbiyə (Ağcabədi 
-filialı) 
-Ə 223 ( - ) 
-122674 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-(Cəlilabad filialı) 
-Ə 314 (515) 
-122682 İbtidai sinif müəllimliyi (Cəlilabad filialı) Ə 244 (439) 
-122699 Məktəbəqədər təlim və tərbiyə (Cəlilabad 
-filialı) 
-Ə 200 ( - ) 
-Ихтисасын  Тящ. 
-фор. 
-Кечид    
-балы 
- Ихтисасын Тящ. 
-фор. 
-кечид    
-балы коду ады  коду ады 
- 
-44 III груп, Азярбайъан бюлмяси 
-122739 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-(Quba filialı) 
-Ə 337 (527) 
-122747 İbtidai sinif müəllimliyi (Quba filialı) Ə 274 (433) 
-122755 Məktəbəqədər təlim və tərbiyə (Quba 
-filialı) 
-Ə 226 (397) 
-122763 Təhsildə sosial-psixoloji xidmət (Quba 
-filialı) 
-Ə 248 ( - ) 
-Azərbaycan Dillər Universiteti 
-126295 Dil və ədəbiyyat müəllimliyi (ingilis dili 
-üzrə) 
-Ə 625 (625) 
-126319 Dil və ədəbiyyat müəllimliyi (alman dili 
-üzrə) 
-Ə 349 (421) 
-126327 Dil və ədəbiyyat müəllimliyi (fransız dili 
-üzrə) 
-Ə 335 (438) 
-126335 Xarici dil müəllimliyi (ingilis dili) Ə 395 (555) 
-126343 Xarici dil müəllimliyi (alman dili) Ə 357 (579) 
-126351 Xarici dil müəllimliyi (fransız dili) Ə 348 (557) 
-126392 Filologiya (ingilis dili və ədəbiyyatı) Ə 518 (607) 
-126416 Filologiya (alman dili və ədəbiyyatı) Ə 377 ( - ) 
-126424 Filologiya (fransız dili və ədəbiyyatı) Ə 352 ( - ) 
-126432 Filologiya (ispan dili və ədəbiyyatı) Ə 359 ( - ) 
-126449 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 421 ( - ) 
-126457 Tərcümə (Azərbaycan dili-ingilis dili) Ə 614 (614) 
-126465 Tərcümə (Azərbaycan dili-ispan dili) Ə 466 (602) 
-126473 Tərcümə (Azərbaycan dili-alman dili) Ə 200 ( - ) 
-126481 Tərcümə (Azərbaycan dili-fransız dili) Ə 248 ( - ) 
-126498 Tərcümə (Azərbaycan dili-italyan dili) Ə 511 (602) 
-126513 Tərcümə (Koreya dili-Azərbaycan dili-
-Koreya dili) 
-Ə 455 (601) 
-126562 Jurnalistika (tədris ingilis dilində) Ə 200 (419) 
-Bakı Slavyan Universiteti 
-127186 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 402 (515) 
-127218 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 390 (562) 
-127226 Xarici dil müəllimliyi (alman dili üzrə) Ə 324 ( - ) 
-127234 Xarici dil müəllimliyi (fransız dili üzrə) Ə 314 ( - ) 
-127259 Xarici dil müəllimliyi (rus dili üzrə) Ə 288 (561) 
-127267 İbtidai sinif müəllimliyi Ə 394 (427) 
-127283 Məktəbəqədər təlim və tərbiyə Ə 364 (387) 
-127315 Təhsildə sosial-psixoloji xidmət Ə 370 (478) 
-127331 Filologiya (ingilis dili və ədəbiyyatı) Ə 377 ( - ) 
-127348 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 385 ( - ) 
-127356 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 356 ( - ) 
-127397 Tərcümə (ingilis dili) Ə 435 (605) 
-127412 Tərcümə (bolqar dili) Ə 200 ( - ) 
-127429 Tərcümə (yunan dili) Ə 203 ( - ) 
-127445 Tərcümə (Azərbaycan-rus dilləri) Ə 272 ( - ) 
-127453 Jurnalistika Ə 326 (401) 
-Azərbaycan Respublikası Prezidenti yanında 
-Dövlət İdarəçilik Akademiyası 
-129243 Politologiya Ə 647 (647) 
-129268 Hüquqşünaslıq Ə 675 (675) 
-"ADA" Universiteti 
-131179 Dövlət və ictimai münasibətlər (tədris 
-ingilis dilində) 
-Ə 472 
-Azərbaycan Dövlət Mədəniyyət və İncəsənət 
-Universiteti 
-134135 Kitabxanaçılıq və informasiya Ə 285 ( - ) 
-134143 Muzeyşünaslıq, arxiv işi və abidələrin 
-qorunması 
-Ə 280 (413) 
-134168 Sənətşünaslıq Ə 288 (375) 
-134184 Teatrşünaslıq Ə 262 (377) 
-134192 Bədii yaradıcılıq və ekran dramaturgiyası Ə 294 (443) 
-134224 Kinoşünaslıq Ə 276 (389) 
-134232 Sosial iş Ə 344 ( - ) 
-Azərbaycan Dövlət Rəssamlıq Akademiyası 
-135123 Sənətşünaslıq Ə 236 (380) 
-135131 Sənətşünaslıq Q 211 (402) 
-Azərbaycan Turizm və Menecment Universiteti 
-136258 Tərcümə (ingilis dili-Azərbaycan dili) Ə 351 (603) 
-136266 Muzeyşünaslıq, arxiv işi və abidələrin 
-qorunması 
-Ə 276 (400) 
-136274 Sosial iş Ə 429 (514) 
-Bakı Xoreoqrafiya Akademiyası 
-136533 Sənətşünaslıq (səhnəqrafiya tarixi) Ə 224 ( - ) 
-136541 Sənətşünaslıq (səhnəqrafiya tarixi) Q 205 ( - ) 
-136558 Teatrşünaslıq (balet tarixi) Ə 213 ( - ) 
-Milli Aviasiya Akademiyası 
-138389 Hüquqşünaslıq Ə 564 ( - ) 
-Azərbaycan Respublikası Dövlət Gömrük 
-Komitəsinin Akademiyası 
-141522 Hüquqşünaslıq Ə 561 ( - ) 
-Naxçıvan Dövlət Universiteti 
-142373 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 361 (519) 
-142381 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 451 (557) 
-142398 Xarici dil müəllimliyi (fransız dili üzrə) Ə 277 ( - ) 
-142413 Xarici dil müəllimliyi (alman dili üzrə) Ə 200 ( - ) 
-142421 Xarici dil müəllimliyi (rus dili üzrə) Ə 255 ( - ) 
-142438 Tarix müəllimliyi Ə 405 (521) 
-142446 Tərcümə (ərəb dili-Azərbaycan dili) Ə 200 ( - ) 
-142454 Tərcümə (ingilis dili-Azərbaycan dili) Ə 370 (670) 
-142462 Hüquqşünaslıq Ə 542 (682) 
-142479 Hüquqşünaslıq Q 488 ( - ) 
-142487 Kitabxanaçılıq və informasiya Ə 200 (422) 
-142495 Muzeyşünaslıq, arxiv işi və abidələrin 
-qorunması 
-Ə 277 (403) 
-142519 Sosial iş Ə 309 (512) 
-142527 Jurnalistika Ə 200 (425) 
-Naxçıvan Müəllimlər İnstitutu 
-143126 İbtidai sinif müəllimliyi Ə 200 (431) 
-143134 Məktəbəqədər təlim və tərbiyə Ə 200 (392) 
-143142 Təhsildə sosial-psixoloji xidmət Ə 200 (493) 
-143159 Kitabxanaçılıq və informasiya Ə 200 ( - ) 
-Ихтисасын  Тящ. 
-фор. 
-Кечид    
-балы 
- Ихтисасын Тящ. 
-фор. 
-кечид    
-балы коду ады  коду ады 
- 
- III груп, Азярбайъан бюлмяси 45 
-Gəncə Dövlət Universiteti 
-145346 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 339 (515) 
-145354 Xarici dil müəllimliyi (ingilis dili) Ə 338 (561) 
-145362 Xarici dil müəllimliyi (rus dili) Ə 262 ( - ) 
-145379 Xarici dil müəllimliyi (alman dili) Ə 244 ( - ) 
-145387 Xarici dil müəllimliyi (fransız dili) Ə 241 ( - ) 
-145419 Tarix müəllimliyi Ə 353 (515) 
-145427 İbtidai sinif müəllimliyi Ə 431 (431) 
-145443 Məktəbəqədər təlim və tərbiyə Ə 284 (389) 
-145451 Təhsildə sosial-psixoloji xidmət Ə 293 (473) 
-145468 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 314 ( - ) 
-145476 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 279 ( - ) 
-145484 Tərcümə (ingilis dili) Ə 265 ( - ) 
-145492 Tarix Ə 354 ( - ) 
-145516 Tarix Q 305 (612) 
-145524 Sosial iş Ə 315 (514) 
-145532 Sosial iş Q 265 ( - ) 
-Sumqayıt Dövlət Universiteti 
-148562 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 350 ( - ) 
-148579 Xarici dil müəllimliyi (ingilis dili) Ə 363 ( - ) 
-148587 Tarix müəllimliyi Ə 360 ( - ) 
-148595 İbtidai sinif müəllimliyi Ə 341 (450) 
-148619 Məktəbəqədər təlim və tərbiyə Ə 308 (388) 
-148627 Təhsildə sosial-psixoloji xidmət Ə 313 ( - ) 
-148635 Təhsildə sosial-psixoloji xidmət Q 293 ( - ) 
-148643 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 341 ( - ) 
-148651 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 328 ( - ) 
-148668 Tarix Ə 383 ( - ) 
-148676 Tarix Q 322 ( - ) 
-148684 Politologiya Ə 338 ( - ) 
-Mingəçevir Dövlət Universiteti 
-149348 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 356 (518) 
-149356 Xarici dil müəllimliyi (ingilis dili) Ə 345 (555) 
-149364 İbtidai sinif müəllimliyi Ə 298 (428) 
-149372 Məktəbəqədər təlim və tərbiyə Ə 242 (386) 
-Lənkəran Dövlət Universiteti 
-151315 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 331 (519) 
-151323 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 313 (561) 
-151331 İbtidai sinif müəllimliyi Ə 256 (441) 
-151348 Məktəbəqədər təlim və tərbiyə Ə 200 (387) 
-151356 Təhsildə sosial-psixoloji xidmət Ə 239 (501) 
-151364 Tərcümə (ingilis dili üzrə) Ə 200 ( - ) 
-151372 Muzeyşünaslıq, arxiv işi və abidələrin 
-qorunması 
-Ə 221 (429) 
-Azərbaycan Kooperasiya Universiteti 
-152377 Tərcümə (ingilis dili) Q 206 
-152385 Tərcümə (ingilis dili) Ə 203 
-Bakı İslam Universiteti 
-154118 Dinşünaslıq Ə 100 
-154126 Dinşünaslıq Q 100 
-"Azərbaycan" Universiteti 
-155269 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 235 ( - ) 
-155277 Tərcümə (ingilis dili) Ə 209 ( - ) 
-155293 Tarix Ə 258 ( - ) 
-155317 Sosial iş Ə 232 ( - ) 
-Qərb Universiteti 
-157415 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 237 ( - ) 
-157423 Filologiya (ingilis dili və ədəbiyyatı) Ə 226 ( - ) 
-157431 Fəlsəfə Ə 200 ( - ) 
-157448 Tərcümə (ingilis, alman, fransız, çin) Ə 247 ( - ) 
-157456 Tarix Ə 237 ( - ) 
-157464 Tarix Q 240 ( - ) 
-157472 Politologiya Ə 227 ( - ) 
-157489 Politologiya Q 216 ( - ) 
-Xəzər Universiteti 
-158322 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 200 (517) 
-158339 Xarici dil müəllimliyi (ingilis dili, tədris 
-ingilis dilində) 
-Ə 200 (568) 
-158347 Tarix müəllimliyi Ə 200 (523) 
-158355 İbtidai sinif müəllimliyi Ə 200 (427) 
-158363 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 200 ( - ) 
-158371 Filologiya (ingilis dili və ədəbiyyatı, tədris 
-ingilis dilində) 
-Ə 200 ( - ) 
-158388 Tərcümə (ingilis, ərəb, fars və çin dili, 
-tədris ingilis dilində) 
-Ə 200 (627) 
-158396 Politologiya (tədris ingilis dilində) Ə 200 (639) 
-Bakı Avrasiya Universiteti 
-162161 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 275 ( - ) 
-162178 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 277 ( - ) 
-162186 Filologiya (ingilis dili və ədəbiyyatı) Ə 221 ( - ) 
-162194 Filologiya (türk dili və ədəbiyyatı) Ə 217 ( - ) 
-162218 Tərcümə (ingilis dili) Ə 215 ( - ) 
-162226 Tərcümə (alman dili) Ə 202 ( - ) 
-162234 Tərcümə (fransız dili) Ə 201 ( - ) 
-162242 Tərcümə (ərəb dili) Ə 200 ( - ) 
-Bakı Qızlar Universiteti 
-163133 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 256 ( - ) 
-163141 Xarici dil müəllimliyi (ingilis dili) Ə 253 ( - ) 
-163158 Tarix müəllimliyi Ə 227 ( - ) 
-163166 İbtidai sinif müəllimliyi Ə 228 (442) 
-163174 Məktəbəqədər təlim və tərbiyə Ə 205 ( - ) 
-163182 Təhsildə sosial-psixoloji xidmət Ə 207 ( - ) 
-"Odlar Yurdu" Universiteti 
-164357 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 265 ( - ) 
-164373 Filologiya (dil və ədəbiyyat göstərilməklə) Ə 216 ( - ) 
-164381 Tərcümə (ingilis dili üzrə) Ə 202 ( - ) 
-Bakı Biznes Universiteti 
-165231 Tərcümə (ingilis dili) Ə 206 ( - ) 
-"Naxçıvan" Universiteti (Naxçıvan şəhəri) 
-168197 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 248 ( - ) 
-Ихтисасын  Тящ. 
-фор. 
-Кечид    
-балы 
- Ихтисасын Тящ. 
-фор. 
-кечид    
-балы коду ады  коду ады 
- 
-46 III груп, Азярбайъан бюлмяси 
-168212 Xarici dil müəllimliyi (ingilis dili) Ə 200 ( - ) 
-168229 Tarix müəllimliyi Ə 236 ( - ) 
-168237 Filologiya (alman dili və ədəbiyyatı) Ə 200 ( - ) 
-168245 Dinşünaslıq Ə 200 ( - ) 
-Azərbaycan Əmək və Sosial Münasibətlər 
-Akademiyası 
-171177 Sosial iş Ə 269 ( - ) 
- 
-16 IV груп, Азярбайъан бюлмяси 
-2017/2018-ЪИ ТЯДРИС ИЛИ ЦЧЦН 
-IV ГРУП ИХТИСАСЛАР 
-ЦЗРЯ МЦСАБИГЯ НЯТИЪЯЛЯРИНЯ ЭЮРЯ 
-АЛЫНМЫШ МИНИМАЛ КЕЧИД БАЛЛАРЫ 
- 
- 
-1) Keçid balı sütununda mötərizə içərisində müvafiq ixtisas üzrə dövlət sifarişi əsasında qəbulun keçid balı 
-göstərilmişdir. 
-2) Keçid balı sütununda mötərizə içərisində tire ( – ) işarəsi göstərir ki, müvafiq ixtisasda dövlət sifarişi 
-əsasında təhsil almaq hüququ qazanmış abituriyent yoxdur. Təhsili yalnız ödənişli əsaslarla olan 
-ixtisasların qarşısında belə mötərizə göstərilməmişdir. 
- 
-Ихтисасын  Тящ. 
-фор. 
-Кечид    
-балы 
- Ихтисасын Тящ. 
-фор. 
-Kечид    
-балы коду ады  коду ады 
- 
- 
- 
-Bakı Dövlət Universiteti 
-112557 Biologiya müəllimliyi Ə 426 (426) 
-112573 Kimya müəllimliyi Ə 348 (464) 
-112598 Psixologiya Ə 412 (470) 
-112621 Psixologiya (tədris ingilis dilində) Ə 471 (471) 
-112638 Kimya Ə 345 (496) 
-112654 Kimya (tədris ingilis dilində) Ə 480 (496) 
-112662 Biologiya Ə 333 (473) 
-112679 Biologiya Q 258 (493) 
-112695 Biologiya (tədris ingilis dilində) Ə 416 (482) 
-112719 Ekologiya Ə 353 (353) 
-112727 Ekologiya Q 200 (333) 
-112743 Ekologiya (tədris ingilis dilində) Ə 359 (359) 
-112751 Su bioehtiyatları və akvabitkilər Ə 312 (312) 
-112938 Kimya və biologiya müəllimliyi (Qazax 
-filialı) 
-Ə 200 ( - ) 
-Azərbaycan Tibb Universiteti 
-121118 Əczaçılıq Ə 535 (535) 
-121134 Müalicə işi Ə 545 (651) 
-121167 Tibbi profilaktika Ə 539 (591) 
-121183 Stomatologiya Ə 539 (641) 
-Azərbaycan Dövlət Pedaqoji Universiteti 
-122366 Biologiya müəllimliyi Ə 277 (411) 
-122374 Kimya müəllimliyi Ə 276 (488) 
-122382 Kimya və biologiya müəllimliyi Ə 403 (420) 
-Azərbaycan Dövlət İqtisad Universiteti 
-123784 Ekologiya Ə 266 (333) 
-Azərbaycan Dövlət Bədən Tərbiyəsi və İdman 
-Akademiyası 
-137124 Bədən tərbiyəsi və idmanda reabilitasiya Ə 200 (260) 
-Naxçıvan Dövlət Universiteti 
-142535 Biologiya müəllimliyi Ə 291 (422) 
-142543 Kimya müəllimliyi Ə 268 (466) 
-142551 Baytarlıq Ə 150 (150) 
-142568 Əczaçılıq Ə 455 (468) 
-142576 Müalicə işi Ə 540 ( - ) 
-142584 Tibbi profilaktika Ə 473 (637) 
-142592 Stomatologiya Ə 519 (645) 
-Azərbaycan Dövlət Aqrar Universiteti (Gəncə ş.) 
-144552 Ekologiya Ə 196 (196) 
-144569 Baytarlıq Ə 167 (167) 
-144585 Su bioehtiyatları və akvabitkilər Ə 159 (159) 
-144593 Əczaçılıq Ə 243 (243) 
-Gəncə Dövlət Universiteti 
-145549 Biologiya müəllimliyi Ə 215 (411) 
-145557 Kimya müəllimliyi Ə 220 (533) 
-145565 Kimya və biologiya müəllimliyi Ə 219 (423) 
-145573 Psixologiya Ə 200 (498) 
-145581 Kimya Ə 200 ( - ) 
-145598 Biologiya Ə 200 (508) 
-Sumqayıt Dövlət Universiteti 
-148692 Kimya və biologiya müəllimliyi Ə 223 ( - ) 
-148716 Psixologiya Ə 207 ( - ) 
-148724 Psixologiya Q 200 ( - ) 
-148732 Kimya Ə 208 ( - ) 
-148749 Biologiya Ə 211 ( - ) 
-Lənkəran Dövlət Universiteti 
-151389 Kimya və biologiya müəllimliyi Ə 200 (438) 
-151397 Ekologiya Ə 155 (351) 
-151412 Baytarlıq Ə 150 (274) 
-Azərbaycan Kooperasiya Universiteti 
-152393 Ekologiya Ə 181 
-Qərb Universiteti 
-157497 Psixologiya Ə 238 ( - ) 
-157512 Psixologiya Q 200 ( - ) 
-157545 Biologiya Ə 200 
-Xəzər Universiteti 
-158411 Biologiya müəllimliyi Ə 200 (425) 
-158428 Kimya müəllimliyi Ə 200 ( - ) 
-158436 Kimya və biologiya müəllimliyi Ə 200 (428) 
-17 IV груп, Азярбайъан бюлмяси 
-158444 Psixologiya (tədris ingilis dilində) Ə 200 ( - ) 
-Bakı Qızlar Universiteti 
-163199 Psixologiya Ə 200 ( - ) 
-"Odlar Yurdu" Universiteti 
-164413 Psixologiya Ə 200 ( - ) 
-164438 Biologiya Ə 200 ( - ) 
-"Naxçıvan" Universiteti (Naxçıvan şəhəri) 
-168253 Kimya və biologiya müəllimliyi Ə 200 ( - ) 
- 
- V груп, Азярбайъан бюлмяси 33 
-2017/2018-ЪИ ТЯДРИС ИЛИ ЦЧЦН 
- V ГРУП ИХТИСАСЛАР  
-ЦЗРЯ МЦСАБИГЯ НЯТИЪЯЛЯРИНЯ ЭЮРЯ  
-АЛЫНМЫШ МИНИМАЛ КЕЧИД БАЛЛАРЫ 
- 
-1) Keçid balı sütununda mötərizə içərisində müvafiq ixtisas üzrə dövlət sifarişi əsasında qəbulun keçid balı 
-göstərilmişdir. 
-2) Nəticəsi balla qiymətləndirilən xüsusi qabiliyyət imtahanı tələb edən iki ulduzlu (**) ixtisasların keçid balı 
-kəsr (/) işarəsi ilə verilmişdir. Kəsrin surətində müvafiq ixtisas üzrə qabiliyyət imtahanından ən aşağı bal 
-toplayan abituriyentin qabiliyyət imtahanı üzrə balı, məxrəcində isə həmin abituriyentin test imtahanı üzrə 
-balı göstərilmişdir. 
-3) Keçid balı sütununda mötərizə içərisində tire ( – ) işarəsi göstərir ki, müvafiq ixtisasda dövlət sifarişi 
-əsasında təhsil almaq hüququ qazanmış abituriyent yoxdur. Təhsili yalnız ödənişli əsaslarla olan 
-ixtisasların qarşısında belə mötərizə göstərilməmişdir. 
- 
-Ихтисасын  Тящ. 
-фор. 
-Кечид    
-балы 
- Ихтисасын Тящ. 
-фор. 
-Kечид    
-балы коду ады  коду ады 
- 
- 
- 
-Azərbaycan Memarlıq və İnşaat Universiteti 
-*118568 Dizayn Ə 71 (73) 
-Azərbaycan Dövlət Pedaqoji Universiteti 
-*122414 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
-Ə 61 (72) 
-*122439 Musiqi müəllimliyi Ə 25 (65) 
-*122447 Təsviri incəsənət müəllimliyi Ə 48 (63) 
-Azərbaycan Dövlət İqtisad Universiteti 
-*123792 Dizayn Ə 62 (75) 
-Bakı Musiqi Akademiyası 
-*132118 Musiqi müəllimliyi Ə 35 (64) 
-**132126 İnstrumental ifaçılıq (fortepiano, orqan, 
-klavesin, violin (skripka), viola (alt simli), 
-violonçel, kontrabas, arfa, fleyta, qoboy, 
-klarnet, saksofon, faqot, valtorna, truba, 
-trombon, tuba, zərb alətləri) 
-Ə 8/53 
-(9/60) 
-**132134 İnstrumental ifaçılıq (fortepiano, orqan, 
-klavesin, violin (skripka), viola (alt simli), 
-violonçel, kontrabas, arfa, fleyta, qoboy, 
-klarnet, saksofon, faqot, valtorna, truba, 
-trombon, tuba, zərb alətləri) 
-Q 7/25 ( - ) 
-**132142 Solo oxuma Ə 7/25 
-(10/34) 
-**132159 Dirijorluq Ə 7/25 
-(9/67) 
-**132167 Dirijorluq Q 9/58 
-(9/58) 
-**132175 Bəstəkarlıq Ə 10/59 
-(10/59) 
-**132183 Musiqişünaslıq Ə 7/25 
-(9/77) 
-**132191 Musiqişünaslıq Q 8/75 
-(10/74) 
-Azərbaycan Milli Konservatoriyası 
-*133114 Musiqi müəllimliyi Ə 25 (63) 
-**133122 Solo oxuma (milli vokal) Ə 8/60 
-(10/37) 
-**133139 Solo oxuma (xanəndəlik) Ə 7/30 
-(9/79) 
-**133147 Solo oxuma (xanəndəlik) Q 8/36 
-(10/57) 
-**133155 Dirijorluq Ə 9/32 
-(9/55) 
-**133163 Bəstəkarlıq Ə 7/25 ( - ) 
-**133171 Musiqişünaslıq Ə 7/25 
-(9/78) 
-**133188 Musiqişünaslıq Q 8/47 ( - ) 
-**133196 Estrada sənəti (fortepiano, akkordeon, 
-klarnet, fleyta, gitara, saksofon, truba, tar, 
-kamança, qanun, balaban, qoboy, tütək, 
-ney, ud) 
-Ə 8/60 
-(10/72) 
-**133211 Xalq çalğı alətləri ifaçılığı (tar, saz, 
-kamança, qanun, balaban, ney, zurna, 
-tütək) 
-Ə 7/30 
-(10/44) 
-**133228 Xalq çalğı alətləri ifaçılığı (tar, saz, 
-kamança, qanun, balaban, ney, zurna, 
-tütək) 
-Q 7/46 
-(10/60) 
-Azərbaycan Dövlət Mədəniyyət və İncəsənət 
-Universiteti 
-*134257 Musiqi müəllimliyi Ə 25 (62) 
-*134265 Təsviri incəsənət müəllimliyi Ə 49 (66) 
-**134281 İnstrumental ifaçılıq (fortepiano, violin 
-(skripka), gitara, klarnet, saksofon, zərb 
-alətləri) 
-Ə 7/25 
-(9/66) 
-**134313 Solo oxuma (xanəndə) Ə 7/41 ( - ) 
-**134321 Musiqişünaslıq Ə 7/25 ( - ) 
-Ихтисасын  Тящ. 
-фор. 
-Кечид    
-балы 
- Ихтисасын Тящ. 
-фор. 
-Kечид    
-балы коду ады  коду ады 
- 
-34 V груп, Азярбайъан бюлмяси 
-**134338 Estrada sənəti Ə 8/54 
-(10/68) 
-**134354 Xalq çalğı alətləri ifaçılığı (tar, kamança, 
-saz, qanun, nağara, balaban) 
-Ə 7/30 
-(10/78) 
-**134362 Aktyor sənəti Ə 7/40 
-(9/50) 
-**134387 Dekorativ sənət Ə 7/50 ( - ) 
-**134419 Rejissorluq Ə 7/60 
-(9/70) 
-**134435 Operator sənəti Ə 7/40 
-(9/67) 
-**134451 Rəngkarlıq Ə 9/34 ( - ) 
-**134476 Qrafika Ə 8/70 ( - ) 
-**134484 Dizayn Ə 8/53 ( - ) 
-Azərbaycan Dövlət Rəssamlıq Akademiyası 
-*135148 Təsviri incəsənət müəllimliyi Ə 61 (63) 
-**135156 Dekorativ sənət Ə 7/50 
-(10/60) 
-**135164 Rəngkarlıq Ə 9/42 
-(10/53) 
-**135172 Qrafika Ə 9/44 
-(9/60) 
-**135189 Heykəltəraşlıq Ə 8/36 
-(9/55) 
-**135197 Dizayn Ə 8/50 
-(9/83) 
-Bakı Xoreoqrafiya Akademiyası 
-*136566 Rəqs müəllimliyi Ə 37 (45) 
-*136574 Rəqs müəllimliyi Q 25 ( - ) 
-*136582 Musiqi müəllimliyi Ə 25 ( - ) 
-*136599 Musiqi müəllimliyi Q 37 ( - ) 
-**136614 İnstrumental ifaçılıq (fortepiano, klarnet, 
-zərb alətləri) 
-Ə 7/25 ( - ) 
-**136622 İnstrumental ifaçılıq (fortepiano, klarnet, 
-zərb alətləri) 
-Q 7/25 ( - ) 
-**136639 Musiqişünaslıq Ə 7/25 ( - ) 
-**136647 Musiqişünaslıq Q 7/25 ( - ) 
-**136655 Xoreoqrafiya sənəti (baletmeyster) Ə 9/47 
-(9/47) 
-**136663 Xoreoqrafiya sənəti (baletmeyster) Q 10/47 
-(10/47) 
-**136671 Xoreoqrafiya sənəti (ifaçılıq) Ə 7/25 ( - ) 
-**136688 Xoreoqrafiya sənəti (ifaçılıq) Q 7/25 ( - ) 
-**136696 Xoreoqrafiya sənəti (milli rəqslər) Ə 8/33 
-(9/58) 
-**136711 Xoreoqrafiya sənəti (milli rəqslər) Q 8/35 ( - ) 
-**136728 Xoreoqrafiya sənəti (modern rəqslər) Ə 7/25 ( - ) 
-**136736 Xoreoqrafiya sənəti (modern rəqslər) Q 7/25 ( - ) 
-**136744 Xalq çalğı alətləri ifaçılığı (nağara, tar, 
-balaban, kamança, qarmon) 
-Ə 7/30 ( - ) 
-**136752 Xalq çalğı alətləri ifaçılığı (nağara, tar, 
-balaban, kamança, qarmon) 
-Q 7/30 ( - ) 
-**136769 Rejissorluq Ə 7/60 ( - ) 
-**136777 Rejissorluq Q 7/60 ( - ) 
-Azərbaycan Dövlət Bədən Tərbiyəsi və İdman 
-Akademiyası 
-*137132 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
-Ə 64 (72) 
-*137149 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
-Q 57 (72) 
-*137157 Məşqçi (idman növü üzrə) Ə 57 (72) 
-*137165 Məşqçi (idman növü üzrə) Q 54 (73) 
-Naxçıvan Dövlət Universiteti 
-*142616 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
-Ə 55 (75) 
-*142624 Musiqi müəllimliyi Ə 25 (64) 
-*142632 Təsviri incəsənət müəllimliyi Ə 50 (62) 
-*142649 Bədən tərbiyəsi və idman Ə 57 (64) 
-*142657 Bədən tərbiyəsi və idman Q 55 (66) 
-**142665 İnstrumental ifaçılıq (fortepiano) Ə 7/25 
-(9/61) 
-**142673 İnstrumental ifaçılıq (violin (skripka), 
-viola (alt simli), violonçel, kontrabas) 
-Ə 7/25 
-(10/59) 
-**142681 İnstrumental ifaçılıq (fleyta, klarnet, truba, 
-saksofon, trombon, qoboy, valtorna, faqot) 
-Ə 7/25 
-(10/46) 
-**142698 Solo oxuma Ə 9/49 
-(9/70) 
-**142713 Dirijorluq Ə 7/25 ( - ) 
-**142721 Bəstəkarlıq Ə 7/34 
-(10/37) 
-**142738 Musiqişünaslıq Ə 7/25 
-(10/48) 
-**142746 Musiqişünaslıq Q 10/30 
-(10/30) 
-**142754 Xalq çalğı alətləri ifaçılığı (tar, kamança, 
-saz, qanun, nağara, balaban, qarmon) 
-Ə 10/35 
-(10/44) 
-**142762 Aktyor sənəti Ə 7/45 ( - ) 
-**142779 Rəngkarlıq Ə 9/40 ( - ) 
-Naxçıvan Müəllimlər İnstitutu 
-*143167 Təsviri incəsənət müəllimliyi Ə 45 (64) 
-Azərbaycan Dövlət Aqrar Universiteti (Gəncə ş.) 
-*144625 Dizayn Ə 59 (77) 
-Gəncə Dövlət Universiteti 
-*145613 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
-Ə 57 (72) 
-*145621 Musiqi müəllimliyi Ə 55 (63) 
-*145638 Təsviri incəsənət müəllimliyi Ə 55 (63) 
-*145646 Bədən tərbiyəsi və idman Ə 64 (64) 
-*145654 Bədən tərbiyəsi və idman Q 59 (64) 
-Azərbaycan Texnologiya Universiteti (Gəncə ş.) 
-*147436 Dizayn Ə 55 ( - ) 
-Sumqayıt Dövlət Universiteti 
-*148757 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
-Ə 57 (80) 
-Lənkəran Dövlət Universiteti 
-**151429 Aktyor sənəti Ə 7/40 ( - ) 
-Qərb Universiteti 
- V груп, Азярбайъан бюлмяси 35 
-**157537 Dizayn Ə 7/50 ( - ) 
-Xəzər Universiteti 
-**158452 Dizayn (tədris ingilis dilində) Ə 7/50 ( - ) 
-"Odlar Yurdu" Universiteti 
-**164446 Dizayn Ə 7/50 ( - ) 
-*164462 Dizayn Ə 59 ( - ) 
-"Naxçıvan" Universiteti (Naxçıvan şəhəri) 
-*168261 Bədən tərbiyəsi və idman Ə 47 ( - ) 
- 
-8 Азярбайъан бюлмяси 
-2017/2018-ЪИ ТЯДРИС ИЛИ ЦЧЦН  
-БОШ ГАЛАН PLAN YERLЯRИ ЦZRЯ  МЦСАБИГЯ 
-НЯТИЪЯСИНЯ ЭЮРЯ АЛЫНМЫШ МИНИМАЛ КЕЧИД БАЛЛАРЫ 
- 
-1) Keçid balı sütununda mötərizə içərisində müvafiq ixtisas üzrə dövlət sifarişi əsasında qəbulun keçid balı 
-göstərilmişdir. 
-2) Nəticəsi balla qiymətləndirilən xüsusi qabiliyyət imtahanı tələb edən iki ulduzlu (**) ixtisasların keçid balı 
-kəsr (/) işarəsi ilə verilmişdir. Kəsrin surətində müvafiq ixtisas üzrə qabiliyyət imtahanından ən aşağı bal 
-toplayan abituriyentin qabiliyyət imtahanı üzrə balı, məxrəcində isə həmin abituriyentin test imtahanı üzrə 
-balı göstərilmişdir. 
-3) Keçid balı sütununda mötərizə içərisində tire ( – ) işarəsi göstərir ki, müvafiq ixtisasda dövlət sifarişi 
-əsasında təhsil almaq hüququ qazanmış abituriyent yoxdur. Təhsili yalnız ödənişli əsaslarla olan 
-ixtisasların qarşısında belə mötərizə göstərilməmişdir. 
- 
-Коду Ихтисасын ады Тящ. 
-фор. 
-кечид    
-балы 
- Коду Ихтисасын ады Тящ. 
-фор. 
-кечид    
-балы 
- 
-Бакы Дювлят Университети 
-111277 Эеолоэийа Я 311 
-111285 Эеолоэийа Г 250 
-111325 Компцтер елмляри Г 300 
-111366 Эеолоэийа мцщяндислийиa Г 200 
-111399 Щидроэеолоэийа мцщяндислийи Г 200 
-111422 Эеофизика мцщяндислийи Г 200 
-111463 Торпагшцнаслыг вя агрокимйа Г 200 
-111496 Йер гурулушу, торпаг вя шящяр кадастры Г 200 
-111569 Реэионшцнаслыг (Гафгаз цзря) Я 200 
-111585 Реэионшцнаслыг (яряб юлкяляри цзря) Я 200 
-111593 Реэионшцнаслыг (Иран цзря) Я 200 
-111625 Реэионшцнаслыг (Йапонийа цзря) Я 200 
-111641 Реэионшцнаслыг (Пакистан цзря) Я 200 
-111771 Бейнялхалг мцнасибятляр (тядрис инэилис 
-дилиндя) 
-Я 200 
-112184 Филолоэийа (алман дили вя ядябиййаты) Я 200 
-112192 Филолоэийа (франсыз дили вя ядябиййаты) Я 200 
-112476 Китабханачылыг вя информасийа (тядрис 
-инэилис дилиндя) 
-Я 388 
-112727 Еколоэийа Г 449 
-112768 Физика мцяллимлийи (Газах филиалы) Я 200 
-112784 Рийазиййат мцяллимлийи (Газах филиалы) Я 200 
-112938 Кимйа вя биолоэийа мцяллимлийи (Газах 
-филиалы) 
-Я 200 
-Азярбайъан Дювлят Нефт вя Сянайе Университети 
-114225 Эеофизика мцщяндислийи (тядрис инэилис 
-дилиндя) 
-Я 200 
-114411 Ъищазгайырма мцщяндислийи (тядрис инэилис 
-дилиндя) 
-Я 200 
-114436 Техноложи машын вя аваданлыглар 
-мцщяндислийи 
-Г 200 
-114541 Мехатроника вя робототехника 
-мцщяндислийи 
-Я 250 
-114688 Метролоэийа, стандартлашдырма вя 
-сертификасийа мцщяндислийи (тядрис инэилис 
-дилиндя) 
-Я 200 
-114728 Биотибби технолоэийа мцщяндислийи (тядрис 
-инэилис дилиндя) 
-Я 200 
-114752 Еколоэийа мцщяндислийи (тядрис инэилис 
-дилиндя) 
-Я 200 
-114939 Бизнесин идаря едилмяси Г 238 
-Азярбайъан Техники Университети 
-116186 Компцтер елмляри Я 310 
-116194 Материалшцнаслыг мцщяндислийи Я 232 
-116242 Истилик енерэетикасы мцщяндислийи Г 200 
-116291 Машын мцщяндислийи Г 200 
-116348 Йерцстц няглиййат васитяляринин 
-мцщяндислийи 
-Г 200 
-116412 Електрик мцщяндислийи Г 200 
-116429 Електроника, телекоммуникасийа вя 
-радиотехника мцщяндислийи 
-Я 250 
-116437 Електроника, телекоммуникасийа вя 
-радиотехника мцщяндислийи 
-Г 250 
-116478 Просеслярин автоматлашдырылмасы 
-мцщяндислийи 
-Г 200 
-116591 Биотибби технолоэийа мцщяндислийи Г 200 
-116648 Информасийа технолоэийалары Г 250 
-Азярбайъан Мемарлыг вя Иншаат Университети 
-118195 Иншаат мцщяндислийи Г 250 
-118219 Иншаат мцщяндислийи Я 301 
-118243 Мцщяндис системляринин вя гурьуларынын 
-тикинтиси мцщяндислийи 
-Г 200 
-118268 Няглиййат тикинтиси мцщяндислийи Я 302 
-118276 Няглиййат тикинтиси мцщяндислийи Г 250 
-118284 Няглиййат тикинтиси мцщяндислийи Я 250 
-118316 Мелиорасийа вя су тясяррцфаты тикинтиси 
-мцщяндислийи 
-Г 200 
-118324 Мелиорасийа вя су тясяррцфаты тикинтиси 
-мцщяндислийи 
-Я 201 
-118373 Еколоэийа мцщяндислийи Я 200 
-118381 Еколоэийа мцщяндислийи (тядрис инэилис 
-дилиндя) 
-Я 200 
-118421 Информасийа технолоэийалары Я 276 
-118438 Информасийа технолоэийалары (тядрис инэилис 
-дилиндя) 
-Я 250 
-*118454 Мемарлыг Я 200 
-*118462 Мемарлыг Я 200 
-Коду Ихтисасын ады Тящ. 
-фор. 
-кечид    
-балы 
- Коду Ихтисасын ады Тящ. 
-фор. 
-кечид    
-балы 
- 
- Азярбайъан бюлмяси 9 
-118519 Сянайенин тяшкили вя идаря олунмасы (тядрис 
-инэилис дилиндя) 
-Я 200 
-118535 Менеъмент Я 231 
-118592 Шящярсалма Я 200 
-Азярбайъан Дювлят Педагожи Университети 
-*122439 Мусиги мцяллимлийи Я 25 
-122699 Мяктябягядяр тялим вя тярбийя (Ъялилабад 
-филиалы) 
-Я 262 
-Азярбайъан Дювлят Игтисад Университети 
-123143 Гида мящсуллары мцщяндислийи Г 200 
-123176 Чохишлянян малларын технолоэийасы 
-мцщяндислийи 
-Г 200 
-123249 Метролоэийа, стандартлашдырма вя 
-сертификасийа мцщяндислийи 
-Г 200 
-123824 Мцщасибат учоту вя аудит (Загатала филиалы) Я 200 
-123832 Мцщасибат учоту вя аудит (Загатала филиалы) Г 200 
-123849 Малиййя (Загатала филиалы) Я 200 
-123857 Малиййя (Загатала филиалы) Г 200 
-123865 Игтисадиййат (Загатала филиалы) Я 200 
-123873 Игтисадиййат (Загатала филиалы) Г 200 
-123881 Бизнесин идаря едилмяси (Загатала филиалы) Я 200 
-123898 Бизнесин идаря едилмяси (Загатала филиалы) Г 200 
-Азярбайъан Дилляр Университети 
-126116 Реэионшцнаслыг (Бюйцк Британийа цзря) Я 200 
-126246 Реэионшцнаслыг (Норвеч цзря) Я 200 
-126473 Тяръцмя (Азярбайъан дили-алман дили) Я 200 
-126562 Журналистика (тядрис инэилис дилиндя) Я 200 
-Бакы Славйан Университети 
-127412 Тяръцмя (болгар дили) Я 383 
-Бакы Мцщяндислик Университети 
-128117 Електроенерэетика мцщяндислийи Я 200 
-128125 Машын мцщяндислийи Я 200 
-128141 Механика мцщяндислийи Я 200 
-128182 Иншаат мцщяндислийи Я 250 
-128199 Иншаат мцщяндислийи (тядрис инэилис дилиндя) Я 250 
-128214 Мцщяндис системляринин вя гурьуларынын 
-тикинтиси мцщяндислийи 
-Я 200 
-128222 Кимйа мцщяндислийи Я 200 
-128247 Еколоэийа мцщяндислийи Я 200 
-128255 Еколоэийа мцщяндислийи (тядрис инэилис 
-дилиндя) 
-Я 200 
-128296 Сянайе мцщяндислийи Я 200 
-128311 Сянайе мцщяндислийи (тядрис инэилис 
-дилиндя) 
-Я 200 
-128344 Шящярсалма Я 200 
-128369 Мемарлыг Я 200 
-128377 Мемарлыг (тядрис инэилис дилиндя) Я 200 
-128393 Дцнйа игтисадиййаты (тядрис инэилис дилиндя) Я 200 
-128425 Мцщасибат учоту вя аудит (тядрис инэилис 
-дилиндя) 
-Я 209 
-128441 Малиййя (тядрис инэилис дилиндя) Я 200 
-128466 Сянайенин тяшкили вя идаря олунмасы (тядрис 
-инэилис дилиндя) 
-Я 200 
-128482 Бизнесин идаря едилмяси (тядрис инэилис 
-дилиндя) 
-Я 200 
-128514 Дювлят вя бялядиййя идаряетмяси (тядрис 
-инэилис дилиндя) 
-Я 200 
-Бакы Мусиги Академийасы 
-**132134 Инструментал ифачылыг (фортепиано, орган, 
-клавесин, виолин (скрипка), виола (алт симли), 
-виолончел, контрабас, арфа, флейта, гобой, 
-кларнет, саксофон, фагот, валторна, труба, 
-тромбон, туба, зярб алятляри) 
-Г 7/25 
-**132142 Соло охума Я 7/25 
-**132159 Дирижорлуг Я 7/25 
-**132183 Мусигишцнаслыг Я 7/25 
-Азярбайъан Милли Консерваторийасы 
-*133114 Мусиги мцяллимлийи Я 25 
-**133139 Соло охума (ханяндялик) Я 7/30 
-**133163 Бястякарлыг Я 7/25 
-**133171 Мусигишцнаслыг Я 7/25 
-**133211 Халг чальы алятляри ифачылыьы (тар, саз, 
-каманча, ганун, балабан, ней, зурна, 
-тцтяк) 
-Я 7/30 
-Азярбайъан Дювлят Мядяниййят вя Инъясянят 
-Университети 
-*134257 Мусиги мцяллимлийи Я 25 
-**134281 Инструментал ифачылыг (фортепиано, виолин 
-(скрипка), эитара, кларнет, саксофон, зярб 
-алятляри) 
-Я 7/25 
-**134321 Мусигишцнаслыг Я 7/25 
-**134354 Халг чальы алятляри ифачылыьы (тар, каманча, 
-саз, ганун, наьара, балабан) 
-Я 7/30 
-**134387 Декоратив сянят Я 7/50 
-**134419 Режиссорлуг Я 7/60 ( - ) 
-**134435 Оператор сяняти Я 7/40 ( - ) 
-Азярбайъан Дювлят Ряссамлыг Академийасы 
-*135115 Мемарлыг Я 200 
-**135156 Декоратив сянят Я 7/50 
-Бакы Хореографийа Академийасы 
-136525 Менеъмент (продцсер) Г 200 
-*136574 Рягс мцяллимлийи Г 25 
-*136582 Мусиги мцяллимлийи Я 25 
-**136614 Инструментал ифачылыг (фортепиано, кларнет, 
-зярб алятляри) 
-Я 7/25 
-**136622 Инструментал ифачылыг (фортепиано, кларнет, 
-зярб алятляри) 
-Г 7/25 
-**136639 Мусигишцнаслыг Я 7/25 
-**136647 Мусигишцнаслыг Г 7/25 
-**136671 Хореографийа сяняти (ифачылыг) Я 7/40 ( - ) 
-**136688 Хореографийа сяняти (ифачылыг) Г 7/25 ( - ) 
-**136728 Хореографийа сяняти (модерн рягсляр) Я 7/35 ( - ) 
-**136736 Хореографийа сяняти (модерн рягсляр) Г 7/25 ( - ) 
-**136744 Халг чальы алятляри ифачылыьы (наьара, тар, 
-балабан, каманча, гармон) 
-Я 7/30 
-**136752 Халг чальы алятляри ифачылыьы (наьара, тар, 
-балабан, каманча, гармон) 
-Г 7/30 
-**136769 Режиссорлуг Я 7/60 ( - ) 
-**136777 Режиссорлуг Г 7/60 ( - ) 
-Азярбайъан Дювлят Бядян Тярбийяси вя Идман 
-Академийасы 
-137124 Бядян тярбийяси вя идманда реабилитасийа Я 200 (299) 
-Милли Авиасийа Академийасы 
-138267 Просеслярин автоматлашдырылмасы 
-мцщяндислийи 
-Я 315 
-Нахчыван Дювлят Университети 
-142162 Дямирйол няглиййаты вя тясяррцфаты 
-мцщяндислийи 
-Я 200 
-Коду Ихтисасын ады Тящ. 
-фор. 
-кечид    
-балы 
- Коду Ихтисасын ады Тящ. 
-фор. 
-кечид    
-балы 
- 
-10 Азярбайъан бюлмяси 
-142187 Йерцстц няглиййат васитяляринин 
-мцщяндислийи 
-Г 200 
-142219 Эеодезийа вя хяритячилик мцщяндислийи Я 200 
-*142251 Мемарлыг Я 100 
-142276 Бейнялхалг мцнасибятляр Я 200 
-142413 Хариъи дил мцяллимлийи (алман дили цзря) Я 514 
-142446 Тяръцмя (яряб дили-Азярбайъан дили) Я 200 
-142487 Китабханачылыг вя информасийа Я 320 
-142527 Журналистика Я 342 
-142551 Байтарлыг Я 150 (170) 
-*142624 Мусиги мцяллимлийи Я 25 
-**142665 Инструментал ифачылыг (фортепиано) Я 7/25 
-**142673 Инструментал ифачылыг (виолин (скрипка), 
-виола (алт симли), виолончел, контрабас) 
-Я 7/25 
-**142681 Инструментал ифачылыг (флейта, кларнет, труба, 
-саксофон, тромбон, гобой, валторна, фагот) 
-Я 7/25 
-**142713 Дирижорлуг Я 7/25 
-**142738 Мусигишцнаслыг Я 9/59 
-**142762 Актйор сяняти Я 7/45 ( - ) 
-Нахчыван Мцяллимляр Институту 
-143126 Ибтидаи синиф мцяллимлийи Я 212 
-143134 Мяктябягядяр тялим вя тярбийя Я 200 
-143142 Тящсилдя сосиал-психоложи хидмят Я 324 
-143159 Китабханачылыг вя информасийа Я 206 
-Азярбайъан Дювлят Аграр Университети (Эянъя ш.) 
-144114 Машын мцщяндислийи Я 200 
-144139 Йерцстц няглиййат васитяляринин 
-мцщяндислийи 
-Г 200 
-144147 Електрик мцщяндислийи Я 200 
-144155 Електрик мцщяндислийи Г 200 
-144163 Просеслярин автоматлашдырылмасы 
-мцщяндислийи 
-Я 200 
-144196 Гида мящсуллары мцщяндислийи Я 200 
-144236 Метролоэийа, стандартлашдырма вя 
-сертификасийа мцщяндислийи 
-Я 200 
-144244 Информасийа технолоэийалары Я 250 
-144317 Агрономлуг (тядрис инэилис дилиндя) Я 150 (166) 
-144341 Йер гурулушу, торпаг вя шящяр кадастры Я 200 
-144447 Малиййя Г 200 
-144463 Игтисадиййат Г 200 
-144488 Игтисадиййат (тядрис инэилис дилиндя) Я 200 
-Эянъя Дювлят Университети 
-145176 Компцтер елмляри Я 300 
-145184 Еколоэийа мцщяндислийи Я 200 
-145232 Мцщасибат учоту вя аудит Г 200 
-145265 Игтисадиййат Г 200 
-145573 Психолоэийа Я 200 
-145581 Кимйа Я 200 
-145598 Биолоэийа Я 200 
-Азярбайъан Технолоэийа Университети (Эянъя ш.) 
-147111 Металлурэийа мцщяндислийи Я 200 
-147128 Машын мцщяндислийи Я 200 
-147152 Техноложи машын вя аваданлыглар 
-мцщяндислийи (йейинти сянайеси цзря) 
-Я 200 
-147169 Електроника, телекоммуникасийа вя 
-радиотехника мцщяндислийи 
-Я 250 
-147177 Просеслярин автоматлашдырылмасы 
-мцщяндислийи 
-Я 200 
-147217 Кимйа мцщяндислийи Я 200 
-147225 Гида мящсуллары мцщяндислийи Я 200 
-147258 Метролоэийа, стандартлашдырма вя 
-сертификасийа мцщяндислийи 
-Я 200 
-147266 Еколоэийа мцщяндислийи Я 200 
-147274 Информасийа технолоэийалары Я 250 
-147299 Мцщасибат учоту вя аудит Г 200 
-147339 Сянайенин тяшкили вя идаря олунмасы Г 200 
-147347 Менеъмент Я 200 
-147355 Менеъмент Г 200 
-147388 Бизнесин идаря едилмяси Я 200 
-147396 Бизнесин идаря едилмяси Г 200 
-147411 Дювлят вя бялядиййя идаряетмяси Я 200 
-147428 Дювлят вя бялядиййя идаряетмяси Г 200 
-Сумгайыт Дювлят Университети 
-148149 Рийазиййат Я 250 
-148157 Физика Я 250 
-148173 Нефт-газ мцщяндислийи Г 200 
-148198 Електроенерэетика мцщяндислийи Г 200 
-148213 Истилик енерэетикасы мцщяндислийи Я 200 
-148221 Истилик енерэетикасы мцщяндислийи Г 200 
-148238 Енержи машынгайырмасы мцщяндислийи Я 200 
-148254 Електрик мцщяндислийи Г 200 
-148287 Просеслярин автоматлашдырылмасы 
-мцщяндислийи 
-Г 200 
-148319 Компцтер мцщяндислийи Г 200 
-148343 Кимйа мцщяндислийи Г 200 
-148368 Метролоэийа, стандартлашдырма вя 
-сертификасийа мцщяндислийи 
-Я 200 
-148376 Еколоэийа мцщяндислийи Я 200 
-148384 Еколоэийа мцщяндислийи Г 200 
-148392 Информасийа технолоэийалары Я 250 
-148724 Психолоэийа Г 200 
-Минэячевир Дювлят Университети 
-149137 Електроенерэетика мцщяндислийи Я 200 
-149145 Истилик енерэетикасы мцщяндислийи Я 200 
-149153 Истилик енерэетикасы мцщяндислийи Г 200 
-149161 Йерцстц няглиййат васитяляринин 
-мцщяндислийи 
-Я 200 
-149178 Йерцстц няглиййат васитяляринин 
-мцщяндислийи 
-Г 200 
-149186 Еколоэийа мцщяндислийи Я 200 
-149194 Информасийа технолоэийалары Я 322 
-149226 Мцщасибат учоту вя аудит Г 200 
-149259 Игтисадиййат Г 200 
-149275 Сянайенин тяшкили вя идаря олунмасы Г 200 
-149283 Менеъмент Я 200 
-Лянкяран Дювлят Университети 
-151137 Гида мящсуллары мцщяндислийи Я 200 
-151218 Мцщасибат учоту вя аудит Г 200 
-151234 Малиййя Г 200 
-151242 Игтисадиййат Я 200 
-151259 Игтисадиййат Г 200 
-151267 Бизнесин идаря едилмяси Я 200 
-151275 Бизнесин идаря едилмяси Г 200 
-151348 Мяктябягядяр тялим вя тярбийя Я 339 
-151364 Тяръцмя (инэилис дили цзря) Я 383 
-151389 Кимйа вя биолоэийа мцяллимлийи Я 200 
-151412 Байтарлыг Я 150 (333) 
-**151429 Актйор сяняти Я 7/40 ( - ) 
-Азярбайъан Кооперасийа Университети 
-152117 Рийазиййат Я 250 
-152125 Гида мящсуллары мцщяндислийи Я 200 
-152158 Метролоэийа, стандартлашдырма вя 
-сертификасийа мцщяндислийи 
-Я 200 
-152166 Дцнйа игтисадиййаты Г 200 
-152174 Дцнйа игтисадиййаты Я 200 
-152182 Мцщасибат учоту вя аудит Г 200 
-152199 Мцщасибат учоту вя аудит Я 200 
-152214 Малиййя Г 200 
-Коду Ихтисасын ады Тящ. 
-фор. 
-кечид    
-балы 
- Коду Ихтисасын ады Тящ. 
-фор. 
-кечид    
-балы 
- 
- Азярбайъан бюлмяси 11 
-152222 Малиййя Я 200 
-152239 Игтисадиййат Г 200 
-152247 Игтисадиййат Я 200 
-152255 Сянайенин тяшкили вя идаря олунмасы Я 200 
-152263 Сянайенин тяшкили вя идаря олунмасы Г 200 
-152271 Менеъмент Я 200 
-152296 Бизнесин идаря едилмяси Я 200 
-152311 Бизнесин идаря едилмяси Г 200 
-152328 Дювлят вя бялядиййя идаряетмяси Я 200 
-Бакы Ислам Университети 
-154118 Диншцнаслыг Я 100 
-154126 Диншцнаслыг Г 100 
-"Азярбайъан" Университети 
-155114 Рийазиййат Я 250 
-155122 Компцтер елмляри Я 300 
-155139 Компцтер мцщяндислийи Я 200 
-155155 Дцнйа игтисадиййаты Я 200 
-155163 Дцнйа игтисадиййаты (тядрис инэилис дилиндя) Я 200 
-155171 Мцщасибат учоту вя аудит Я 200 
-155188 Мцщасибат учоту вя аудит (тядрис инэилис 
-дилиндя) 
-Я 200 
-155196 Малиййя Я 200 
-155211 Малиййя (тядрис инэилис дилиндя) Я 200 
-155228 Игтисадиййат Я 200 
-155236 Менеъмент Я 200 
-155252 Дювлят вя бялядиййя идаряетмяси Я 200 
-Гярб Университети 
-157115 Ъищазгайырма мцщяндислийи Я 200 
-157123 Електроника, телекоммуникасийа вя 
-радиотехника мцщяндислийи 
-Я 250 
-157131 Мехатроника вя робототехника 
-мцщяндислийи 
-Я 200 
-157148 Механика мцщяндислийи Я 200 
-157164 Мцщяндис системляринин вя гурьуларынын 
-тикинтиси мцщяндислийи 
-Я 200 
-157212 Тякрар емал вя бярпа технолоэийалары 
-мцщяндислийи 
-Я 200 
-157229 Еколоэийа мцщяндислийи Я 200 
-157237 Информасийа технолоэийалары Я 250 
-157245 Систем мцщяндислийи Я 200 
-157253 Йер гурулушу, торпаг вя шящяр кадастры Я 200 
-157286 Бейнялхалг мцнасибятляр Г 200 
-157342 Игтисадиййат Г 200 
-157383 Дювлят вя бялядиййя идаряетмяси Я 200 
-157431 Фялсяфя Я 345 
-157512 Психолоэийа Г 200 
-**157537 Дизайн Я 7/50 
-157545 Биолоэийа Я 200 
-157553 Мемарлыг Я 200 
-Хязяр Университети 
-158111 Физика мцяллимлийи Я 200 
-158128 Рийазиййат вя информатика мцяллимлийи Я 200 
-158144 Нефт-газ мцщяндислийи (тядрис инэилис 
-дилиндя) 
-Я 200 
-158152 Електроника, телекоммуникасийа вя 
-радиотехника мцщяндислийи (тядрис инэилис 
-дилиндя) 
-Я 250 
-158169 Механика мцщяндислийи (тядрис инэилис 
-дилиндя) 
-Я 200 
-158177 Компцтер мцщяндислийи (тядрис инэилис 
-дилиндя) 
-Я 200 
-158185 Иншаат мцщяндислийи Я 250 
-158193 Кимйа мцщяндислийи (тядрис инэилис дилиндя) Я 200 
-158217 Ъоьрафийа мцяллимлийи Я 200 
-158233 Бейнялхалг мцнасибятляр (тядрис инэилис 
-дилиндя) 
-Я 200 
-158241 Мцщасибат учоту вя аудит (тядрис инэилис 
-дилиндя) 
-Я 200 
-158258 Малиййя (тядрис инэилис дилиндя) Я 200 
-158266 Игтисадиййат (тядрис инэилис дилиндя) Я 200 
-158274 Менеъмент (тядрис инэилис дилиндя) Я 200 
-158299 Бизнесин идаря едилмяси (тядрис инэилис 
-дилиндя) 
-Я 200 
-158322 Азярбайъан дили вя ядябиййаты мцяллимлийи Я 329 
-158339 Хариъи дил мцяллимлийи (инэилис дили, тядрис 
-инэилис дилиндя) 
-Я 288 
-158347 Тарих мцяллимлийи Я 426 
-158355 Ибтидаи синиф мцяллимлийи Я 206 
-158363 Филолоэийа (Азярбайъан дили вя ядябиййаты) Я 203 
-158371 Филолоэийа (инэилис дили вя ядябиййаты, 
-тядрис инэилис дилиндя) 
-Я 200 
-158388 Тяръцмя (инэилис, яряб, фарс вя чин дили, 
-тядрис инэилис дилиндя) 
-Я 200 
-158396 Политолоэийа (тядрис инэилис дилиндя) Я 200 
-158411 Биолоэийа мцяллимлийи Я 200 
-158428 Кимйа мцяллимлийи Я 200 
-158436 Кимйа вя биолоэийа мцяллимлийи Я 200 
-158444 Психолоэийа (тядрис инэилис дилиндя) Я 200 
-**158452 Дизайн (тядрис инэилис дилиндя) Я 7/50 
-Бакы Аврасийа Университети 
-162153 Игтисадиййат Г 200 
-162242 Тяръцмя (яряб дили) Я 361 
-Бакы Гызлар Университети 
-163117 Рийазиййат вя информатика мцяллимлийи Я 240 
-163199 Психолоэийа Я 200 
-"Одлар Йурду" Университети 
-164113 Компцтер мцщяндислийи Я 200 
-164138 Еколоэийа мцщяндислийи Я 200 
-164154 Бейнялхалг мцнасибятляр Я 200 
-164179 Дцнйа игтисадиййаты Я 200 
-164195 Мцщасибат учоту вя аудит Я 200 
-164227 Малиййя Я 200 
-164243 Менеъмент Я 200 
-164284 Бизнесин идаря едилмяси Я 200 
-164316 Дювлят вя бялядиййя идаряетмяси Я 200 
-164413 Психолоэийа Я 200 
-164438 Биолоэийа Я 200 
-**164446 Дизайн Я 7/50 
-Бакы Бизнес Университети 
-165118 Дцнйа игтисадиййаты Я 200 
-165134 Малиййя Я 200 
-165159 Игтисадиййат Я 200 
-165167 Игтисадиййат (тядрис инэилис дилиндя) Я 200 
-165175 Сянайенин тяшкили вя идаря олунмасы Я 200 
-165183 Менеъмент Я 200 
-165215 Бизнесин идаря едилмяси Я 200 
-165223 Дювлят вя бялядиййя идаряетмяси Я 200 
-"Нахчыван" Университети (Нахчыван шящяри) 
-168115 Рийазиййат вя информатика мцяллимлийи Я 200 
-168123 Информатика мцяллимлийи Я 200 
-168148 Бейнялхалг мцнасибятляр Я 200 
-168156 Мцщасибат учоту вя аудит Я 200 
-168172 Игтисадиййат Я 200 
-168212 Хариъи дил мцяллимлийи (инэилис дили) Я 202 
-168237 Филолоэийа (алман дили вя ядябиййаты) Я 200 
-168245 Диншцнаслыг Я 200 (451) 
-Коду Ихтисасын ады Тящ. 
-фор. 
-кечид    
-балы 
- Коду Ихтисасын ады Тящ. 
-фор. 
-кечид    
-балы 
- 
-12 Азярбайъан бюлмяси 
-168253 Кимйа вя биолоэийа мцяллимлийи Я 200 
-Азярбайъан Ямяк вя Сосиал Мцнасибятляр 
-Академийасы 
-171111 Мцщасибат учоту вя аудит Я 200 
-171136 Малиййя Я 200 
-171152 Игтисадиййат Я 200 
-171169 Дювлят вя бялядиййя идаряетмяси Я 200 
- 
-	bakalavr_esas_qrup_1_AZ
-	bakalavr_esas_qrup_2_AZ
-	bakalavr_esas_qrup_3_AZ
-	bakalavr_esas_qrup_4_az
-	bakalavr_esas_qrup_5_AZ
-	bakalavr_elave_AZ
-[[I]]
-
-
+[[III]]
 
 [Bakı Dövlət Universiteti]
 
-
-
-111114 Fizika müəllimliyi Ə 444 (444)
-
-111139 Riyaziyyat müəllimliyi Ə 524 (524) 
-
-111155 İnformatika müəllimliyi Ə 270 (377) 
-
-111171 Riyaziyyat Ə 323 (498) 
-
-111188 Riyaziyyat Q 275 ( - ) 
-
-111211 Riyaziyyat (tədris ingilis dilində) Ə 538 (538) 
-
-111228 Mexanika Ə 277 (450) 
-
-111244 Fizika Ə 284 (406) 
-
-111269 Fizika (tədris ingilis dilində) Ə 413 (413) 
-
-111277 Geologiya Ə 250 (381) 
-
-111285 Geologiya Q 250 ( - ) 
-
-111317 Kompüter elmləri Ə 334 (550) 
-
-111325 Kompüter elmləri Q 300 ( - ) 
-
-111341 Kompüter elmləri (tədris ingilis dilində) Ə 621 (621) 
-
-111358 Geologiya mühəndisliyi Ə 250 (437) 
-
-111366 Geologiya mühəndisliyi Q 200 ( - ) 
-
-111382 Hidrogeologiya mühəndisliyi Ə 249 (355) 
-
-111399 Hidrogeologiya mühəndisliyi Q 200 (367) 
-
-111414 Geofizika mühəndisliyi Ə 248 (419) 
-
-111422 Geofizika mühəndisliyi Q 200 ( - ) 
-
-111439 Geodeziya və xəritəçilik mühəndisliyi Ə 325 (325) 
-
-111447 Kimya mühəndisliyi Ə 299 (573) 
-
-111455 Torpaqşünaslıq və aqrokimya Ə 325 (325) 
-
-111463 Torpaqşünaslıq və aqrokimya Q 200 (258) 
-
-111488 Yer quruluşu, torpaq və şəhər kadastrı Ə 345 (345) 
-
-111496 Yer quruluşu, torpaq və şəhər kadastrı Q 200 (310) 
-
-112768 Fizika müəllimliyi (Qazax filialı) Ə 200 ( - ) 
-
-112776 Riyaziyyat və informatika müəllimliyi (Qazax filialı) Ə 210 (528)
-
-112784 Riyaziyyat müəllimliyi (Qazax filialı) Ə 200 ( - ) 
-
-
-
-[Azərbaycan Dövlət Neft və Sənaye Universiteti]
-
-
-
-114111 Geologiya Ə 314 (382) 
-
-114128 Kompüter elmləri Ə 550 (550) 
-
-114144 Kompüter elmləri (tədris ingilis dilində) Ə 607 (607) 
-
-114152 Materialşünaslıq mühəndisliyi Ə 325 (325) 
-
-114169 Geologiya mühəndisliyi Ə 272 (431) 
-
-114177 Geologiya mühəndisliyi (tədris ingilis dilində) Ə 440 (440)
-
-114185 Hidrogeologiya mühəndisliyi Ə 247 (356) 
-
-114193 Geofizika mühəndisliyi Ə 298 (419) 
-
-114225 Geofizika mühəndisliyi (tədris ingilis dilində) Ə 200 (423)
-
-114233 Dağ-mədən mühəndisliyi Ə 246 (344) 
-
-114241 Neft-qaz mühəndisliyi Ə 355 (595) 
-
-114258 Neft-qaz mühəndisliyi Q 258 ( - ) 
-
-114274 Neft-qaz mühəndisliyi (tədris ingilis dilində) Ə 604 (604)
-
-114282 Neft-qaz qurğuları mühəndisliyi Ə 324 (522) 
-
-114299 Neft-qaz qurğuları mühəndisliyi Q 217 ( - ) 
-
-114322 Elektroenergetika mühəndisliyi Ə 452 (452) 
-
-114347 Elektroenergetika mühəndisliyi (tədris ingilis dilində) Ə 367 (431)
-
-114355 İstilik energetikası mühəndisliyi Ə 281 (360) 
-
-114363 Enerji maşınqayırması mühəndisliyi Ə 349 (349) 
-
-114388 Cihazqayırma mühəndisliyi Ə 265 (402)
-
-
-
-
-
- I груп, Азярбайъан бюлмяси 51
-
-114411 Cihazqayırma mühəndisliyi (tədris ingilis dilində) Ə 200 (402)
-
-114428 Texnoloji maşın və avadanlıqlar mühəndisliyi Ə 374 (374)
-
-114436 Texnoloji maşın və avadanlıqlar mühəndisliyi Q 200 (349)
-
-114452 Elektrik mühəndisliyi Ə 413 (413) 
-
-114477 Elektronika, telekommunikasiya və radiotexnika mühəndisliyi Ə 485 (485)
-
-114493 Elektronika, telekommunikasiya və radiotexnika mühəndisliyi (tədris ingilis dilində) Ə 484 (484)
-
-114517 Proseslərin avtomatlaşdırılması mühəndisliyi Ə 530 (530)
-
-114533 Proseslərin avtomatlaşdırılması mühəndisliyi (tədris ingilis dilində) Ə 594 (594)
-
-114541 Mexatronika və robototexnika mühəndisliyi Ə 200 ( - )
-
-114558 Mexatronika və robototexnika mühəndisliyi (tədris ingilis dilində) Ə 554 (554)
-
-114566 Mexanika mühəndisliyi Ə 292 (443) 
-
-114574 Kompüter mühəndisliyi Ə 546 (546) 
-
-114582 Kompüter mühəndisliyi Q 245 (548) 
-
-114614 Kompüter mühəndisliyi (tədris ingilis dilində) Ə 600 (600)
-
-114622 Kimya mühəndisliyi Ə 272 (551) 
-
-114647 Kimya mühəndisliyi (tədris ingilis dilində) Ə 584 (584) 
-
-114655 Təkrar emal və bərpa texnologiyaları mühəndisliyi Ə 269 (329)
-
-114663 Metrologiya, standartlaşdırma və sertifikasiya mühəndisliyi Ə 242 (439)
-
-114688 Metrologiya, standartlaşdırma və sertifikasiya mühəndisliyi (tədris ingilis dilində) Ə 200 (440)
-
-114696 Biotibbi texnologiya mühəndisliyi Ə 437 (437) 
-
-114728 Biotibbi texnologiya mühəndisliyi (tədris ingilis dilində) Ə 200 (417)
-
-114736 Ekologiya mühəndisliyi Ə 372 (372) 
-
-114752 Ekologiya mühəndisliyi (tədris ingilis dilində) Ə 200 (338)
-
-114769 Fövqəladə hallar və həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi Ə 453 (453)
-
-114777 İnformasiya texnologiyaları Ə 546 (546) 
-
-114793 İnformasiya texnologiyaları (tədris ingilis dilində) Ə 588 (588)
-
-114817 Sistem mühəndisliyi Ə 247 (559) 
-
-114825 Sistem mühəndisliyi (tədris ingilis dilində) Ə 617 (617) 
-
-114833 Sistem mühəndisliyi (tədris ingilis dilində) Ə 629 (629) Azərbaycan Texniki Universiteti
-
-116112 Silah və silah sistemlərinin istehsal texnologiyası Ə 494 (494)
-
-116137 Optotexnika Ə 345 (345) 
-
-116145 Pirotexniki vasitələrin texnologiyası Ə 326 (326) 
-
-116153 Çoxkanallı radiorele və troposfer rabitəsinin yerüstü aparatlarının hazırlanması, istismarı və təmiri Ə 360 (360)
-
-116161 Kompozisiya materiallarından müdafiə təyinatlı məmulatların layihələndirilməsi və istehsalı Ə 314 (314)
-
-116178 İnformasiya təhlükəsizliyi Ə 471 (471) 
-
-116186 Kompüter elmləri Ə 300 ( - ) 
-
-116194 Materialşünaslıq mühəndisliyi Ə 200 (320) 
-
-116218 Dağ-mədən mühəndisliyi Ə 218 (347) 
-
-116226 Elektroenergetika mühəndisliyi Ə 241 (402) 
-
-116234 İstilik energetikası mühəndisliyi Ə 230 (360) 
-
-116242 İstilik energetikası mühəndisliyi Q 200 ( - ) 
-
-116259 Enerji maşınqayırması mühəndisliyi Ə 212 (347) 
-
-116267 Metallurgiya mühəndisliyi Ə 213 (306) 
-
-116283 Maşın mühəndisliyi Ə 312 (312) 
-
-116291 Maşın mühəndisliyi Q 200 ( - ) 
-
-116323 Dəmiryol nəqliyyatı və təsərrüfatı mühəndisliyi Ə 244 (325)
-
-116331 Yerüstü nəqliyyat vasitələrinin mühəndisliyi Ə 254 (338)
-
-116348 Yerüstü nəqliyyat vasitələrinin mühəndisliyi Q 200 (339)
-
-116356 Nəqliyyatda daşınmaların və idarəetmənin təşkili mühəndisliyi Ə 291 (360)
-
-116372 Cihazqayırma mühəndisliyi Ə 214 ( - ) 
-
-116389 Texnoloji maşın və avadanlıqlar mühəndisliyi Ə 210 (352)
-
-116397 Elektrik mühəndisliyi Ə 236 (375) 
-
-116412 Elektrik mühəndisliyi Q 200 (392) 
-
-116429 Elektronika, telekommunikasiya və radiotexnika mühəndisliyi Ə 250 (402)
-
-116437 Elektronika, telekommunikasiya və radiotexnika mühəndisliyi Q 250 ( - )
-
-116461 Proseslərin avtomatlaşdırılması mühəndisliyi Ə 248 (517)
-
-116478 Proseslərin avtomatlaşdırılması mühəndisliyi Q 200 ( - )
-
-116494 Mexanika mühəndisliyi Ə 230 (445) 
-
-116518 Kompüter mühəndisliyi Ə 277 (538)
-
-116526 Kompüter mühəndisliyi Q 214 ( - ) 
-
-116542 Poliqrafiya mühəndisliyi Ə 223 (317) 
-
-116559 Təkrar emal və bərpa texnologiyaları mühəndisliyi Ə 202 (329)
-
-116567 Metrologiya, standartlaşdırma və sertifikasiya mühəndisliyi Ə 241 ( - )
-
-116583 Biotibbi texnologiya mühəndisliyi Ə 241 (414) 
-
-116591 Biotibbi texnologiya mühəndisliyi Q 200 ( - ) 
-
-116615 Ekologiya mühəndisliyi Ə 263 (336) 
-
-116623 Fövqəladə hallar və həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi Ə 266 (445)
-
-116631 İnformasiya texnologiyaları Ə 270 (512) 
-
-116648 İnformasiya texnologiyaları Q 250 ( - ) 
-
-116664 Sistem mühəndisliyi Ə 248 ( - )
-
-
-
-[Azərbaycan Memarlıq və İnşaat Universiteti]
-
-
-
-118113 Materialşünaslıq mühəndisliyi Ə 217 (322) 
-
-118121 Neft-qaz qurğuları mühəndisliyi Ə 254 ( - ) 
-
-118138 Yerüstü nəqliyyat vasitələrinin mühəndisliyiƏ 246 (340)
-
-118146 Texnoloji maşın və avadanlıqlar mühəndisliyiƏ 211 (350)
-
-118154 Elektrik mühəndisliyi Ə 258 (375) 
-
-118162 Proseslərin avtomatlaşdırılması mühəndisliyi Ə 242 ( - )
-
-118179 Mexanika mühəndisliyi Ə 234 ( - ) 
-
-118187 İnşaat mühəndisliyi Ə 255 (411) 
-
-118195 İnşaat mühəndisliyi Q 250 ( - ) 
-
-118227 İnşaat mühəndisliyi (tədris ingilis dilində) Ə 465 (465) 
-
-118235 Mühəndis sistemlərinin və qurğularının tikintisi mühəndisliyi Ə 218 (331)
-
-118243 Mühəndis sistemlərinin və qurğularının tikintisi mühəndisliyi Q 200 ( - )
-
-118268 Nəqliyyat tikintisi mühəndisliyi Ə 250 (337) 
-
-118276 Nəqliyyat tikintisi mühəndisliyi Q 250 ( - ) 
-
-118292 Meliorasiya və su təsərrüfatı tikintisi mühəndisliyi Ə 236 (311)
-
-118316 Meliorasiya və su təsərrüfatı tikintisi mühəndisliyi Q 200 (351)
-
-118332 Tikinti materialları və məmulatlarının texnologiyası mühəndisliyi Ə 211 (318)
-
-118349 Geodeziya və xəritəçilik mühəndisliyi Ə 219 (322) 
-
-118357 Metrologiya, standartlaşdırma və sertifikasiya mühəndisliyi Ə 234 ( - )
-
-118365 Ekologiya mühəndisliyi Ə 226 (336) 
-
-118381 Ekologiya mühəndisliyi (tədris ingilis dilində) Ə 200 ( - )
-
-118398 Fövqəladə hallar və həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi Ə 255 (445)
-
-118413 İnformasiya texnologiyaları Ə 268 (513) 
-
-118438 İnformasiya texnologiyaları (tədris ingilis dilində) Ə 250 (513)
-
-118446 Yer quruluşu, torpaq və şəhər kadastrı Ə 322 (322) 
-
-*118454 Memarlıq Ə 200 (329) 
-
-*118479 Memarlıq (tədris ingilis dilində) Ə 378 (378) 
-
-118584 Şəhərsalma Ə 332 (332) Azərbaycan Dövlət Pedaqoji Universiteti
-
-122114 Fizika müəllimliyi Ə 367 (426) 
-
-122139 Riyaziyyat və informatika müəllimliyi Ə 476 (476) 
-
-122155 Riyaziyyat müəllimliyi Ə 433 (433) 
-
-122163 Texnologiya müəllimliyi Ə 258 (330) 
-
-122171 İnformatika müəllimliyi Ə 278 (379) 
-
-122463 Riyaziyyat və informatika müəllimliyi (Şamaxı filialı) Ə 252 (438)
-
-122528 Riyaziyyat və informatika müəllimliyi (Şəki filialı) Ə 305 (429)
-
-122617 Riyaziyyat və informatika müəllimliyi (Ağcabədi filialı) Ə 237 (479)
-
-122714 Riyaziyyat və informatika müəllimliyi (Quba filialı) Ə 335 (428)
-
-
+111982 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 541 (541)
+112119 Tarix müəllimliyi Ə 536 (536) 
+112135 Korreksiyaedici təlim Ə 309 (403) 
+112143 Təhsildə sosial-psixoloji xidmət Ə 492 (492) 
+112168 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 444 (613) 
+112176 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 361 ( - ) 
+112184 Filologiya (alman dili və ədəbiyyatı) Ə 200 ( - ) 
+112192 Filologiya (fransız dili və ədəbiyyatı) Ə 200 ( - ) 
+112216 Filologiya (ərəb dili və ədəbiyyatı) Ə 334 (672) 
+112224 Filologiya (fars dili və ədəbiyyatı) Ə 310 ( - ) 
+112232 Filologiya (türk dili və ədəbiyyatı) Ə 332 ( - ) 
+112265 Fəlsəfə Ə 387 (488) 
+112273 Tərcümə (fars dili üzrə) Ə 251 ( - ) 
+112281 Tərcümə (ərəb dili üzrə) Ə 293 ( - ) 
+112298 Kitabşünaslıq Ə 316 (399) 
+112313 Tarix Ə 473 (567) 
+112321 Tarix Q 421 ( - ) 
+112346 Tarix (tədris ingilis dilində) Ə 586 (586) 
+112354 Antropologiya Ə 442 (480) 
+112362 Politologiya Ə 467 (632) 
+112387 Hüquqşünaslıq Ə 568 (674) 
+112395 Hüquqşünaslıq Q 509 (676) 
+112435 Hüquqşünaslıq (tədris ingilis dilində) Ə 671 (675) 
+112443 Kitabxanaçılıq və informasiya Ə 296 (406) 
+112451 Kitabxanaçılıq və informasiya Q 295 (412) 
+112476 Kitabxanaçılıq və informasiya (tədris ingilis dilində) Ə 200 (408)
+112484 Dövlət və ictimai münasibətlər Ə 503 (667) 
+112492 Sosial iş Ə 520 (520) 
+112516 Jurnalistika Ə 285 (396) 
+112524 Jurnalistika Q 232 ( - ) 
+112549 Jurnalistika (tədris ingilis dilində) Ə 410 (410) 
+112849 Azərbaycan dili və ədəbiyyatı müəllimliyi (Qazax filialı) Ə 301 (517)
+112857 Tarix müəllimliyi (Qazax filialı) Ə 296 ( - ) 
+112865 İbtidai sinif müəllimliyi (Qazax filialı) Ə 270 (462) 
+112873 Məktəbəqədər təlim və tərbiyə (Qazax filialı) Ə 210 (387)
+112881 Tarix (Qazax filialı) Ə 267 ( - ) 
+112898 Tarix (Qazax filialı) Q 211 ( - ) 
+112913 Sosial iş (Qazax filialı) Ə 256 ( - ) 
+112921 Sosial iş (Qazax filialı) Q 224 ( - ) 
+
+[Azərbaycan Dövlət Pedaqoji Universiteti]
+
+122228 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 412 (515)
+122236 Xarici dil müəllimliyi (fransız dili) Ə 314 ( - ) 
+122244 Xarici dil müəllimliyi (ingilis dili) Ə 434 ( - ) 
+122252 Tarix müəllimliyi Ə 408 (515) 
+122277 İbtidai sinif müəllimliyi Ə 405 (427) 
+122293 Korreksiyaedici təlim Ə 305 (403) 
+122317 Məktəbəqədər təlim və tərbiyə Ə 334 (387) 
+122333 Təhsildə sosial-psixoloji xidmət Ə 333 (473) 
+122358 Sosial iş Ə 416 (513) 
+122488 Azərbaycan dili və ədəbiyyatı müəllimliyi (Şamaxı filialı) Ə 327 ( - )
+122496 İbtidai sinif müəllimliyi (Şamaxı filialı) Ə 283 ( - ) 
+122511 Məktəbəqədər təlim və tərbiyə (Şamaxı filialı) Ə 238 (411)
+122544 Azərbaycan dili və ədəbiyyatı müəllimliyi (Şəki filialı) Ə 346 (518)
+122552 Xarici dil müəllimliyi (ingilis dili, Şəki filialı) Ə 304 ( - )
+122569 Xarici dil müəllimliyi (fransız dili, Şəki filialı) Ə 214 ( - )
+122577 İbtidai sinif müəllimliyi (Şəki filialı) Ə 290 (439) 
+122585 Məktəbəqədər təlim və tərbiyə (Şəki filialı)
+122593 Təhsildə sosial-psixoloji xidmət (Şəki filialı) Ə 273 (488)
+122633 Azərbaycan dili və ədəbiyyatı müəllimliyi (Ağcabədi filialı) Ə 321 (515)
+122641 İbtidai sinif müəllimliyi (Ağcabədi filialı) Ə 283 ( - ) 
+122658 Məktəbəqədər təlim və tərbiyə (Ağcabədi filialı) Ə 223 ( - )
+122674 Azərbaycan dili və ədəbiyyatı müəllimliyi (Cəlilabad filialı) Ə 314 (515)
+122682 İbtidai sinif müəllimliyi (Cəlilabad filialı) Ə 244 (439) 
+122699 Məktəbəqədər təlim və tərbiyə (Cəlilabad filialı) Ə 200 ( - )
+122739 Azərbaycan dili və ədəbiyyatı müəllimliyi (Quba filialı) Ə 337 (527)
+122747 İbtidai sinif müəllimliyi (Quba filialı) Ə 274 (433) 
+122755 Məktəbəqədər təlim və tərbiyə (Quba filialı) Ə 226 (397)
+122763 Təhsildə sosial-psixoloji xidmət (Quba filialı) Ə 248 ( - )
+
+[Azərbaycan Dillər Universiteti]
+
+126295 Dil və ədəbiyyat müəllimliyi (ingilis dili üzrə) Ə 625 (625)
+126319 Dil və ədəbiyyat müəllimliyi (alman dili üzrə) Ə 349 (421)
+126327 Dil və ədəbiyyat müəllimliyi (fransız dili üzrə) Ə 335 (438)
+126335 Xarici dil müəllimliyi (ingilis dili) Ə 395 (555) 
+126343 Xarici dil müəllimliyi (alman dili) Ə 357 (579) 
+126351 Xarici dil müəllimliyi (fransız dili) Ə 348 (557) 
+126392 Filologiya (ingilis dili və ədəbiyyatı) Ə 518 (607) 
+126416 Filologiya (alman dili və ədəbiyyatı) Ə 377 ( - ) 
+126424 Filologiya (fransız dili və ədəbiyyatı) Ə 352 ( - ) 
+126432 Filologiya (ispan dili və ədəbiyyatı) Ə 359 ( - ) 
+126449 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 421 ( - ) 
+126457 Tərcümə (Azərbaycan dili-ingilis dili) Ə 614 (614) 
+126465 Tərcümə (Azərbaycan dili-ispan dili) Ə 466 (602) 
+126473 Tərcümə (Azərbaycan dili-alman dili) Ə 200 ( - ) 
+126481 Tərcümə (Azərbaycan dili-fransız dili) Ə 248 ( - ) 
+126498 Tərcümə (Azərbaycan dili-italyan dili) Ə 511 (602) 
+126513 Tərcümə (Koreya dili-Azərbaycan dili-Koreya dili) Ə 455 (601)
+126562 Jurnalistika (tədris ingilis dilində) Ə 200 (419) Bakı Slavyan Universiteti
+127186 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 402 (515) 
+127218 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 390 (562) 
+127226 Xarici dil müəllimliyi (alman dili üzrə) Ə 324 ( - ) 
+127234 Xarici dil müəllimliyi (fransız dili üzrə) Ə 314 ( - ) 
+127259 Xarici dil müəllimliyi (rus dili üzrə) Ə 288 (561) 
+127267 İbtidai sinif müəllimliyi Ə 394 (427) 
+127283 Məktəbəqədər təlim və tərbiyə Ə 364 (387) 
+127315 Təhsildə sosial-psixoloji xidmət Ə 370 (478) 
+127331 Filologiya (ingilis dili və ədəbiyyatı) Ə 377 ( - ) 
+127348 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 385 ( - ) 
+127356 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 356 ( - ) 
+127397 Tərcümə (ingilis dili) Ə 435 (605) 
+127412 Tərcümə (bolqar dili) Ə 200 ( - ) 
+127429 Tərcümə (yunan dili) Ə 203 ( - ) 
+127445 Tərcümə (Azərbaycan-rus dilləri) Ə 272 ( - ) 
+127453 Jurnalistika Ə 326 (401)
+
+[Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası]
+
+129243 Politologiya Ə 647 (647)
+129268 Hüquqşünaslıq Ə 675 (675) 
+
+["ADA" Universiteti]
+
+131179 Dövlət və ictimai münasibətlər (tədris ingilis dilində) Ə 472
+
+[Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti]
+
+134135 Kitabxanaçılıq və informasiya Ə 285 ( - )
+134143 Muzeyşünaslıq, arxiv işi və abidələrin qorunması Ə 280 (413)
+134168 Sənətşünaslıq Ə 288 (375) 
+134184 Teatrşünaslıq Ə 262 (377) 
+134192 Bədii yaradıcılıq və ekran dramaturgiyası Ə 294 (443) 
+134224 Kinoşünaslıq Ə 276 (389) 
+134232 Sosial iş Ə 344 ( - )
+
+[Azərbaycan Dövlət Rəssamlıq Akademiyası]
+
+135123 Sənətşünaslıq Ə 236 (380)
+135131 Sənətşünaslıq Q 211 (402)
+
+[Azərbaycan Turizm və Menecment Universiteti]
+
+136258 Tərcümə (ingilis dili-Azərbaycan dili) Ə 351 (603)
+136266 Muzeyşünaslıq, arxiv işi və abidələrin qorunması Ə 276 (400)
+136274 Sosial iş Ə 429 (514) 
+
+[Bakı Xoreoqrafiya Akademiyası]
+
+136533 Sənətşünaslıq (səhnəqrafiya tarixi) Ə 224 ( - )
+136541 Sənətşünaslıq (səhnəqrafiya tarixi) Q 205 ( - ) 
+136558 Teatrşünaslıq (balet tarixi) Ə 213 ( - ) 
+
+[Milli Aviasiya Akademiyası]
+
+138389 Hüquqşünaslıq Ə 564 ( - )
+
+[Azərbaycan Respublikası Dövlət Gömrük Komitəsinin Akademiyası]
+
+141522 Hüquqşünaslıq Ə 561 ( - )
+
+[Naxçıvan Dövlət Universiteti]
+
+142373 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 361 (519)
+142381 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 451 (557) 
+142398 Xarici dil müəllimliyi (fransız dili üzrə) Ə 277 ( - ) 
+142413 Xarici dil müəllimliyi (alman dili üzrə) Ə 200 ( - ) 
+142421 Xarici dil müəllimliyi (rus dili üzrə) Ə 255 ( - ) 
+142438 Tarix müəllimliyi Ə 405 (521) 
+142446 Tərcümə (ərəb dili-Azərbaycan dili) Ə 200 ( - ) 
+142454 Tərcümə (ingilis dili-Azərbaycan dili) Ə 370 (670) 
+142462 Hüquqşünaslıq Ə 542 (682) 
+142479 Hüquqşünaslıq Q 488 ( - ) 
+142487 Kitabxanaçılıq və informasiya Ə 200 (422) 
+142495 Muzeyşünaslıq, arxiv işi və abidələrin qorunması Ə 277 (403)
+142519 Sosial iş Ə 309 (512) 
+142527 Jurnalistika Ə 200 (425) 
+
+[Naxçıvan Müəllimlər İnstitutu]
+
+143126 İbtidai sinif müəllimliyi Ə 200 (431)
+143134 Məktəbəqədər təlim və tərbiyə Ə 200 (392) 
+143142 Təhsildə sosial-psixoloji xidmət Ə 200 (493) 
+143159 Kitabxanaçılıq və informasiya Ə 200 ( - ) 
+
+[Gəncə Dövlət Universiteti]
+
+145346 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 339 (515)
+145354 Xarici dil müəllimliyi (ingilis dili) Ə 338 (561) 
+145362 Xarici dil müəllimliyi (rus dili) Ə 262 ( - ) 
+145379 Xarici dil müəllimliyi (alman dili) Ə 244 ( - ) 
+145387 Xarici dil müəllimliyi (fransız dili) Ə 241 ( - ) 
+145419 Tarix müəllimliyi Ə 353 (515) 
+145427 İbtidai sinif müəllimliyi Ə 431 (431) 
+145443 Məktəbəqədər təlim və tərbiyə Ə 284 (389) 
+145451 Təhsildə sosial-psixoloji xidmət Ə 293 (473) 
+145468 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 314 ( - ) 
+145476 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 279 ( - ) 
+145484 Tərcümə (ingilis dili) Ə 265 ( - ) 
+145492 Tarix Ə 354 ( - ) 
+145516 Tarix Q 305 (612) 
+145524 Sosial iş Ə 315 (514) 
+145532 Sosial iş Q 265 ( - )
+
+[Sumqayıt Dövlət Universiteti]
+
+148562 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 350 ( - )
+148579 Xarici dil müəllimliyi (ingilis dili) Ə 363 ( - ) 
+148587 Tarix müəllimliyi Ə 360 ( - ) 
+148595 İbtidai sinif müəllimliyi Ə 341 (450) 
+148619 Məktəbəqədər təlim və tərbiyə Ə 308 (388) 
+148627 Təhsildə sosial-psixoloji xidmət Ə 313 ( - ) 
+148635 Təhsildə sosial-psixoloji xidmət Q 293 ( - ) 
+148643 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 341 ( - ) 
+148651 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 328 ( - ) 
+148668 Tarix Ə 383 ( - ) 
+148676 Tarix Q 322 ( - ) 
+148684 Politologiya Ə 338 ( - )
+
+[Mingəçevir Dövlət Universiteti]
+
+149348 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 356 (518)
+149356 Xarici dil müəllimliyi (ingilis dili) Ə 345 (555) 
+149364 İbtidai sinif müəllimliyi Ə 298 (428) 
+149372 Məktəbəqədər təlim və tərbiyə Ə 242 (386) 
+
+[Lənkəran Dövlət Universiteti]
+
+151315 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 331 (519)
+151323 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 313 (561) 
+151331 İbtidai sinif müəllimliyi Ə 256 (441) 
+151348 Məktəbəqədər təlim və tərbiyə Ə 200 (387) 
+151356 Təhsildə sosial-psixoloji xidmət Ə 239 (501) 
+151364 Tərcümə (ingilis dili üzrə) Ə 200 ( - ) 
+151372 Muzeyşünaslıq, arxiv işi və abidələrin qorunması Ə 221 (429)
+
+[Azərbaycan Kooperasiya Universiteti]
+
+152377 Tərcümə (ingilis dili) Q 206
+152385 Tərcümə (ingilis dili) Ə 203 
+
+[Bakı İslam Universiteti]
+
+154118 Dinşünaslıq Ə 100
+154126 Dinşünaslıq Q 100 
+
+["Azərbaycan" Universiteti]
+
+155269 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 235 ( - )
+155277 Tərcümə (ingilis dili) Ə 209 ( - ) 
+155293 Tarix Ə 258 ( - ) 
+155317 Sosial iş Ə 232 ( - ) 
+
+[Qərb Universiteti]
+
+157415 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 237 ( - )
+157423 Filologiya (ingilis dili və ədəbiyyatı) Ə 226 ( - ) 
+157431 Fəlsəfə Ə 200 ( - ) 
+157448 Tərcümə (ingilis, alman, fransız, çin) Ə 247 ( - ) 
+157456 Tarix Ə 237 ( - ) 
+157464 Tarix Q 240 ( - ) 
+157472 Politologiya Ə 227 ( - ) 
+157489 Politologiya Q 216 ( - ) 
+
+[Xəzər Universiteti]
+
+158322 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 200 (517)
+158339 Xarici dil müəllimliyi (ingilis dili, tədris ingilis dilində) Ə 200 (568)
+158347 Tarix müəllimliyi Ə 200 (523) 
+158355 İbtidai sinif müəllimliyi Ə 200 (427) 
+158363 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 200 ( - ) 
+158371 Filologiya (ingilis dili və ədəbiyyatı, tədris ingilis dilində) Ə 200 ( - )
+158388 Tərcümə (ingilis, ərəb, fars və çin dili, tədris ingilis dilində) Ə 200 (627)
+158396 Politologiya (tədris ingilis dilində) Ə 200 (639) 
+
+[Bakı Avrasiya Universiteti]
+
+162161 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 275 ( - )
+162178 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 277 ( - ) 
+162186 Filologiya (ingilis dili və ədəbiyyatı) Ə 221 ( - ) 
+162194 Filologiya (türk dili və ədəbiyyatı) Ə 217 ( - ) 
+162218 Tərcümə (ingilis dili) Ə 215 ( - ) 
+162226 Tərcümə (alman dili) Ə 202 ( - ) 
+162234 Tərcümə (fransız dili) Ə 201 ( - ) 
+162242 Tərcümə (ərəb dili) Ə 200 ( - ) 
+
+[Bakı Qızlar Universiteti]
+
+163133 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 256 ( - )
+163141 Xarici dil müəllimliyi (ingilis dili) Ə 253 ( - ) 
+163158 Tarix müəllimliyi Ə 227 ( - ) 
+163166 İbtidai sinif müəllimliyi Ə 228 (442) 
+163174 Məktəbəqədər təlim və tərbiyə Ə 205 ( - ) 
+163182 Təhsildə sosial-psixoloji xidmət Ə 207 ( - ) 
+
+["Odlar Yurdu" Universiteti]
+
+164357 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 265 ( - )
+164373 Filologiya (dil və ədəbiyyat göstərilməklə) Ə 216 ( - ) 
+164381 Tərcümə (ingilis dili üzrə) Ə 202 ( - ) 
+
+[Bakı Biznes Universiteti]
+
+165231 Tərcümə (ingilis dili) Ə 206 ( - )
+
+["Naxçıvan" Universiteti (Naxçıvan şəhəri)]
+
+168197 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 248 ( - )
+168212 Xarici dil müəllimliyi (ingilis dili) Ə 200 ( - )
+168229 Tarix müəllimliyi Ə 236 ( - ) 
+168237 Filologiya (alman dili və ədəbiyyatı) Ə 200 ( - ) 
+168245 Dinşünaslıq Ə 200 ( - ) 
+
+[Azərbaycan Əmək və Sosial Münasibətlər Akademiyası]
+
+171177 Sosial iş Ə 269 ( - )
+ 
+[[IV]]
+
+[Bakı Dövlət Universiteti]
+
+112557 Biologiya müəllimliyi Ə 426 (426) 
+112573 Kimya müəllimliyi Ə 348 (464) 
+112598 Psixologiya Ə 412 (470) 
+112621 Psixologiya (tədris ingilis dilində) Ə 471 (471) 
+112638 Kimya Ə 345 (496) 
+112654 Kimya (tədris ingilis dilində) Ə 480 (496) 
+112662 Biologiya Ə 333 (473) 
+112679 Biologiya Q 258 (493) 
+112695 Biologiya (tədris ingilis dilində) Ə 416 (482) 
+112719 Ekologiya Ə 353 (353) 
+112727 Ekologiya Q 200 (333) 
+112743 Ekologiya (tədris ingilis dilində) Ə 359 (359) 
+112751 Su bioehtiyatları və akvabitkilər Ə 312 (312) 
+112938 Kimya və biologiya müəllimliyi (Qazax filialı) Ə 200 ( - )
+
+[Azərbaycan Tibb Universiteti]
+
+121118 Əczaçılıq Ə 535 (535)
+121134 Müalicə işi Ə 545 (651) 
+121167 Tibbi profilaktika Ə 539 (591) 
+121183 Stomatologiya Ə 539 (641) 
+
+[Azərbaycan Dövlət Pedaqoji Universiteti]
+
+122366 Biologiya müəllimliyi Ə 277 (411) 
+122374 Kimya müəllimliyi Ə 276 (488) 
+122382 Kimya və biologiya müəllimliyi Ə 403 (420) 
 
 [Azərbaycan Dövlət İqtisad Universiteti]
 
+123784 Ekologiya Ə 266 (333)
 
-
-123119 Texnoloji maşın və avadanlıqlar mühəndisliyi Ə 289 (348)
-
-123135 Qida məhsulları mühəndisliyi Ə 374 (374) 
-
-123143 Qida məhsulları mühəndisliyi Q 200 (364) 
-
-123168 Çoxişlənən malların texnologiyası mühəndisliyi Ə 348 (360)
-
-123176 Çoxişlənən malların texnologiyası mühəndisliyi Q 200 (368)
-
-123184 İstehlak mallarının ekspertizası və marketinqi Ə 280 (398)
-
-123192 İstehlak mallarının ekspertizası və marketinqi Q 209 (416)
-
-123232 Metrologiya, standartlaşdırma və sertifikasiya mühəndisliyi Ə 205 (438)
-
-123249 Metrologiya, standartlaşdırma və sertifikasiya mühəndisliyi Q 200 ( - )
-
-123265 İnformasiya texnologiyaları Ə 520 (520) 
-
-123281 Sistem mühəndisliyi Ə 252 ( - ) 
-
-
-
-[Bakı Mühəndislik Universiteti]
-
-
-
-128117 Elektroenergetika mühəndisliyi Ə 200 (421) 
-
-128125 Maşın mühəndisliyi Ə 200 (323) 
-
-128133 Proseslərin avtomatlaşdırılması mühəndisliyi Ə 210 (520)
-
-128141 Mexanika mühəndisliyi Ə 200 (474) 
-
-128158 Mexanika mühəndisliyi (tədris ingilis dilində) Ə 557 (557)
-
-128166 Kompüter mühəndisliyi Ə 545 (545) 
-
-128174 Kompüter mühəndisliyi (tədris ingilis dilində) Ə 638 (638)
-
-128182 İnşaat mühəndisliyi Ə 250 (429) 
-
-128199 İnşaat mühəndisliyi (tədris ingilis dilində) Ə 250 (420) 
-
-128214 Mühəndis sistemlərinin və qurğularının tikintisi mühəndisliyi Ə 200 (330)
-
-128222 Kimya mühəndisliyi Ə 200 (579) 
-
-128239 Kimya mühəndisliyi (tədris ingilis dilində) Ə 447 (549) 
-
-128247 Ekologiya mühəndisliyi Ə 200 (336) 
-
-128255 Ekologiya mühəndisliyi (tədris ingilis dilində) Ə 200 ( - )
-
-128263 İnformasiya texnologiyaları Ə 390 (512) 
-
-128271 İnformasiya texnologiyaları (tədris ingilis dilində) Ə 618 (618)
-
-128288 Sistem mühəndisliyi Ə 218 (621) 
-
-128296 Sənaye mühəndisliyi Ə 200 (370) 
-
-128311 Sənaye mühəndisliyi (tədris ingilis dilində) Ə 200 (370) 
-
-128328 Logistika və nəqliyyat texnologiyaları 
-
-mühəndisliyi 
-
-Ə 224 (272) 
-
-128344 Şəhərsalma Ə 200 (325) 
-
-128369 Memarlıq Ə 200 (367) 
-
-128377 Memarlıq (tədris ingilis dilində) Ə 200 (372) 
-
-Azərbaycan Respublikası Prezidenti yanında 
-
-Dövlət İdarəçilik Akademiyası 
-
-129113 Kompüter elmləri Ə 642 (642) 
-
-"ADA" Universiteti 
-
-131113 Kompüter elmləri (tədris ingilis dilində) Ə 377 
-
-131121 Kompüter mühəndisliyi (tədris ingilis 
-
-dilində) 
-
-Ə 231 
-
-131138 İnformasiya texnologiyaları (tədris ingilis 
-
-dilində) 
-
-Ə 322 
-
-Azərbaycan Dövlət Rəssamlıq Akademiyası 
-
-*135115 Memarlıq Ə 200 ( - ) 
-
-Azərbaycan Turizm və Menecment Universiteti 
-
-136111 Qida məhsulları mühəndisliyi Ə 353 (353) 
-
-Milli Aviasiya Akademiyası 
-
-138112 Elektroenergetika mühəndisliyi Ə 329 (407) 
-
-138129 Avianəqliyyat istehsalatının təşkili 
-
-mühəndisliyi 
-
-Ə 317 (418) 
-
-138137 Aviasiya texnikası avadanlıqlarının 
-
-istismarı mühəndisliyi 
-
-Ə 466 (466) 
-
-138145 Aviasiya texnikası avadanlıqlarının 
-
-istismarı mühəndisliyi 
-
-Q 216 ( - ) 
-
-138161 Hava nəqliyyatının hərəkətinin idarə 
-
-olunması mühəndisliyi 
-
-Ə 347 (347) 
-
-138186 Uçuş mühəndisliyi Ə 336 (363) 
-
-138218 Hava nəqliyyatında texnoloji proseslərin 
-
-və istehsalatın təhlükəsizliyi mühəndisliyi 
-
-Ə 333 (426) 
-
-138234 Cihazqayırma mühəndisliyi Ə 369 (402) 
-
-138242 Elektronika, telekommunikasiya və 
-
-radiotexnika mühəndisliyi 
-
-Ə 487 (487) 
-
-138267 Proseslərin avtomatlaşdırılması 
-
-mühəndisliyi 
-
-Ə 200 (599) 
-
-138275 Kompüter mühəndisliyi Ə 539 (539) 
-
-138291 Ekologiya mühəndisliyi Ə 386 (386) 
-
-138323 Kosmik texnika mühəndisliyi Ə 334 (400) 
-
-138331 İnformasiya texnologiyaları Ə 513 (513) 
-
-138348 Sistem mühəndisliyi Ə 265 ( - ) 
-
-Azərbaycan Dövlət Dəniz Akademiyası 
-
-139117 Gəmiqayırma və gəmi təmiri mühəndisliyi Ə 347 (395) 
-
-139133 Gəmi energetik qurğularının istismarı 
-
-mühəndisliyi 
-
-Ə 339 (379) 
-
-139158 Dəniz naviqasiyası mühəndisliyi Ə 354 (453) 
-
-139174 Elektrik mühəndisliyi Ə 291 (378) 
-
-Bakı Ali Neft Məktəbi 
-
-141117 Neft-qaz mühəndisliyi (tədris ingilis 
-
-dilində) 
-
-Ə 663 (663) 
-
-141125 Proseslərin avtomatlaşdırılması 
-
-mühəndisliyi (tədris ingilis dilində) 
-
-Ə 685 (685) 
-
-141133 Kimya mühəndisliyi (tədris ingilis dilində) Ə 662 (662) 
-
-Naxçıvan Dövlət Universiteti 
-
-142113 Fizika müəllimliyi Ə 290 (429) 
-
-142121 Riyaziyyat və informatika müəllimliyi Ə 442 (442) 
-
-142138 Riyaziyyat müəllimliyi Ə 330 (405) 
-
-142146 Texnologiya müəllimliyi Ə 196 (339) 
-
-142154 Elektroenergetika mühəndisliyi Ə 202 (402) 
-
-142162 Dəmiryol nəqliyyatı və təsərrüfatı 
-
-mühəndisliyi 
-
-Ə 200 (337) 
-
-142179 Yerüstü nəqliyyat vasitələrinin 
-
-mühəndisliyi 
-
-Ə 204 (338) 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
- 
-
-54 I груп, Азярбайъан бюлмяси 
-
-142187 Yerüstü nəqliyyat vasitələrinin 
-
-mühəndisliyi 
-
-Q 200 ( - ) 
-
-142195 Meliorasiya və su təsərrüfatı tikintisi 
-
-mühəndisliyi 
-
-Ə 193 (318) 
-
-142219 Geodeziya və xəritəçilik mühəndisliyi Ə 200 (401) 
-
-142227 Ekologiya mühəndisliyi Ə 200 (358) 
-
-142235 İnformasiya texnologiyaları Ə 277 (523) 
-
-142243 Torpaqşünaslıq və aqrokimya Ə 236 (236) 
-
-*142251 Memarlıq Ə 100 ( - ) 
-
-Naxçıvan Müəllimlər İnstitutu 
-
-143118 Riyaziyyat və informatika müəllimliyi Ə 214 (429) 
-
-Azərbaycan Dövlət Aqrar Universiteti (Gəncə ş.) 
-
-144114 Maşın mühəndisliyi Ə 200 (308) 
-
-144122 Yerüstü nəqliyyat vasitələrinin 
-
-mühəndisliyi 
-
-Ə 205 (338) 
-
-144139 Yerüstü nəqliyyat vasitələrinin 
-
-mühəndisliyi 
-
-Q 200 ( - ) 
-
-144147 Elektrik mühəndisliyi Ə 200 (385) 
-
-144155 Elektrik mühəndisliyi Q 200 ( - ) 
-
-144163 Proseslərin avtomatlaşdırılması 
-
-mühəndisliyi 
-
-Ə 200 ( - ) 
-
-144171 Meliorasiya və su təsərrüfatı tikintisi 
-
-mühəndisliyi 
-
-Ə 294 (294) 
-
-144188 Meliorasiya və su təsərrüfatı tikintisi 
-
-mühəndisliyi 
-
-Q 232 (232) 
-
-144196 Qida məhsulları mühəndisliyi Ə 200 (365) 
-
-144211 İstehlak mallarının ekspertizası və 
-
-marketinqi 
-
-Ə 198 ( - ) 
-
-144236 Metrologiya, standartlaşdırma və 
-
-sertifikasiya mühəndisliyi 
-
-Ə 200 (469) 
-
-144244 İnformasiya texnologiyaları Ə 250 ( - ) 
-
-144252 Torpaqşünaslıq və aqrokimya Ə 254 (254) 
-
-144269 Torpaqşünaslıq və aqrokimya Q 206 (206) 
-
-144277 Aqronomluq Ə 236 (236) 
-
-144285 Aqronomluq Q 194 (194) 
-
-144317 Aqronomluq (tədris ingilis dilində) Ə 150 (153) 
-
-144325 Zootexniklik Ə 201 (201) 
-
-144333 Zootexniklik Q 188 (188) 
-
-144341 Yer quruluşu, torpaq və şəhər kadastrı Ə 200 (307) 
-
-144358 Aqromühəndislik Ə 238 (238) 
-
-144366 Aqromühəndislik Q 192 (192) 
-
-144382 Balıqçılıq və balıqçılıq təsərrüfatı işi Ə 194 (194) 
-
-144399 Meşəçilik Ə 206 (206) 
-
-Gəncə Dövlət Universiteti 
-
-145119 Fizika müəllimliyi Ə 237 (436) 
-
-145127 Riyaziyyat və informatika müəllimliyi Ə 339 (430) 
-
-145143 Riyaziyyat müəllimliyi Ə 233 (407) 
-
-145151 Texnologiya müəllimliyi Ə 199 (331) 
-
-145168 İnformatika müəllimliyi Ə 204 (380) 
-
-145176 Kompüter elmləri Ə 300 ( - ) 
-
-145184 Ekologiya mühəndisliyi Ə 200 (336) 
-
-Azərbaycan Texnologiya Universiteti (Gəncə ş.) 
-
-147111 Metallurgiya mühəndisliyi Ə 200 (316) 
-
-147128 Maşın mühəndisliyi Ə 200 ( - ) 
-
-147136 Nəqliyyatda daşınmaların və idarəetmənin 
-
-təşkili mühəndisliyi 
-
-Ə 199 (393) 
-
-147144 Nəqliyyatda daşınmaların və idarəetmənin 
-
-təşkili mühəndisliyi 
-
-Q 192 ( - ) 
-
-147152 Texnoloji maşın və avadanlıqlar 
-
-mühəndisliyi (yeyinti sənayesi üzrə) 
-
-Ə 200 ( - ) 
-
-147169 Elektronika, telekommunikasiya və 
-
-radiotexnika mühəndisliyi 
-
-Ə 250 (404) 
-
-147177 Proseslərin avtomatlaşdırılması 
-
-mühəndisliyi 
-
-Ə 200 ( - ) 
-
-147185 Kompüter mühəndisliyi Ə 202 ( - ) 
-
-147217 Kimya mühəndisliyi Ə 200 ( - ) 
-
-147225 Qida məhsulları mühəndisliyi Ə 200 (367) 
-
-147233 Çoxişlənən malların texnologiyası 
-
-mühəndisliyi 
-
-Ə 195 ( - ) 
-
-147241 İstehlak mallarının ekspertizası və 
-
-marketinqi 
-
-Ə 196 ( - ) 
-
-147258 Metrologiya, standartlaşdırma və 
-
-sertifikasiya mühəndisliyi 
-
-Ə 200 ( - ) 
-
-147266 Ekologiya mühəndisliyi Ə 200 (355) 
-
-147274 İnformasiya texnologiyaları Ə 250 ( - ) 
-
-Sumqayıt Dövlət Universiteti 
-
-148116 Fizika müəllimliyi Ə 262 ( - ) 
-
-148124 Riyaziyyat və informatika müəllimliyi Ə 301 (428) 
-
-148132 Riyaziyyat müəllimliyi Ə 265 (407) 
-
-148149 Riyaziyyat Ə 250 ( - ) 
-
-148157 Fizika Ə 250 ( - ) 
-
-148165 Neft-qaz mühəndisliyi Ə 222 ( - ) 
-
-148173 Neft-qaz mühəndisliyi Q 200 ( - ) 
-
-148181 Elektroenergetika mühəndisliyi Ə 201 ( - ) 
-
-148198 Elektroenergetika mühəndisliyi Q 200 ( - ) 
-
-148213 İstilik energetikası mühəndisliyi Ə 200 ( - ) 
-
-148221 İstilik energetikası mühəndisliyi Q 200 ( - ) 
-
-148238 Enerji maşınqayırması mühəndisliyi Ə 200 ( - ) 
-
-148246 Elektrik mühəndisliyi Ə 205 (379) 
-
-148254 Elektrik mühəndisliyi Q 200 ( - ) 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
- 
-
- I груп, Азярбайъан бюлмяси 55 
-
-148279 Proseslərin avtomatlaşdırılması 
-
-mühəndisliyi 
-
-Ə 202 ( - ) 
-
-148287 Proseslərin avtomatlaşdırılması 
-
-mühəndisliyi 
-
-Q 200 ( - ) 
-
-148295 Kompüter mühəndisliyi Ə 244 ( - ) 
-
-148319 Kompüter mühəndisliyi Q 200 ( - ) 
-
-148335 Kimya mühəndisliyi Ə 203 ( - ) 
-
-148343 Kimya mühəndisliyi Q 200 ( - ) 
-
-148368 Metrologiya, standartlaşdırma və 
-
-sertifikasiya mühəndisliyi 
-
-Ə 200 ( - ) 
-
-148376 Ekologiya mühəndisliyi Ə 200 (338) 
-
-148384 Ekologiya mühəndisliyi Q 200 ( - ) 
-
-148392 İnformasiya texnologiyaları Ə 250 ( - ) 
-
-Mingəçevir Dövlət Universiteti 
-
-149112 Riyaziyyat və informatika müəllimliyi Ə 308 (428) 
-
-149129 Riyaziyyat müəllimliyi Ə 282 (416) 
-
-149137 Elektroenergetika mühəndisliyi Ə 200 (444) 
-
-149145 İstilik energetikası mühəndisliyi Ə 200 (364) 
-
-149153 İstilik energetikası mühəndisliyi Q 200 ( - ) 
-
-149161 Yerüstü nəqliyyat vasitələrinin 
-
-mühəndisliyi 
-
-Ə 200 (348) 
-
-149178 Yerüstü nəqliyyat vasitələrinin 
-
-mühəndisliyi 
-
-Q 200 ( - ) 
-
-149186 Ekologiya mühəndisliyi Ə 200 (344) 
-
-149194 İnformasiya texnologiyaları Ə 250 ( - ) 
-
-Lənkəran Dövlət Universiteti 
-
-151112 Riyaziyyat və informatika müəllimliyi Ə 261 (438) 
-
-151129 Kompüter mühəndisliyi Ə 234 ( - ) 
-
-151137 Qida məhsulları mühəndisliyi Ə 200 (359) 
-
-151145 Torpaqşünaslıq və aqrokimya Ə 193 (256) 
-
-151153 Aqronomluq Ə 190 (252) 
-
-151161 Aqronomluq Q 188 ( - ) 
-
-151178 Meşəçilik Ə 187 (273) 
-
-Azərbaycan Kooperasiya Universiteti 
-
-152117 Riyaziyyat Ə 250 
-
-152125 Qida məhsulları mühəndisliyi Ə 200 ( - ) 
-
-152133 Çoxişlənən malların texnologiyası 
-
-mühəndisliyi 
-
-Ə 193 
-
-152141 İstehlak mallarının ekspertizası və 
-
-marketinqi 
-
-Ə 194 
-
-152158 Metrologiya, standartlaşdırma və 
-
-sertifikasiya mühəndisliyi 
-
-Ə 200 
-
-"Azərbaycan" Universiteti 
-
-155114 Riyaziyyat Ə 250 ( - ) 
-
-155122 Kompüter elmləri Ə 300 ( - ) 
-
-155139 Kompüter mühəndisliyi Ə 200 ( - ) 
-
-Qərb Universiteti 
-
-157115 Cihazqayırma mühəndisliyi Ə 200 ( - ) 
-
-157123 Elektronika, telekommunikasiya və 
-
-radiotexnika mühəndisliyi 
-
-Ə 250 ( - ) 
-
-157131 Mexatronika və robototexnika 
-
-mühəndisliyi 
-
-Ə 200 ( - ) 
-
-157148 Mexanika mühəndisliyi Ə 200 ( - ) 
-
-157156 Kompüter mühəndisliyi Ə 202 ( - ) 
-
-157164 Mühəndis sistemlərinin və qurğularının 
-
-tikintisi mühəndisliyi 
-
-Ə 200 ( - ) 
-
-157172 Meşə materiallarının və ağac emalının 
-
-texnologiyası mühəndisliyi 
-
-Ə 194 (269) 
-
-157189 İstehlak mallarının ekspertizası və 
-
-marketinqi 
-
-Ə 196 ( - ) 
-
-157197 Poliqrafiya mühəndisliyi Ə 195 ( - ) 
-
-157212 Təkrar emal və bərpa texnologiyaları 
-
-mühəndisliyi 
-
-Ə 200 ( - ) 
-
-157229 Ekologiya mühəndisliyi Ə 200 ( - ) 
-
-157237 İnformasiya texnologiyaları Ə 250 ( - ) 
-
-157245 Sistem mühəndisliyi Ə 200 ( - ) 
-
-157253 Yer quruluşu, torpaq və şəhər kadastrı Ə 200 ( - ) 
-
-157529 Meşəçilik Ə 191 ( - ) 
-
-157553 Memarlıq Ə 200 
-
-Xəzər Universiteti 
-
-158111 Fizika müəllimliyi Ə 200 (428) 
-
-158128 Riyaziyyat və informatika müəllimliyi Ə 200 (435) 
-
-158136 Kompüter elmləri (tədris ingilis dilində) Ə 562 (562) 
-
-158144 Neft-qaz mühəndisliyi (tədris ingilis 
-
-dilində) 
-
-Ə 200 (631) 
-
-158152 Elektronika, telekommunikasiya və 
-
-radiotexnika mühəndisliyi (tədris ingilis 
-
-dilində) 
-
-Ə 250 (405) 
-
-158169 Mexanika mühəndisliyi (tədris ingilis 
-
-dilində) 
-
-Ə 200 (460) 
-
-158177 Kompüter mühəndisliyi (tədris ingilis 
-
-dilində) 
-
-Ə 200 (541) 
-
-158185 İnşaat mühəndisliyi Ə 250 (435) 
-
-158193 Kimya mühəndisliyi (tədris ingilis dilində) Ə 200 (564) 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
- 
-
-56 I груп, Азярбайъан бюлмяси 
-
-Bakı Qızlar Universiteti 
-
-163117 Riyaziyyat və informatika müəllimliyi Ə 200 ( - ) 
-
-"Odlar Yurdu" Universiteti 
-
-164113 Kompüter mühəndisliyi Ə 200 ( - ) 
-
-164138 Ekologiya mühəndisliyi Ə 200 ( - ) 
-
-"Naxçıvan" Universiteti (Naxçıvan şəhəri) 
-
-168115 Riyaziyyat və informatika müəllimliyi Ə 200 ( - ) 
-
-168123 İnformatika müəllimliyi Ə 200 ( - ) 
-
- 
-
-50 II груп, Азярбайъан бюлмяси 
-
-2017/2018-ЪИ ТЯДРИС ИЛИ ЦЧЦН 
-
-II ГРУП ИХТИСАСЛАР 
-
-ЦЗРЯ МЦСАБИГЯ НЯТИЪЯЛЯРИНЯ ЭЮРЯ 
-
-АЛЫНМЫШ МИНИМАЛ КЕЧИД БАЛЛАРЫ 
-
- 
-
-1) Keçid balı sütununda mötərizə içərisində müvafiq ixtisas üzrə dövlət sifarişi əsasında qəbulun keçid balı 
-
-göstərilmişdir. 
-
-2) Keçid balı sütununda mötərizə içərisində tire ( – ) işarəsi göstərir ki, müvafiq ixtisasda dövlət sifarişi 
-
-əsasında təhsil almaq hüququ qazanmış abituriyent yoxdur. Təhsili yalnız ödənişli əsaslarla olan 
-
-ixtisasların qarşısında belə mötərizə göstərilməmişdir. 
-
- 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
-Bakı Dövlət Universiteti 
-
-111511 Coğrafiya müəllimliyi Ə 431 (459) 
-
-111536 Sosiologiya Ə 426 (439) 
-
-111552 Sosiologiya (tədris ingilis dilində) Ə 441 (441) 
-
-111569 Regionşünaslıq (Qafqaz üzrə) Ə 200 (471) 
-
-111577 Regionşünaslıq (Amerika üzrə) Ə 359 (464) 
-
-111585 Regionşünaslıq (ərəb ölkələri üzrə) Ə 200 ( - ) 
-
-111593 Regionşünaslıq (İran üzrə) Ə 200 ( - ) 
-
-111617 Regionşünaslıq (Türkiyə üzrə) Ə 305 (463) 
-
-111625 Regionşünaslıq (Yaponiya üzrə) Ə 200 (540) 
-
-111633 Regionşünaslıq (İsrail üzrə) Ə 268 ( - ) 
-
-111641 Regionşünaslıq (Pakistan üzrə) Ə 200 ( - ) 
-
-111658 Regionşünaslıq (Koreya üzrə) Ə 300 (475) 
-
-111739 Beynəlxalq münasibətlər Ə 254 (581) 
-
-111747 Beynəlxalq münasibətlər Q 235 ( - ) 
-
-111771 Beynəlxalq münasibətlər (tədris ingilis 
-
-dilində) 
-
-Ə 200 (586) 
-
-111788 Dünya iqtisadiyyatı Ə 322 (585) 
-
-111796 Dünya iqtisadiyyatı Q 257 ( - ) 
-
-111836 Dünya iqtisadiyyatı (tədris ingilis dilində) Ə 240 (600) 
-
-111844 İqtisadiyyat Ə 299 (558) 
-
-111852 İqtisadiyyat Q 271 ( - ) 
-
-111877 İqtisadiyyat (tədris ingilis dilində) Ə 500 (560) 
-
-111885 Menecment Ə 329 (538) 
-
-111917 Coğrafiya Ə 342 (440) 
-
-111925 Coğrafiya Q 278 (447) 
-
-111958 Hidrometeorologiya Ə 330 (442) 
-
-111966 Turizm və otelçilik Ə 477 (477) 
-
-111974 Turizm və otelçilik (tədris ingilis dilində) Ə 521 (521) 
-
-112792 Tarix və coğrafiya müəllimliyi (Qazax 
-
-filialı) 
-
-Ə 269 (463) 
-
-112816 Coğrafiya müəllimliyi (Qazax filialı) Ə 224 ( - ) 
-
-112824 Turizm və otelçilik (Qazax filialı) Ə 193 (376) 
-
-112832 Turizm və otelçilik (Qazax filialı) Q 183 ( - ) 
-
-Azərbaycan Dövlət Neft və Sənaye Universiteti 
-
-114841 İqtisadiyyat (tədris ingilis dilində) Ə 422 (560) 
-
-114858 Sənayenin təşkili və idarə olunması Ə 497 (497) 
-
-114866 Sənayenin təşkili və idarə olunması Q 213 ( - ) 
-
-114882 Sənayenin təşkili və idarə olunması (tədris 
-
-ingilis dilində) 
-
-Ə 527 (527) 
-
-114899 Menecment (tədris ingilis dilində) Ə 309 (538) 
-
-114914 Marketinq (tədris ingilis dilində) Ə 393 (524) 
-
-114922 Biznesin idarə edilməsi Ə 367 (622) 
-
-114939 Biznesin idarə edilməsi Q 200 ( - ) 
-
-114955 Biznesin idarə edilməsi (tədris ingilis 
-
-dilində) 
-
-Ə 409 (581) 
-
-Azərbaycan Texniki Universiteti 
-
-116672 Sənayenin təşkili və idarə olunması Ə 320 (472) 
-
-116689 Sənayenin təşkili və idarə olunması Q 244 ( - ) 
-
-116712 Menecment Ə 340 ( - ) 
-
-116729 Nəqliyyat servisi (avtomobil nəqliyyatı 
-
-üzrə) 
-
-Ə 335 (449) 
-
-Azərbaycan Memarlıq və İnşaat Universiteti 
-
-118487 Sənayenin təşkili və idarə olunması Ə 309 (476) 
-
-118519 Sənayenin təşkili və idarə olunması (tədris 
-
-ingilis dilində) 
-
-Ə 200 (473) 
-
-118527 Menecment Ə 302 ( - ) 
-
-118543 Marketinq Ə 294 ( - ) 
-
-118551 Biznesin idarə edilməsi Ə 303 ( - ) 
-
-Azərbaycan Dövlət Pedaqoji Universiteti 
-
-122188 Tarix və coğrafiya müəllimliyi Ə 447 (447) 
-
-122196 Coğrafiya müəllimliyi Ə 353 (462) 
-
-122471 Tarix və coğrafiya müəllimliyi (Şamaxı 
-
-filialı) 
-
-Ə 270 (465) 
-
-122536 Tarix və coğrafiya müəllimliyi (Şəki 
-
-filialı) 
-
-Ə 269 (438) 
-
-122625 Tarix və coğrafiya müəllimliyi (Ağcabədi 
-
-filialı) 
-
-Ə 248 ( - ) 
-
-122666 Tarix və coğrafiya müəllimliyi (Cəlilabad 
-
-filialı) 
-
-Ə 237 (435) 
-
-122722 Tarix və coğrafiya müəllimliyi (Quba 
-
-filialı) 
-
-Ə 309 (435) 
-
-Azərbaycan Dövlət İqtisad Universiteti 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
- 
-
- II груп, Азярбайъан бюлмяси 51 
-
-123313 Beynəlxalq münasibətlər (tədris türk 
-
-dilində) 
-
-Ə 317 (596) 
-
-123321 Dünya iqtisadiyyatı Ə 347 (577) 
-
-123338 Dünya iqtisadiyyatı Q 254 ( - ) 
-
-123354 Dünya iqtisadiyyatı (tədris ingilis dilində) Ə 613 (613) 
-
-123362 Mühasibat uçotu və audit Ə 461 (586) 
-
-123379 Mühasibat uçotu və audit Q 291 ( - ) 
-
-123419 Mühasibat uçotu və audit (tədris ingilis 
-
-dilində) 
-
-Ə 641 (641) 
-
-123427 Maliyyə Ə 433 (632) 
-
-123435 Maliyyə Q 285 ( - ) 
-
-123468 Maliyyə (tədris ingilis dilində) Ə 658 (658) 
-
-123476 Maliyyə (tədris türk dilində) Ə 407 ( - ) 
-
-123484 İqtisadiyyat Ə 368 (556) 
-
-123492 İqtisadiyyat Q 269 (558) 
-
-123532 İqtisadiyyat (tədris ingilis dilində) Ə 609 (609) 
-
-123549 İqtisadiyyat (tədris türk dilində) Ə 342 (562) 
-
-123557 Sənayenin təşkili və idarə olunması Ə 519 (519) 
-
-123565 Sənayenin təşkili və idarə olunması Q 269 ( - ) 
-
-123598 Statistika Ə 366 (504) 
-
-123613 Statistika Q 245 ( - ) 
-
-123621 Menecment Ə 374 (538) 
-
-123638 Menecment Q 246 ( - ) 
-
-123654 Marketinq Ə 427 (523) 
-
-123662 Marketinq Q 239 ( - ) 
-
-123687 Biznesin idarə edilməsi Ə 359 (575) 
-
-123695 Biznesin idarə edilməsi Q 254 ( - ) 
-
-123727 Biznesin idarə edilməsi (tədris ingilis 
-
-dilində) 
-
-Ə 609 (609) 
-
-123735 Biznesin idarə edilməsi (tədris türk 
-
-dilində) 
-
-Ə 319 (576) 
-
-123743 Dövlət və bələdiyyə idarəetməsi Ə 540 (540) 
-
-123751 Kommersiya Ə 344 (510) 
-
-123768 Kommersiya Q 233 ( - ) 
-
-123824 Mühasibat uçotu və audit (Zaqatala filialı) Ə 200 ( - ) 
-
-123832 Mühasibat uçotu və audit (Zaqatala filialı) Q 200 ( - ) 
-
-123849 Maliyyə (Zaqatala filialı) Ə 200 ( - ) 
-
-123857 Maliyyə (Zaqatala filialı) Q 200 ( - ) 
-
-123865 İqtisadiyyat (Zaqatala filialı) Ə 200 ( - ) 
-
-123873 İqtisadiyyat (Zaqatala filialı) Q 200 ( - ) 
-
-123881 Biznesin idarə edilməsi (Zaqatala filialı) Ə 200 ( - ) 
-
-123898 Biznesin idarə edilməsi (Zaqatala filialı) Q 200 ( - ) 
-
-123913 Turizm və otelçilik (Zaqatala filialı) Ə 190 (312) 
-
-123921 Turizm və otelçilik (Zaqatala filialı) Q 187 (402) 
-
-Azərbaycan Dillər Universiteti 
-
-126116 Regionşünaslıq (Böyük Britaniya üzrə) Ə 200 (467) 
-
-126124 Regionşünaslıq (Almaniya üzrə) Ə 414 ( - ) 
-
-126132 Regionşünaslıq (Fransa üzrə) Ə 405 ( - ) 
-
-126149 Regionşünaslıq (Amerika üzrə) Ə 271 (478) 
-
-126157 Regionşünaslıq (Qafqaz üzrə) Ə 314 ( - ) 
-
-126165 Regionşünaslıq (İsrail və Yaxın Şərq üzrə) Ə 288 ( - ) 
-
-126173 Regionşünaslıq (Cənub Şərqi Asiya və 
-
-İndoneziya üzrə) 
-
-Ə 267 ( - ) 
-
-126181 Regionşünaslıq (Yaponiya üzrə) Ə 333 (484) 
-
-126198 Regionşünaslıq (ərəb ölkələri üzrə) Ə 362 ( - ) 
-
-126213 Regionşünaslıq (Çin üzrə) Ə 293 (530) 
-
-126221 Regionşünaslıq (Argentina üzrə) Ə 273 ( - ) 
-
-126238 Regionşünaslıq (Mərkəzi və Şərqi Avropa 
-
-üzrə) 
-
-Ə 361 ( - ) 
-
-126246 Regionşünaslıq (Norveç üzrə) Ə 200 (468) 
-
-126279 Beynəlxalq münasibətlər Ə 401 ( - ) 
-
-Bakı Slavyan Universiteti 
-
-127112 Regionşünaslıq (Rusiya üzrə) Ə 278 ( - ) 
-
-127129 Regionşünaslıq (Ukrayna üzrə) Ə 240 ( - ) 
-
-127137 Regionşünaslıq (Çexiya üzrə) Ə 243 ( - ) 
-
-127145 Regionşünaslıq (Azərbaycan üzrə) Ə 276 ( - ) 
-
-127153 Regionşünaslıq (Türkiyə üzrə) Ə 281 ( - ) 
-
-127178 Beynəlxalq münasibətlər Ə 359 ( - ) 
-
-Bakı Mühəndislik Universiteti 
-
-128385 Dünya iqtisadiyyatı Ə 273 ( - ) 
-
-128393 Dünya iqtisadiyyatı (tədris ingilis dilində) Ə 200 (604) 
-
-128417 Mühasibat uçotu və audit Ə 308 ( - ) 
-
-128425 Mühasibat uçotu və audit (tədris ingilis 
-
-dilində) 
-
-Ə 200 (609) 
-
-128433 Maliyyə Ə 298 ( - ) 
-
-128441 Maliyyə (tədris ingilis dilində) Ə 200 (632) 
-
-128458 Sənayenin təşkili və idarə olunması Ə 287 (479) 
-
-128466 Sənayenin təşkili və idarə olunması (tədris 
-
-ingilis dilində) 
-
-Ə 200 (486) 
-
-128474 Biznesin idarə edilməsi Ə 272 ( - ) 
-
-128482 Biznesin idarə edilməsi (tədris ingilis 
-
-dilində) 
-
-Ə 200 (578) 
-
-128499 Dövlət və bələdiyyə idarəetməsi Ə 278 (459) 
-
-128514 Dövlət və bələdiyyə idarəetməsi (tədris 
-
-ingilis dilində) 
-
-Ə 200 (479) 
-
-Azərbaycan Respublikası Prezidenti yanında 
-
-Dövlət İdarəçilik Akademiyası 
-
-129138 Beynəlxalq münasibətlər Ə 619 (619) 
-
-129154 İqtisadiyyat Ə 637 (637) 
-
-129179 Menecment Ə 559 (559) 
-
-129195 Dövlət və bələdiyyə idarəetməsi Ə 558 (558) 
-
-129227 Davamlı inkişafın idarə edilməsi Ə 494 (507) 
-
-"ADA" Universiteti 
-
-131146 Beynəlxalq münasibətlər (tədris ingilis 
-
-dilində) 
-
-Ə 200 
-
-131154 İqtisadiyyat (tədris ingilis dilində) Ə 200 
-
-131162 Biznesin idarə edilməsi (tədris ingilis 
-
-dilində) 
-
-Ə 500 
-
-Azərbaycan Dövlət Mədəniyyət və İncəsənət 
-
-Universiteti 
-
-134119 Sosiologiya Ə 280 (444) 
-
-Azərbaycan Turizm və Menecment Universiteti 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
- 
-
-52 II груп, Азярбайъан бюлмяси 
-
-136128 Regionşünaslıq (Qafqaz üzrə) Ə 239 ( - ) 
-
-136136 Beynəlxalq münasibətlər Ə 292 ( - ) 
-
-136144 Maliyyə Ə 315 ( - ) 
-
-136152 Menecment Ə 286 (553) 
-
-136177 Menecment (tədris ingilis dilində) Ə 281 (538) 
-
-136185 Marketinq Ə 285 ( - ) 
-
-136193 Biznesin idarə edilməsi Ə 306 ( - ) 
-
-136217 Turizm və otelçilik Ə 419 (419) 
-
-136233 Turizm və otelçilik (tədris ingilis dilində) Ə 466 (466) 
-
-136241 Nəqliyyat servisi (sərnişin daşınmaları 
-
-nəqliyyatı üzrə) 
-
-Ə 282 (457) 
-
-Bakı Xoreoqrafiya Akademiyası 
-
-136517 Menecment (prodüser) Ə 206 ( - ) 
-
-136525 Menecment (prodüser) Q 200 ( - ) 
-
-Azərbaycan Dövlət Bədən Tərbiyəsi və İdman 
-
-Akademiyası 
-
-137116 İdman menecmenti və kommunikasiya Ə 218 (358) 
-
-Milli Aviasiya Akademiyası 
-
-138364 Menecment Ə 345 (557) 
-
-138372 Hidrometeorologiya Ə 451 (451) 
-
-Azərbaycan Respublikası Dövlət Gömrük 
-
-Komitəsinin Akademiyası 
-
-141514 İqtisadiyyat Ə 498 (556) 
-
-Naxçıvan Dövlət Universiteti 
-
-142268 Coğrafiya müəllimliyi Ə 289 (459) 
-
-142276 Beynəlxalq münasibətlər Ə 200 ( - ) 
-
-142284 Dünya iqtisadiyyatı Ə 317 (585) 
-
-142292 Mühasibat uçotu və audit Ə 360 (593) 
-
-142316 Mühasibat uçotu və audit Q 203 ( - ) 
-
-142324 İqtisadiyyat Ə 386 (559) 
-
-142332 İqtisadiyyat Q 226 ( - ) 
-
-142349 Menecment Ə 281 (543) 
-
-142357 Dövlət və bələdiyyə idarəetməsi Ə 278 (455) 
-
-142365 Turizm və otelçilik Ə 275 (311) 
-
-Azərbaycan Dövlət Aqrar Universiteti (Gəncə ş.) 
-
-144414 Mühasibat uçotu və audit Ə 349 (603) 
-
-144422 Mühasibat uçotu və audit Q 208 ( - ) 
-
-144439 Maliyyə Ə 291 ( - ) 
-
-144447 Maliyyə Q 200 ( - ) 
-
-144455 İqtisadiyyat Ə 288 ( - ) 
-
-144463 İqtisadiyyat Q 200 ( - ) 
-
-144488 İqtisadiyyat (tədris ingilis dilində) Ə 200 (576) 
-
-144496 Menecment (alman proqramı) Ə 224 (538) 
-
-144511 Marketinq Ə 223 ( - ) 
-
-144528 Marketinq Q 195 ( - ) 
-
-144536 Biznesin idarə edilməsi Ə 231 ( - ) 
-
-Gəncə Dövlət Universiteti 
-
-145192 Tarix və coğrafiya müəllimliyi Ə 311 (435) 
-
-145216 Coğrafiya müəllimliyi Ə 293 (474) 
-
-145224 Mühasibat uçotu və audit Ə 268 ( - ) 
-
-145232 Mühasibat uçotu və audit Q 200 ( - ) 
-
-145249 Maliyyə Ə 221 ( - ) 
-
-145257 İqtisadiyyat Ə 260 ( - ) 
-
-145265 İqtisadiyyat Q 200 ( - ) 
-
-145273 Menecment Ə 219 ( - ) 
-
-145298 Biznesin idarə edilməsi Ə 225 ( - ) 
-
-145313 Dövlət və bələdiyyə idarəetməsi Ə 227 (456) 
-
-145321 Turizm və otelçilik Ə 334 (334) 
-
-145338 Turizm və otelçilik Q 191 ( - ) 
-
-Azərbaycan Texnologiya Universiteti (Gəncə ş.) 
-
-147282 Mühasibat uçotu və audit Ə 230 ( - ) 
-
-147299 Mühasibat uçotu və audit Q 200 ( - ) 
-
-147322 Sənayenin təşkili və idarə olunması Ə 206 (488) 
-
-147339 Sənayenin təşkili və idarə olunması Q 200 ( - ) 
-
-147347 Menecment Ə 200 ( - ) 
-
-147355 Menecment Q 200 ( - ) 
-
-147363 Marketinq Ə 197 ( - ) 
-
-147371 Marketinq Q 189 ( - ) 
-
-147388 Biznesin idarə edilməsi Ə 200 ( - ) 
-
-147396 Biznesin idarə edilməsi Q 200 ( - ) 
-
-147411 Dövlət və bələdiyyə idarəetməsi Ə 200 (469) 
-
-147428 Dövlət və bələdiyyə idarəetməsi Q 200 ( - ) 
-
-Sumqayıt Dövlət Universiteti 
-
-148416 Tarix və coğrafiya müəllimliyi Ə 324 (434) 
-
-148424 Coğrafiya müəllimliyi Ə 317 ( - ) 
-
-148432 Sosiologiya Ə 250 ( - ) 
-
-148449 Dünya iqtisadiyyatı Ə 268 ( - ) 
-
-148457 Dünya iqtisadiyyatı Q 222 ( - ) 
-
-148465 Mühasibat uçotu və audit Ə 293 ( - ) 
-
-148473 Mühasibat uçotu və audit Q 241 ( - ) 
-
-148481 Maliyyə Ə 285 ( - ) 
-
-148498 İqtisadiyyat Ə 275 ( - ) 
-
-148513 İqtisadiyyat Q 223 ( - ) 
-
-148521 Menecment Ə 263 ( - ) 
-
-148538 Menecment Q 213 ( - ) 
-
-148546 Biznesin idarə edilməsi Ə 270 ( - ) 
-
-148554 Biznesin idarə edilməsi Q 223 ( - ) 
-
-Mingəçevir Dövlət Universiteti 
-
-149218 Mühasibat uçotu və audit Ə 321 ( - ) 
-
-149226 Mühasibat uçotu və audit Q 200 ( - ) 
-
-149234 Maliyyə Ə 279 ( - ) 
-
-149242 İqtisadiyyat Ə 261 (581) 
-
-149259 İqtisadiyyat Q 200 ( - ) 
-
-149267 Sənayenin təşkili və idarə olunması Ə 221 (496) 
-
-149275 Sənayenin təşkili və idarə olunması Q 200 ( - ) 
-
-149283 Menecment Ə 200 ( - ) 
-
-149291 Marketinq Ə 196 ( - ) 
-
-149315 Biznesin idarə edilməsi Ə 207 ( - ) 
-
-149323 Dövlət və bələdiyyə idarəetməsi Ə 204 ( - ) 
-
-149331 Turizm və otelçilik Ə 254 (308) 
-
-Lənkəran Dövlət Universiteti 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
- 
-
- II груп, Азярбайъан бюлмяси 53 
-
-151186 Tarix və coğrafiya müəllimliyi Ə 322 (436) 
-
-151194 Mühasibat uçotu və audit Ə 202 (594) 
-
-151218 Mühasibat uçotu və audit Q 200 ( - ) 
-
-151226 Maliyyə Ə 202 ( - ) 
-
-151234 Maliyyə Q 200 ( - ) 
-
-151242 İqtisadiyyat Ə 200 ( - ) 
-
-151259 İqtisadiyyat Q 200 ( - ) 
-
-151267 Biznesin idarə edilməsi Ə 200 ( - ) 
-
-151275 Biznesin idarə edilməsi Q 200 ( - ) 
-
-151283 Turizm və otelçilik Ə 199 (318) 
-
-151291 Turizm və otelçilik Q 187 ( - ) 
-
-Azərbaycan Kooperasiya Universiteti 
-
-152166 Dünya iqtisadiyyatı Q 200 
-
-152174 Dünya iqtisadiyyatı Ə 200 
-
-152182 Mühasibat uçotu və audit Q 200 
-
-152199 Mühasibat uçotu və audit Ə 200 
-
-152214 Maliyyə Q 200 
-
-152222 Maliyyə Ə 200 
-
-152239 İqtisadiyyat Q 200 
-
-152247 İqtisadiyyat Ə 200 
-
-152255 Sənayenin təşkili və idarə olunması Ə 200 
-
-152263 Sənayenin təşkili və idarə olunması Q 200 
-
-152271 Menecment Ə 200 
-
-152288 Marketinq Ə 188 
-
-152296 Biznesin idarə edilməsi Ə 200 
-
-152311 Biznesin idarə edilməsi Q 200 
-
-152328 Dövlət və bələdiyyə idarəetməsi Ə 200 ( - ) 
-
-152336 Kommersiya Ə 186 
-
-152344 Kommersiya Q 185 
-
-152352 Coğrafiya Ə 206 ( - ) 
-
-152369 Turizm və otelçilik Ə 196 
-
-"Azərbaycan" Universiteti 
-
-155155 Dünya iqtisadiyyatı Ə 200 ( - ) 
-
-155163 Dünya iqtisadiyyatı (tədris ingilis dilində) Ə 200 ( - ) 
-
-155171 Mühasibat uçotu və audit Ə 200 ( - ) 
-
-155188 Mühasibat uçotu və audit (tədris ingilis 
-
-dilində) 
-
-Ə 200 ( - ) 
-
-155196 Maliyyə Ə 200 ( - ) 
-
-155211 Maliyyə (tədris ingilis dilində) Ə 200 ( - ) 
-
-155228 İqtisadiyyat Ə 200 ( - ) 
-
-155236 Menecment Ə 200 ( - ) 
-
-155244 Marketinq Ə 194 ( - ) 
-
-155252 Dövlət və bələdiyyə idarəetməsi Ə 200 ( - ) 
-
-Qərb Universiteti 
-
-157261 Regionşünaslıq (Qərbşünaslıq) Ə 198 ( - ) 
-
-157278 Beynəlxalq münasibətlər Ə 216 ( - ) 
-
-157286 Beynəlxalq münasibətlər Q 200 ( - ) 
-
-157294 Dünya iqtisadiyyatı Ə 221 ( - ) 
-
-157318 Mühasibat uçotu və audit Ə 250 ( - ) 
-
-157326 Maliyyə Ə 249 ( - ) 
-
-157334 İqtisadiyyat Ə 229 ( - ) 
-
-157342 İqtisadiyyat Q 200 ( - ) 
-
-157359 Sənayenin təşkili və idarə olunması Ə 207 ( - ) 
-
-157367 Menecment Ə 223 ( - ) 
-
-157375 Biznesin idarə edilməsi Ə 222 ( - ) 
-
-157383 Dövlət və bələdiyyə idarəetməsi Ə 200 ( - ) 
-
-157391 Turizm və otelçilik Ə 276 (317) 
-
-Xəzər Universiteti 
-
-158217 Coğrafiya müəllimliyi Ə 200 (477) 
-
-158225 Regionşünaslıq (Amerika, Böyük 
-
-Britaniya, tədris ingilis dilində) 
-
-Ə 181 (463) 
-
-158233 Beynəlxalq münasibətlər (tədris ingilis 
-
-dilində) 
-
-Ə 200 ( - ) 
-
-158241 Mühasibat uçotu və audit (tədris ingilis 
-
-dilində) 
-
-Ə 200 (587) 
-
-158258 Maliyyə (tədris ingilis dilində) Ə 200 (643) 
-
-158266 İqtisadiyyat (tədris ingilis dilində) Ə 200 (559) 
-
-158274 Menecment (tədris ingilis dilində) Ə 200 (541) 
-
-158282 Marketinq (tədris ingilis dilində) Ə 182 (546) 
-
-158299 Biznesin idarə edilməsi (tədris ingilis 
-
-dilində) 
-
-Ə 200 ( - ) 
-
-158314 Turizm və otelçilik (tədris ingilis dilində) Ə 356 (356) 
-
-Bakı Avrasiya Universiteti 
-
-162112 Regionşünaslıq (ABŞ və Kanada) Ə 186 ( - ) 
-
-162129 Regionşünaslıq (Avropa ölkələri) Ə 185 ( - ) 
-
-162137 Regionşünaslıq (Yaxın və Orta Şərq) Ə 183 ( - ) 
-
-162145 İqtisadiyyat Ə 214 ( - ) 
-
-162153 İqtisadiyyat Q 200 ( - ) 
-
-Bakı Qızlar Universiteti 
-
-163125 Coğrafiya müəllimliyi Ə 227 ( - ) 
-
-"Odlar Yurdu" Universiteti 
-
-164154 Beynəlxalq münasibətlər Ə 200 ( - ) 
-
-164179 Dünya iqtisadiyyatı Ə 200 ( - ) 
-
-164195 Mühasibat uçotu və audit Ə 200 ( - ) 
-
-164227 Maliyyə Ə 200 ( - ) 
-
-164243 Menecment Ə 200 ( - ) 
-
-164268 Marketinq Ə 191 ( - ) 
-
-164284 Biznesin idarə edilməsi Ə 200 ( - ) 
-
-164316 Dövlət və bələdiyyə idarəetməsi Ə 200 ( - ) 
-
-164332 Turizm və otelçilik Ə 197 (344) 
-
-Bakı Biznes Universiteti 
-
-165118 Dünya iqtisadiyyatı Ə 200 ( - ) 
-
-165126 Mühasibat uçotu və audit Ə 203 ( - ) 
-
-165134 Maliyyə Ə 200 ( - ) 
-
-165159 İqtisadiyyat Ə 200 ( - ) 
-
-165167 İqtisadiyyat (tədris ingilis dilində) Ə 200 ( - ) 
-
-165175 Sənayenin təşkili və idarə olunması Ə 200 ( - ) 
-
-165183 Menecment Ə 200 ( - ) 
-
-165191 Marketinq Ə 189 ( - ) 
-
-165215 Biznesin idarə edilməsi Ə 200 ( - ) 
-
-165223 Dövlət və bələdiyyə idarəetməsi Ə 200 ( - ) 
-
-"Naxçıvan" Universiteti (Naxçıvan şəhəri) 
-
-168131 Coğrafiya müəllimliyi Ə 209 ( - ) 
-
-168148 Beynəlxalq münasibətlər Ə 200 ( - ) 
-
-168156 Mühasibat uçotu və audit Ə 200 ( - ) 
-
-168164 Maliyyə Ə 203 ( - ) 
-
-168172 İqtisadiyyat Ə 200 ( - ) 
-
-168189 Turizm və otelçilik Ə 189 (393) 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
- 
-
-54 II груп, Азярбайъан бюлмяси 
-
-Azərbaycan Əmək və Sosial Münasibətlər 
-
-Akademiyası 
-
-171111 Mühasibat uçotu və audit Ə 200 ( - ) 
-
-171136 Maliyyə Ə 200 ( - ) 
-
-171152 İqtisadiyyat Ə 200 ( - ) 
-
-171169 Dövlət və bələdiyyə idarəetməsi Ə 200 ( - ) 
-
- 
-
- III груп, Азярбайъан бюлмяси 43 
-
-2017/2018-ЪИ ТЯДРИС ИЛИ ЦЧЦН 
-
-III ГРУП ИХТИСАСЛАР 
-
-ЦЗРЯ МЦСАБИГЯ НЯТИЪЯЛЯРИНЯ ЭЮРЯ 
-
-АЛЫНМЫШ МИНИМАЛ КЕЧИД БАЛЛАРЫ 
-
- 
-
-1) Keçid balı sütununda mötərizə içərisində müvafiq ixtisas üzrə dövlət sifarişi əsasında qəbulun keçid balı 
-
-göstərilmişdir. 
-
-2) Keçid balı sütununda mötərizə içərisində tire ( – ) işarəsi göstərir ki, müvafiq ixtisasda dövlət sifarişi 
-
-əsasında təhsil almaq hüququ qazanmış abituriyent yoxdur. Təhsili yalnız ödənişli əsaslarla olan 
-
-ixtisasların qarşısında belə mötərizə göstərilməmişdir. 
-
- 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
-Bakı Dövlət Universiteti 
-
-111982 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 541 (541) 
-
-112119 Tarix müəllimliyi Ə 536 (536) 
-
-112135 Korreksiyaedici təlim Ə 309 (403) 
-
-112143 Təhsildə sosial-psixoloji xidmət Ə 492 (492) 
-
-112168 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 444 (613) 
-
-112176 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 361 ( - ) 
-
-112184 Filologiya (alman dili və ədəbiyyatı) Ə 200 ( - ) 
-
-112192 Filologiya (fransız dili və ədəbiyyatı) Ə 200 ( - ) 
-
-112216 Filologiya (ərəb dili və ədəbiyyatı) Ə 334 (672) 
-
-112224 Filologiya (fars dili və ədəbiyyatı) Ə 310 ( - ) 
-
-112232 Filologiya (türk dili və ədəbiyyatı) Ə 332 ( - ) 
-
-112265 Fəlsəfə Ə 387 (488) 
-
-112273 Tərcümə (fars dili üzrə) Ə 251 ( - ) 
-
-112281 Tərcümə (ərəb dili üzrə) Ə 293 ( - ) 
-
-112298 Kitabşünaslıq Ə 316 (399) 
-
-112313 Tarix Ə 473 (567) 
-
-112321 Tarix Q 421 ( - ) 
-
-112346 Tarix (tədris ingilis dilində) Ə 586 (586) 
-
-112354 Antropologiya Ə 442 (480) 
-
-112362 Politologiya Ə 467 (632) 
-
-112387 Hüquqşünaslıq Ə 568 (674) 
-
-112395 Hüquqşünaslıq Q 509 (676) 
-
-112435 Hüquqşünaslıq (tədris ingilis dilində) Ə 671 (675) 
-
-112443 Kitabxanaçılıq və informasiya Ə 296 (406) 
-
-112451 Kitabxanaçılıq və informasiya Q 295 (412) 
-
-112476 Kitabxanaçılıq və informasiya (tədris 
-
-ingilis dilində) 
-
-Ə 200 (408) 
-
-112484 Dövlət və ictimai münasibətlər Ə 503 (667) 
-
-112492 Sosial iş Ə 520 (520) 
-
-112516 Jurnalistika Ə 285 (396) 
-
-112524 Jurnalistika Q 232 ( - ) 
-
-112549 Jurnalistika (tədris ingilis dilində) Ə 410 (410) 
-
-112849 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-
-(Qazax filialı) 
-
-Ə 301 (517) 
-
-112857 Tarix müəllimliyi (Qazax filialı) Ə 296 ( - ) 
-
-112865 İbtidai sinif müəllimliyi (Qazax filialı) Ə 270 (462) 
-
-112873 Məktəbəqədər təlim və tərbiyə (Qazax 
-
-filialı) 
-
-Ə 210 (387) 
-
-112881 Tarix (Qazax filialı) Ə 267 ( - ) 
-
-112898 Tarix (Qazax filialı) Q 211 ( - ) 
-
-112913 Sosial iş (Qazax filialı) Ə 256 ( - ) 
-
-112921 Sosial iş (Qazax filialı) Q 224 ( - ) 
-
-Azərbaycan Dövlət Pedaqoji Universiteti 
-
-122228 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 412 (515) 
-
-122236 Xarici dil müəllimliyi (fransız dili) Ə 314 ( - ) 
-
-122244 Xarici dil müəllimliyi (ingilis dili) Ə 434 ( - ) 
-
-122252 Tarix müəllimliyi Ə 408 (515) 
-
-122277 İbtidai sinif müəllimliyi Ə 405 (427) 
-
-122293 Korreksiyaedici təlim Ə 305 (403) 
-
-122317 Məktəbəqədər təlim və tərbiyə Ə 334 (387) 
-
-122333 Təhsildə sosial-psixoloji xidmət Ə 333 (473) 
-
-122358 Sosial iş Ə 416 (513) 
-
-122488 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-
-(Şamaxı filialı) 
-
-Ə 327 ( - ) 
-
-122496 İbtidai sinif müəllimliyi (Şamaxı filialı) Ə 283 ( - ) 
-
-122511 Məktəbəqədər təlim və tərbiyə (Şamaxı 
-
-filialı) 
-
-Ə 238 (411) 
-
-122544 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-
-(Şəki filialı) 
-
-Ə 346 (518) 
-
-122552 Xarici dil müəllimliyi (ingilis dili, Şəki 
-
-filialı) 
-
-Ə 304 ( - ) 
-
-122569 Xarici dil müəllimliyi (fransız dili, Şəki 
-
-filialı) 
-
-Ə 214 ( - ) 
-
-122577 İbtidai sinif müəllimliyi (Şəki filialı) Ə 290 (439) 
-
-122585 Məktəbəqədər təlim və tərbiyə (Şəki 
-
-filialı) 
-
-Ə 249 (391) 
-
-122593 Təhsildə sosial-psixoloji xidmət (Şəki 
-
-filialı) 
-
-Ə 273 (488) 
-
-122633 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-
-(Ağcabədi filialı) 
-
-Ə 321 (515) 
-
-122641 İbtidai sinif müəllimliyi (Ağcabədi filialı) Ə 283 ( - ) 
-
-122658 Məktəbəqədər təlim və tərbiyə (Ağcabədi 
-
-filialı) 
-
-Ə 223 ( - ) 
-
-122674 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-
-(Cəlilabad filialı) 
-
-Ə 314 (515) 
-
-122682 İbtidai sinif müəllimliyi (Cəlilabad filialı) Ə 244 (439) 
-
-122699 Məktəbəqədər təlim və tərbiyə (Cəlilabad 
-
-filialı) 
-
-Ə 200 ( - ) 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
- 
-
-44 III груп, Азярбайъан бюлмяси 
-
-122739 Azərbaycan dili və ədəbiyyatı müəllimliyi 
-
-(Quba filialı) 
-
-Ə 337 (527) 
-
-122747 İbtidai sinif müəllimliyi (Quba filialı) Ə 274 (433) 
-
-122755 Məktəbəqədər təlim və tərbiyə (Quba 
-
-filialı) 
-
-Ə 226 (397) 
-
-122763 Təhsildə sosial-psixoloji xidmət (Quba 
-
-filialı) 
-
-Ə 248 ( - ) 
-
-Azərbaycan Dillər Universiteti 
-
-126295 Dil və ədəbiyyat müəllimliyi (ingilis dili 
-
-üzrə) 
-
-Ə 625 (625) 
-
-126319 Dil və ədəbiyyat müəllimliyi (alman dili 
-
-üzrə) 
-
-Ə 349 (421) 
-
-126327 Dil və ədəbiyyat müəllimliyi (fransız dili 
-
-üzrə) 
-
-Ə 335 (438) 
-
-126335 Xarici dil müəllimliyi (ingilis dili) Ə 395 (555) 
-
-126343 Xarici dil müəllimliyi (alman dili) Ə 357 (579) 
-
-126351 Xarici dil müəllimliyi (fransız dili) Ə 348 (557) 
-
-126392 Filologiya (ingilis dili və ədəbiyyatı) Ə 518 (607) 
-
-126416 Filologiya (alman dili və ədəbiyyatı) Ə 377 ( - ) 
-
-126424 Filologiya (fransız dili və ədəbiyyatı) Ə 352 ( - ) 
-
-126432 Filologiya (ispan dili və ədəbiyyatı) Ə 359 ( - ) 
-
-126449 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 421 ( - ) 
-
-126457 Tərcümə (Azərbaycan dili-ingilis dili) Ə 614 (614) 
-
-126465 Tərcümə (Azərbaycan dili-ispan dili) Ə 466 (602) 
-
-126473 Tərcümə (Azərbaycan dili-alman dili) Ə 200 ( - ) 
-
-126481 Tərcümə (Azərbaycan dili-fransız dili) Ə 248 ( - ) 
-
-126498 Tərcümə (Azərbaycan dili-italyan dili) Ə 511 (602) 
-
-126513 Tərcümə (Koreya dili-Azərbaycan dili-
-
-Koreya dili) 
-
-Ə 455 (601) 
-
-126562 Jurnalistika (tədris ingilis dilində) Ə 200 (419) 
-
-Bakı Slavyan Universiteti 
-
-127186 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 402 (515) 
-
-127218 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 390 (562) 
-
-127226 Xarici dil müəllimliyi (alman dili üzrə) Ə 324 ( - ) 
-
-127234 Xarici dil müəllimliyi (fransız dili üzrə) Ə 314 ( - ) 
-
-127259 Xarici dil müəllimliyi (rus dili üzrə) Ə 288 (561) 
-
-127267 İbtidai sinif müəllimliyi Ə 394 (427) 
-
-127283 Məktəbəqədər təlim və tərbiyə Ə 364 (387) 
-
-127315 Təhsildə sosial-psixoloji xidmət Ə 370 (478) 
-
-127331 Filologiya (ingilis dili və ədəbiyyatı) Ə 377 ( - ) 
-
-127348 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 385 ( - ) 
-
-127356 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 356 ( - ) 
-
-127397 Tərcümə (ingilis dili) Ə 435 (605) 
-
-127412 Tərcümə (bolqar dili) Ə 200 ( - ) 
-
-127429 Tərcümə (yunan dili) Ə 203 ( - ) 
-
-127445 Tərcümə (Azərbaycan-rus dilləri) Ə 272 ( - ) 
-
-127453 Jurnalistika Ə 326 (401) 
-
-Azərbaycan Respublikası Prezidenti yanında 
-
-Dövlət İdarəçilik Akademiyası 
-
-129243 Politologiya Ə 647 (647) 
-
-129268 Hüquqşünaslıq Ə 675 (675) 
-
-"ADA" Universiteti 
-
-131179 Dövlət və ictimai münasibətlər (tədris 
-
-ingilis dilində) 
-
-Ə 472 
-
-Azərbaycan Dövlət Mədəniyyət və İncəsənət 
-
-Universiteti 
-
-134135 Kitabxanaçılıq və informasiya Ə 285 ( - ) 
-
-134143 Muzeyşünaslıq, arxiv işi və abidələrin 
-
-qorunması 
-
-Ə 280 (413) 
-
-134168 Sənətşünaslıq Ə 288 (375) 
-
-134184 Teatrşünaslıq Ə 262 (377) 
-
-134192 Bədii yaradıcılıq və ekran dramaturgiyası Ə 294 (443) 
-
-134224 Kinoşünaslıq Ə 276 (389) 
-
-134232 Sosial iş Ə 344 ( - ) 
-
-Azərbaycan Dövlət Rəssamlıq Akademiyası 
-
-135123 Sənətşünaslıq Ə 236 (380) 
-
-135131 Sənətşünaslıq Q 211 (402) 
-
-Azərbaycan Turizm və Menecment Universiteti 
-
-136258 Tərcümə (ingilis dili-Azərbaycan dili) Ə 351 (603) 
-
-136266 Muzeyşünaslıq, arxiv işi və abidələrin 
-
-qorunması 
-
-Ə 276 (400) 
-
-136274 Sosial iş Ə 429 (514) 
-
-Bakı Xoreoqrafiya Akademiyası 
-
-136533 Sənətşünaslıq (səhnəqrafiya tarixi) Ə 224 ( - ) 
-
-136541 Sənətşünaslıq (səhnəqrafiya tarixi) Q 205 ( - ) 
-
-136558 Teatrşünaslıq (balet tarixi) Ə 213 ( - ) 
-
-Milli Aviasiya Akademiyası 
-
-138389 Hüquqşünaslıq Ə 564 ( - ) 
-
-Azərbaycan Respublikası Dövlət Gömrük 
-
-Komitəsinin Akademiyası 
-
-141522 Hüquqşünaslıq Ə 561 ( - ) 
-
-Naxçıvan Dövlət Universiteti 
-
-142373 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 361 (519) 
-
-142381 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 451 (557) 
-
-142398 Xarici dil müəllimliyi (fransız dili üzrə) Ə 277 ( - ) 
-
-142413 Xarici dil müəllimliyi (alman dili üzrə) Ə 200 ( - ) 
-
-142421 Xarici dil müəllimliyi (rus dili üzrə) Ə 255 ( - ) 
-
-142438 Tarix müəllimliyi Ə 405 (521) 
-
-142446 Tərcümə (ərəb dili-Azərbaycan dili) Ə 200 ( - ) 
-
-142454 Tərcümə (ingilis dili-Azərbaycan dili) Ə 370 (670) 
-
-142462 Hüquqşünaslıq Ə 542 (682) 
-
-142479 Hüquqşünaslıq Q 488 ( - ) 
-
-142487 Kitabxanaçılıq və informasiya Ə 200 (422) 
-
-142495 Muzeyşünaslıq, arxiv işi və abidələrin 
-
-qorunması 
-
-Ə 277 (403) 
-
-142519 Sosial iş Ə 309 (512) 
-
-142527 Jurnalistika Ə 200 (425) 
-
-Naxçıvan Müəllimlər İnstitutu 
-
-143126 İbtidai sinif müəllimliyi Ə 200 (431) 
-
-143134 Məktəbəqədər təlim və tərbiyə Ə 200 (392) 
-
-143142 Təhsildə sosial-psixoloji xidmət Ə 200 (493) 
-
-143159 Kitabxanaçılıq və informasiya Ə 200 ( - ) 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
- 
-
- III груп, Азярбайъан бюлмяси 45 
-
-Gəncə Dövlət Universiteti 
-
-145346 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 339 (515) 
-
-145354 Xarici dil müəllimliyi (ingilis dili) Ə 338 (561) 
-
-145362 Xarici dil müəllimliyi (rus dili) Ə 262 ( - ) 
-
-145379 Xarici dil müəllimliyi (alman dili) Ə 244 ( - ) 
-
-145387 Xarici dil müəllimliyi (fransız dili) Ə 241 ( - ) 
-
-145419 Tarix müəllimliyi Ə 353 (515) 
-
-145427 İbtidai sinif müəllimliyi Ə 431 (431) 
-
-145443 Məktəbəqədər təlim və tərbiyə Ə 284 (389) 
-
-145451 Təhsildə sosial-psixoloji xidmət Ə 293 (473) 
-
-145468 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 314 ( - ) 
-
-145476 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 279 ( - ) 
-
-145484 Tərcümə (ingilis dili) Ə 265 ( - ) 
-
-145492 Tarix Ə 354 ( - ) 
-
-145516 Tarix Q 305 (612) 
-
-145524 Sosial iş Ə 315 (514) 
-
-145532 Sosial iş Q 265 ( - ) 
-
-Sumqayıt Dövlət Universiteti 
-
-148562 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 350 ( - ) 
-
-148579 Xarici dil müəllimliyi (ingilis dili) Ə 363 ( - ) 
-
-148587 Tarix müəllimliyi Ə 360 ( - ) 
-
-148595 İbtidai sinif müəllimliyi Ə 341 (450) 
-
-148619 Məktəbəqədər təlim və tərbiyə Ə 308 (388) 
-
-148627 Təhsildə sosial-psixoloji xidmət Ə 313 ( - ) 
-
-148635 Təhsildə sosial-psixoloji xidmət Q 293 ( - ) 
-
-148643 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 341 ( - ) 
-
-148651 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 328 ( - ) 
-
-148668 Tarix Ə 383 ( - ) 
-
-148676 Tarix Q 322 ( - ) 
-
-148684 Politologiya Ə 338 ( - ) 
-
-Mingəçevir Dövlət Universiteti 
-
-149348 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 356 (518) 
-
-149356 Xarici dil müəllimliyi (ingilis dili) Ə 345 (555) 
-
-149364 İbtidai sinif müəllimliyi Ə 298 (428) 
-
-149372 Məktəbəqədər təlim və tərbiyə Ə 242 (386) 
-
-Lənkəran Dövlət Universiteti 
-
-151315 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 331 (519) 
-
-151323 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 313 (561) 
-
-151331 İbtidai sinif müəllimliyi Ə 256 (441) 
-
-151348 Məktəbəqədər təlim və tərbiyə Ə 200 (387) 
-
-151356 Təhsildə sosial-psixoloji xidmət Ə 239 (501) 
-
-151364 Tərcümə (ingilis dili üzrə) Ə 200 ( - ) 
-
-151372 Muzeyşünaslıq, arxiv işi və abidələrin 
-
-qorunması 
-
-Ə 221 (429) 
-
-Azərbaycan Kooperasiya Universiteti 
-
-152377 Tərcümə (ingilis dili) Q 206 
-
-152385 Tərcümə (ingilis dili) Ə 203 
-
-Bakı İslam Universiteti 
-
-154118 Dinşünaslıq Ə 100 
-
-154126 Dinşünaslıq Q 100 
-
-"Azərbaycan" Universiteti 
-
-155269 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 235 ( - ) 
-
-155277 Tərcümə (ingilis dili) Ə 209 ( - ) 
-
-155293 Tarix Ə 258 ( - ) 
-
-155317 Sosial iş Ə 232 ( - ) 
-
-Qərb Universiteti 
-
-157415 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 237 ( - ) 
-
-157423 Filologiya (ingilis dili və ədəbiyyatı) Ə 226 ( - ) 
-
-157431 Fəlsəfə Ə 200 ( - ) 
-
-157448 Tərcümə (ingilis, alman, fransız, çin) Ə 247 ( - ) 
-
-157456 Tarix Ə 237 ( - ) 
-
-157464 Tarix Q 240 ( - ) 
-
-157472 Politologiya Ə 227 ( - ) 
-
-157489 Politologiya Q 216 ( - ) 
-
-Xəzər Universiteti 
-
-158322 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 200 (517) 
-
-158339 Xarici dil müəllimliyi (ingilis dili, tədris 
-
-ingilis dilində) 
-
-Ə 200 (568) 
-
-158347 Tarix müəllimliyi Ə 200 (523) 
-
-158355 İbtidai sinif müəllimliyi Ə 200 (427) 
-
-158363 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 200 ( - ) 
-
-158371 Filologiya (ingilis dili və ədəbiyyatı, tədris 
-
-ingilis dilində) 
-
-Ə 200 ( - ) 
-
-158388 Tərcümə (ingilis, ərəb, fars və çin dili, 
-
-tədris ingilis dilində) 
-
-Ə 200 (627) 
-
-158396 Politologiya (tədris ingilis dilində) Ə 200 (639) 
-
-Bakı Avrasiya Universiteti 
-
-162161 Filologiya (Azərbaycan dili və ədəbiyyatı) Ə 275 ( - ) 
-
-162178 Filologiya (Azərbaycan dili və ədəbiyyatı) Q 277 ( - ) 
-
-162186 Filologiya (ingilis dili və ədəbiyyatı) Ə 221 ( - ) 
-
-162194 Filologiya (türk dili və ədəbiyyatı) Ə 217 ( - ) 
-
-162218 Tərcümə (ingilis dili) Ə 215 ( - ) 
-
-162226 Tərcümə (alman dili) Ə 202 ( - ) 
-
-162234 Tərcümə (fransız dili) Ə 201 ( - ) 
-
-162242 Tərcümə (ərəb dili) Ə 200 ( - ) 
-
-Bakı Qızlar Universiteti 
-
-163133 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 256 ( - ) 
-
-163141 Xarici dil müəllimliyi (ingilis dili) Ə 253 ( - ) 
-
-163158 Tarix müəllimliyi Ə 227 ( - ) 
-
-163166 İbtidai sinif müəllimliyi Ə 228 (442) 
-
-163174 Məktəbəqədər təlim və tərbiyə Ə 205 ( - ) 
-
-163182 Təhsildə sosial-psixoloji xidmət Ə 207 ( - ) 
-
-"Odlar Yurdu" Universiteti 
-
-164357 Xarici dil müəllimliyi (ingilis dili üzrə) Ə 265 ( - ) 
-
-164373 Filologiya (dil və ədəbiyyat göstərilməklə) Ə 216 ( - ) 
-
-164381 Tərcümə (ingilis dili üzrə) Ə 202 ( - ) 
-
-Bakı Biznes Universiteti 
-
-165231 Tərcümə (ingilis dili) Ə 206 ( - ) 
-
-"Naxçıvan" Universiteti (Naxçıvan şəhəri) 
-
-168197 Azərbaycan dili və ədəbiyyatı müəllimliyi Ə 248 ( - ) 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-кечид    
-
-балы коду ады  коду ады 
-
- 
-
-46 III груп, Азярбайъан бюлмяси 
-
-168212 Xarici dil müəllimliyi (ingilis dili) Ə 200 ( - ) 
-
-168229 Tarix müəllimliyi Ə 236 ( - ) 
-
-168237 Filologiya (alman dili və ədəbiyyatı) Ə 200 ( - ) 
-
-168245 Dinşünaslıq Ə 200 ( - ) 
-
-Azərbaycan Əmək və Sosial Münasibətlər 
-
-Akademiyası 
-
-171177 Sosial iş Ə 269 ( - ) 
-
- 
-
-16 IV груп, Азярбайъан бюлмяси 
-
-2017/2018-ЪИ ТЯДРИС ИЛИ ЦЧЦН 
-
-IV ГРУП ИХТИСАСЛАР 
-
-ЦЗРЯ МЦСАБИГЯ НЯТИЪЯЛЯРИНЯ ЭЮРЯ 
-
-АЛЫНМЫШ МИНИМАЛ КЕЧИД БАЛЛАРЫ 
-
- 
-
- 
-
-1) Keçid balı sütununda mötərizə içərisində müvafiq ixtisas üzrə dövlət sifarişi əsasında qəbulun keçid balı 
-
-göstərilmişdir. 
-
-2) Keçid balı sütununda mötərizə içərisində tire ( – ) işarəsi göstərir ki, müvafiq ixtisasda dövlət sifarişi 
-
-əsasında təhsil almaq hüququ qazanmış abituriyent yoxdur. Təhsili yalnız ödənişli əsaslarla olan 
-
-ixtisasların qarşısında belə mötərizə göstərilməmişdir. 
-
- 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-Kечид    
-
-балы коду ады  коду ады 
-
- 
-
- 
-
- 
-
-Bakı Dövlət Universiteti 
-
-112557 Biologiya müəllimliyi Ə 426 (426) 
-
-112573 Kimya müəllimliyi Ə 348 (464) 
-
-112598 Psixologiya Ə 412 (470) 
-
-112621 Psixologiya (tədris ingilis dilində) Ə 471 (471) 
-
-112638 Kimya Ə 345 (496) 
-
-112654 Kimya (tədris ingilis dilində) Ə 480 (496) 
-
-112662 Biologiya Ə 333 (473) 
-
-112679 Biologiya Q 258 (493) 
-
-112695 Biologiya (tədris ingilis dilində) Ə 416 (482) 
-
-112719 Ekologiya Ə 353 (353) 
-
-112727 Ekologiya Q 200 (333) 
-
-112743 Ekologiya (tədris ingilis dilində) Ə 359 (359) 
-
-112751 Su bioehtiyatları və akvabitkilər Ə 312 (312) 
-
-112938 Kimya və biologiya müəllimliyi (Qazax 
-
-filialı) 
-
-Ə 200 ( - ) 
-
-Azərbaycan Tibb Universiteti 
-
-121118 Əczaçılıq Ə 535 (535) 
-
-121134 Müalicə işi Ə 545 (651) 
-
-121167 Tibbi profilaktika Ə 539 (591) 
-
-121183 Stomatologiya Ə 539 (641) 
-
-Azərbaycan Dövlət Pedaqoji Universiteti 
-
-122366 Biologiya müəllimliyi Ə 277 (411) 
-
-122374 Kimya müəllimliyi Ə 276 (488) 
-
-122382 Kimya və biologiya müəllimliyi Ə 403 (420) 
-
-Azərbaycan Dövlət İqtisad Universiteti 
-
-123784 Ekologiya Ə 266 (333) 
-
-Azərbaycan Dövlət Bədən Tərbiyəsi və İdman 
-
-Akademiyası 
+[Azərbaycan Dövlət Bədən Tərbiyəsi və İdman Akademiyası]
 
 137124 Bədən tərbiyəsi və idmanda reabilitasiya Ə 200 (260) 
 
-Naxçıvan Dövlət Universiteti 
+[Naxçıvan Dövlət Universiteti]
 
-142535 Biologiya müəllimliyi Ə 291 (422) 
-
+142535 Biologiya müəllimliyi Ə 291 (422)
 142543 Kimya müəllimliyi Ə 268 (466) 
-
 142551 Baytarlıq Ə 150 (150) 
-
 142568 Əczaçılıq Ə 455 (468) 
-
 142576 Müalicə işi Ə 540 ( - ) 
-
 142584 Tibbi profilaktika Ə 473 (637) 
+142592 Stomatologiya Ə 519 (645)
 
-142592 Stomatologiya Ə 519 (645) 
+[Azərbaycan Dövlət Aqrar Universiteti (Gəncə ş.)]
 
-Azərbaycan Dövlət Aqrar Universiteti (Gəncə ş.) 
-
-144552 Ekologiya Ə 196 (196) 
-
+144552 Ekologiya Ə 196 (196)
 144569 Baytarlıq Ə 167 (167) 
-
 144585 Su bioehtiyatları və akvabitkilər Ə 159 (159) 
+144593 Əczaçılıq Ə 243 (243)
 
-144593 Əczaçılıq Ə 243 (243) 
+[Gəncə Dövlət Universiteti]
 
-Gəncə Dövlət Universiteti 
-
-145549 Biologiya müəllimliyi Ə 215 (411) 
-
+145549 Biologiya müəllimliyi Ə 215 (411)
 145557 Kimya müəllimliyi Ə 220 (533) 
-
 145565 Kimya və biologiya müəllimliyi Ə 219 (423) 
-
 145573 Psixologiya Ə 200 (498) 
-
 145581 Kimya Ə 200 ( - ) 
+145598 Biologiya Ə 200 (508)
 
-145598 Biologiya Ə 200 (508) 
+[Sumqayıt Dövlət Universiteti]
 
-Sumqayıt Dövlət Universiteti 
-
-148692 Kimya və biologiya müəllimliyi Ə 223 ( - ) 
-
+148692 Kimya və biologiya müəllimliyi Ə 223 ( - )
 148716 Psixologiya Ə 207 ( - ) 
-
 148724 Psixologiya Q 200 ( - ) 
-
 148732 Kimya Ə 208 ( - ) 
+148749 Biologiya Ə 211 ( - )
 
-148749 Biologiya Ə 211 ( - ) 
+[Lənkəran Dövlət Universiteti]
 
-Lənkəran Dövlət Universiteti 
-
-151389 Kimya və biologiya müəllimliyi Ə 200 (438) 
-
+151389 Kimya və biologiya müəllimliyi Ə 200 (438)
 151397 Ekologiya Ə 155 (351) 
+151412 Baytarlıq Ə 150 (274)
 
-151412 Baytarlıq Ə 150 (274) 
+[Azərbaycan Kooperasiya Universiteti]
 
-Azərbaycan Kooperasiya Universiteti 
+152393 Ekologiya Ə 181
 
-152393 Ekologiya Ə 181 
+[Qərb Universiteti]
 
-Qərb Universiteti 
-
-157497 Psixologiya Ə 238 ( - ) 
-
+157497 Psixologiya Ə 238 ( - )
 157512 Psixologiya Q 200 ( - ) 
-
 157545 Biologiya Ə 200 
 
-Xəzər Universiteti 
+[Xəzər Universiteti]
 
-158411 Biologiya müəllimliyi Ə 200 (425) 
-
+158411 Biologiya müəllimliyi Ə 200 (425)
 158428 Kimya müəllimliyi Ə 200 ( - ) 
-
 158436 Kimya və biologiya müəllimliyi Ə 200 (428) 
+158444 Psixologiya (tədris ingilis dilində) Ə 200 ( - )
 
-17 IV груп, Азярбайъан бюлмяси 
+[Bakı Qızlar Universiteti]
 
-158444 Psixologiya (tədris ingilis dilində) Ə 200 ( - ) 
+163199 Psixologiya Ə 200 ( - )
 
-Bakı Qızlar Universiteti 
+["Odlar Yurdu" Universiteti]
 
-163199 Psixologiya Ə 200 ( - ) 
-
-"Odlar Yurdu" Universiteti 
-
-164413 Psixologiya Ə 200 ( - ) 
-
+164413 Psixologiya Ə 200 ( - )
 164438 Biologiya Ə 200 ( - ) 
 
-"Naxçıvan" Universiteti (Naxçıvan şəhəri) 
+["Naxçıvan" Universiteti (Naxçıvan şəhəri)]
 
 168253 Kimya və biologiya müəllimliyi Ə 200 ( - ) 
 
+[[V]]
  
+[Azərbaycan Memarlıq və İnşaat Universiteti]
 
- V груп, Азярбайъан бюлмяси 33 
+*118568 Dizayn Ə 71 (73)
 
-2017/2018-ЪИ ТЯДРИС ИЛИ ЦЧЦН 
+[Azərbaycan Dövlət Pedaqoji Universiteti]
 
- V ГРУП ИХТИСАСЛАР  
-
-ЦЗРЯ МЦСАБИГЯ НЯТИЪЯЛЯРИНЯ ЭЮРЯ  
-
-АЛЫНМЫШ МИНИМАЛ КЕЧИД БАЛЛАРЫ 
-
- 
-
-1) Keçid balı sütununda mötərizə içərisində müvafiq ixtisas üzrə dövlət sifarişi əsasında qəbulun keçid balı 
-
-göstərilmişdir. 
-
-2) Nəticəsi balla qiymətləndirilən xüsusi qabiliyyət imtahanı tələb edən iki ulduzlu (**) ixtisasların keçid balı 
-
-kəsr (/) işarəsi ilə verilmişdir. Kəsrin surətində müvafiq ixtisas üzrə qabiliyyət imtahanından ən aşağı bal 
-
-toplayan abituriyentin qabiliyyət imtahanı üzrə balı, məxrəcində isə həmin abituriyentin test imtahanı üzrə 
-
-balı göstərilmişdir. 
-
-3) Keçid balı sütununda mötərizə içərisində tire ( – ) işarəsi göstərir ki, müvafiq ixtisasda dövlət sifarişi 
-
-əsasında təhsil almaq hüququ qazanmış abituriyent yoxdur. Təhsili yalnız ödənişli əsaslarla olan 
-
-ixtisasların qarşısında belə mötərizə göstərilməmişdir. 
-
- 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-Kечид    
-
-балы коду ады  коду ады 
-
- 
-
- 
-
- 
-
-Azərbaycan Memarlıq və İnşaat Universiteti 
-
-*118568 Dizayn Ə 71 (73) 
-
-Azərbaycan Dövlət Pedaqoji Universiteti 
-
-*122414 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
-
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
-
-Ə 61 (72) 
-
+*122414 Fiziki tərbiyə və çağırışaqədərki hazırlıq (qızlar üçün fiziki tərbiyə) müəllimliyi Ə 61 (72)
 *122439 Musiqi müəllimliyi Ə 25 (65) 
-
 *122447 Təsviri incəsənət müəllimliyi Ə 48 (63) 
 
-Azərbaycan Dövlət İqtisad Universiteti 
+[Azərbaycan Dövlət İqtisad Universiteti]
 
-*123792 Dizayn Ə 62 (75) 
+*123792 Dizayn Ə 62 (75)
 
-Bakı Musiqi Akademiyası 
+Bakı Musiqi Akademiyası
 
-*132118 Musiqi müəllimliyi Ə 35 (64) 
+*132118 Musiqi müəllimliyi Ə 35 (64)
+**132126 İnstrumental ifaçılıq (fortepiano, orqan, klavesin, violin (skripka), viola (alt simli), violonçel, kontrabas, arfa, fleyta, qoboy, klarnet, saksofon, faqot, valtorna, truba, trombon, tuba, zərb alətləri) Ə 8/53 (9/60)
+**132134 İnstrumental ifaçılıq (fortepiano, orqan, klavesin, violin (skripka), viola (alt simli), violonçel, kontrabas, arfa, fleyta, qoboy, klarnet, saksofon, faqot, valtorna, truba, trombon, tuba, zərb alətləri) Q 7/25 ( - )
+**132142 Solo oxuma Ə 7/25 (10/34)
+**132159 Dirijorluq Ə 7/25 (9/67)
+**132167 Dirijorluq Q 9/58 (9/58)
+**132175 Bəstəkarlıq Ə 10/59 (10/59)
+**132183 Musiqişünaslıq Ə 7/25 (9/77)
+**132191 Musiqişünaslıq Q 8/75 (10/74)
 
-**132126 İnstrumental ifaçılıq (fortepiano, orqan, 
+[Azərbaycan Milli Konservatoriyası]
 
-klavesin, violin (skripka), viola (alt simli), 
-
-violonçel, kontrabas, arfa, fleyta, qoboy, 
-
-klarnet, saksofon, faqot, valtorna, truba, 
-
-trombon, tuba, zərb alətləri) 
-
-Ə 8/53 
-
-(9/60) 
-
-**132134 İnstrumental ifaçılıq (fortepiano, orqan, 
-
-klavesin, violin (skripka), viola (alt simli), 
-
-violonçel, kontrabas, arfa, fleyta, qoboy, 
-
-klarnet, saksofon, faqot, valtorna, truba, 
-
-trombon, tuba, zərb alətləri) 
-
-Q 7/25 ( - ) 
-
-**132142 Solo oxuma Ə 7/25 
-
-(10/34) 
-
-**132159 Dirijorluq Ə 7/25 
-
-(9/67) 
-
-**132167 Dirijorluq Q 9/58 
-
-(9/58) 
-
-**132175 Bəstəkarlıq Ə 10/59 
-
-(10/59) 
-
-**132183 Musiqişünaslıq Ə 7/25 
-
-(9/77) 
-
-**132191 Musiqişünaslıq Q 8/75 
-
-(10/74) 
-
-Azərbaycan Milli Konservatoriyası 
-
-*133114 Musiqi müəllimliyi Ə 25 (63) 
-
-**133122 Solo oxuma (milli vokal) Ə 8/60 
-
-(10/37) 
-
-**133139 Solo oxuma (xanəndəlik) Ə 7/30 
-
-(9/79) 
-
-**133147 Solo oxuma (xanəndəlik) Q 8/36 
-
-(10/57) 
-
-**133155 Dirijorluq Ə 9/32 
-
-(9/55) 
-
+*133114 Musiqi müəllimliyi Ə 25 (63)
+**133122 Solo oxuma (milli vokal) Ə 8/60 (10/37)
+**133139 Solo oxuma (xanəndəlik) Ə 7/30 (9/79)
+**133147 Solo oxuma (xanəndəlik) Q 8/36 (10/57)
+**133155 Dirijorluq Ə 9/32 (9/55)
 **133163 Bəstəkarlıq Ə 7/25 ( - ) 
-
-**133171 Musiqişünaslıq Ə 7/25 
-
-(9/78) 
-
+**133171 Musiqişünaslıq Ə 7/25 (9/78)
 **133188 Musiqişünaslıq Q 8/47 ( - ) 
+**133196 Estrada sənəti (fortepiano, akkordeon, klarnet, fleyta, gitara, saksofon, truba, tar, kamança, qanun, balaban, qoboy, tütək, ney, ud) Ə 8/60 (10/72)
+**133211 Xalq çalğı alətləri ifaçılığı (tar, saz, kamança, qanun, balaban, ney, zurna, tütək) Ə 7/30 (10/44)
+**133228 Xalq çalğı alətləri ifaçılığı (tar, saz, kamança, qanun, balaban, ney, zurna, tütək) Q 7/46 (10/60)
 
-**133196 Estrada sənəti (fortepiano, akkordeon, 
+[Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti]
 
-klarnet, fleyta, gitara, saksofon, truba, tar, 
-
-kamança, qanun, balaban, qoboy, tütək, 
-
-ney, ud) 
-
-Ə 8/60 
-
-(10/72) 
-
-**133211 Xalq çalğı alətləri ifaçılığı (tar, saz, 
-
-kamança, qanun, balaban, ney, zurna, 
-
-tütək) 
-
-Ə 7/30 
-
-(10/44) 
-
-**133228 Xalq çalğı alətləri ifaçılığı (tar, saz, 
-
-kamança, qanun, balaban, ney, zurna, 
-
-tütək) 
-
-Q 7/46 
-
-(10/60) 
-
-Azərbaycan Dövlət Mədəniyyət və İncəsənət 
-
-Universiteti 
-
-*134257 Musiqi müəllimliyi Ə 25 (62) 
-
+*134257 Musiqi müəllimliyi Ə 25 (62)
 *134265 Təsviri incəsənət müəllimliyi Ə 49 (66) 
-
-**134281 İnstrumental ifaçılıq (fortepiano, violin 
-
-(skripka), gitara, klarnet, saksofon, zərb 
-
-alətləri) 
-
-Ə 7/25 
-
-(9/66) 
-
+**134281 İnstrumental ifaçılıq (fortepiano, violin (skripka), gitara, klarnet, saksofon, zərb alətləri) Ə 7/25 (9/66)
 **134313 Solo oxuma (xanəndə) Ə 7/41 ( - ) 
-
 **134321 Musiqişünaslıq Ə 7/25 ( - ) 
-
-Ихтисасын  Тящ. 
-
-фор. 
-
-Кечид    
-
-балы 
-
- Ихтисасын Тящ. 
-
-фор. 
-
-Kечид    
-
-балы коду ады  коду ады 
-
- 
-
-34 V груп, Азярбайъан бюлмяси 
-
-**134338 Estrada sənəti Ə 8/54 
-
-(10/68) 
-
-**134354 Xalq çalğı alətləri ifaçılığı (tar, kamança, 
-
-saz, qanun, nağara, balaban) 
-
-Ə 7/30 
-
-(10/78) 
-
-**134362 Aktyor sənəti Ə 7/40 
-
-(9/50) 
-
+**134338 Estrada sənəti Ə 8/54 (10/68)
+**134354 Xalq çalğı alətləri ifaçılığı (tar, kamança, saz, qanun, nağara, balaban) Ə 7/30 (10/78)
+**134362 Aktyor sənəti Ə 7/40 (9/50)
 **134387 Dekorativ sənət Ə 7/50 ( - ) 
-
-**134419 Rejissorluq Ə 7/60 
-
-(9/70) 
-
-**134435 Operator sənəti Ə 7/40 
-
-(9/67) 
-
+**134419 Rejissorluq Ə 7/60 (9/70)
+**134435 Operator sənəti Ə 7/40 (9/67)
 **134451 Rəngkarlıq Ə 9/34 ( - ) 
-
 **134476 Qrafika Ə 8/70 ( - ) 
-
 **134484 Dizayn Ə 8/53 ( - ) 
 
-Azərbaycan Dövlət Rəssamlıq Akademiyası 
+[Azərbaycan Dövlət Rəssamlıq Akademiyası]
 
-*135148 Təsviri incəsənət müəllimliyi Ə 61 (63) 
+*135148 Təsviri incəsənət müəllimliyi Ə 61 (63)
+**135156 Dekorativ sənət Ə 7/50 (10/60)
+**135164 Rəngkarlıq Ə 9/42 (10/53)
+**135172 Qrafika Ə 9/44 (9/60)
+**135189 Heykəltəraşlıq Ə 8/36 (9/55)
+**135197 Dizayn Ə 8/50 (9/83)
 
-**135156 Dekorativ sənət Ə 7/50 
+[Bakı Xoreoqrafiya Akademiyası]
 
-(10/60) 
-
-**135164 Rəngkarlıq Ə 9/42 
-
-(10/53) 
-
-**135172 Qrafika Ə 9/44 
-
-(9/60) 
-
-**135189 Heykəltəraşlıq Ə 8/36 
-
-(9/55) 
-
-**135197 Dizayn Ə 8/50 
-
-(9/83) 
-
-Bakı Xoreoqrafiya Akademiyası 
-
-*136566 Rəqs müəllimliyi Ə 37 (45) 
-
+*136566 Rəqs müəllimliyi Ə 37 (45)
 *136574 Rəqs müəllimliyi Q 25 ( - ) 
-
 *136582 Musiqi müəllimliyi Ə 25 ( - ) 
-
 *136599 Musiqi müəllimliyi Q 37 ( - ) 
-
-**136614 İnstrumental ifaçılıq (fortepiano, klarnet, 
-
-zərb alətləri) 
-
-Ə 7/25 ( - ) 
-
-**136622 İnstrumental ifaçılıq (fortepiano, klarnet, 
-
-zərb alətləri) 
-
-Q 7/25 ( - ) 
-
+**136614 İnstrumental ifaçılıq (fortepiano, klarnet, zərb alətləri) Ə 7/25 ( - )
+**136622 İnstrumental ifaçılıq (fortepiano, klarnet, zərb alətləri) Q 7/25 ( - )
 **136639 Musiqişünaslıq Ə 7/25 ( - ) 
-
 **136647 Musiqişünaslıq Q 7/25 ( - ) 
-
-**136655 Xoreoqrafiya sənəti (baletmeyster) Ə 9/47 
-
-(9/47) 
-
-**136663 Xoreoqrafiya sənəti (baletmeyster) Q 10/47 
-
-(10/47) 
-
+**136655 Xoreoqrafiya sənəti (baletmeyster) Ə 9/47 (9/47)
+**136663 Xoreoqrafiya sənəti (baletmeyster) Q 10/47 (10/47)
 **136671 Xoreoqrafiya sənəti (ifaçılıq) Ə 7/25 ( - ) 
-
 **136688 Xoreoqrafiya sənəti (ifaçılıq) Q 7/25 ( - ) 
-
-**136696 Xoreoqrafiya sənəti (milli rəqslər) Ə 8/33 
-
-(9/58) 
-
+**136696 Xoreoqrafiya sənəti (milli rəqslər) Ə 8/33 (9/58)
 **136711 Xoreoqrafiya sənəti (milli rəqslər) Q 8/35 ( - ) 
-
 **136728 Xoreoqrafiya sənəti (modern rəqslər) Ə 7/25 ( - ) 
-
 **136736 Xoreoqrafiya sənəti (modern rəqslər) Q 7/25 ( - ) 
-
-**136744 Xalq çalğı alətləri ifaçılığı (nağara, tar, 
-
-balaban, kamança, qarmon) 
-
-Ə 7/30 ( - ) 
-
-**136752 Xalq çalğı alətləri ifaçılığı (nağara, tar, 
-
-balaban, kamança, qarmon) 
-
-Q 7/30 ( - ) 
-
+**136744 Xalq çalğı alətləri ifaçılığı (nağara, tar, balaban, kamança, qarmon) Ə 7/30 ( - )
+**136752 Xalq çalğı alətləri ifaçılığı (nağara, tar, balaban, kamança, qarmon) Q 7/30 ( - )
 **136769 Rejissorluq Ə 7/60 ( - ) 
-
 **136777 Rejissorluq Q 7/60 ( - ) 
 
-Azərbaycan Dövlət Bədən Tərbiyəsi və İdman 
+[Azərbaycan Dövlət Bədən Tərbiyəsi və İdman Akademiyası]
 
-Akademiyası 
-
-*137132 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
-
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
-
-Ə 64 (72) 
-
-*137149 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
-
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
-
-Q 57 (72) 
-
+*137132 Fiziki tərbiyə və çağırışaqədərki hazırlıq (qızlar üçün fiziki tərbiyə) müəllimliyi Ə 64 (72)
+*137149 Fiziki tərbiyə və çağırışaqədərki hazırlıq (qızlar üçün fiziki tərbiyə) müəllimliyi Q 57 (72)
 *137157 Məşqçi (idman növü üzrə) Ə 57 (72) 
-
 *137165 Məşqçi (idman növü üzrə) Q 54 (73) 
 
-Naxçıvan Dövlət Universiteti 
+[Naxçıvan Dövlət Universiteti]
 
-*142616 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
-
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
-
-Ə 55 (75) 
-
+*142616 Fiziki tərbiyə və çağırışaqədərki hazırlıq (qızlar üçün fiziki tərbiyə) müəllimliyi Ə 55 (75)
 *142624 Musiqi müəllimliyi Ə 25 (64) 
-
 *142632 Təsviri incəsənət müəllimliyi Ə 50 (62) 
-
 *142649 Bədən tərbiyəsi və idman Ə 57 (64) 
-
 *142657 Bədən tərbiyəsi və idman Q 55 (66) 
-
-**142665 İnstrumental ifaçılıq (fortepiano) Ə 7/25 
-
-(9/61) 
-
-**142673 İnstrumental ifaçılıq (violin (skripka), 
-
-viola (alt simli), violonçel, kontrabas) 
-
-Ə 7/25 
-
-(10/59) 
-
-**142681 İnstrumental ifaçılıq (fleyta, klarnet, truba, 
-
-saksofon, trombon, qoboy, valtorna, faqot) 
-
-Ə 7/25 
-
-(10/46) 
-
-**142698 Solo oxuma Ə 9/49 
-
-(9/70) 
-
+**142665 İnstrumental ifaçılıq (fortepiano) Ə 7/25 (9/61)
+**142673 İnstrumental ifaçılıq (violin (skripka), viola (alt simli), violonçel, kontrabas) Ə 7/25 (10/59)
+**142681 İnstrumental ifaçılıq (fleyta, klarnet, truba, saksofon, trombon, qoboy, valtorna, faqot) Ə 7/25 (10/46)
+**142698 Solo oxuma Ə 9/49 (9/70)
 **142713 Dirijorluq Ə 7/25 ( - ) 
-
-**142721 Bəstəkarlıq Ə 7/34 
-
-(10/37) 
-
-**142738 Musiqişünaslıq Ə 7/25 
-
-(10/48) 
-
-**142746 Musiqişünaslıq Q 10/30 
-
-(10/30) 
-
-**142754 Xalq çalğı alətləri ifaçılığı (tar, kamança, 
-
-saz, qanun, nağara, balaban, qarmon) 
-
-Ə 10/35 
-
-(10/44) 
-
+**142721 Bəstəkarlıq Ə 7/34 (10/37)
+**142738 Musiqişünaslıq Ə 7/25 (10/48)
+**142746 Musiqişünaslıq Q 10/30 (10/30)
+**142754 Xalq çalğı alətləri ifaçılığı (tar, kamança, saz, qanun, nağara, balaban, qarmon) Ə 10/35 (10/44)
 **142762 Aktyor sənəti Ə 7/45 ( - ) 
+**142779 Rəngkarlıq Ə 9/40 ( - )
 
-**142779 Rəngkarlıq Ə 9/40 ( - ) 
+[Naxçıvan Müəllimlər İnstitutu]
 
-Naxçıvan Müəllimlər İnstitutu 
+*143167 Təsviri incəsənət müəllimliyi Ə 45 (64)
 
-*143167 Təsviri incəsənət müəllimliyi Ə 45 (64) 
+[Azərbaycan Dövlət Aqrar Universiteti (Gəncə ş.)]
 
-Azərbaycan Dövlət Aqrar Universiteti (Gəncə ş.) 
+*144625 Dizayn Ə 59 (77)
 
-*144625 Dizayn Ə 59 (77) 
+[Gəncə Dövlət Universiteti]
 
-Gəncə Dövlət Universiteti 
-
-*145613 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
-
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
-
-Ə 57 (72) 
-
+*145613 Fiziki tərbiyə və çağırışaqədərki hazırlıq (qızlar üçün fiziki tərbiyə) müəllimliyi Ə 57 (72)
 *145621 Musiqi müəllimliyi Ə 55 (63) 
-
 *145638 Təsviri incəsənət müəllimliyi Ə 55 (63) 
-
 *145646 Bədən tərbiyəsi və idman Ə 64 (64) 
-
 *145654 Bədən tərbiyəsi və idman Q 59 (64) 
 
-Azərbaycan Texnologiya Universiteti (Gəncə ş.) 
+[Azərbaycan Texnologiya Universiteti (Gəncə ş.)]
 
-*147436 Dizayn Ə 55 ( - ) 
+*147436 Dizayn Ə 55 ( - )
 
-Sumqayıt Dövlət Universiteti 
+[Sumqayıt Dövlət Universiteti]
 
-*148757 Fiziki tərbiyə və çağırışaqədərki hazırlıq 
+*148757 Fiziki tərbiyə və çağırışaqədərki hazırlıq (qızlar üçün fiziki tərbiyə) müəllimliyi Ə 57 (80)
 
-(qızlar üçün fiziki tərbiyə) müəllimliyi 
+[Lənkəran Dövlət Universiteti]
 
-Ə 57 (80) 
+**151429 Aktyor sənəti Ə 7/40 ( - )
 
-Lənkəran Dövlət Universiteti 
+[Qərb Universiteti]
 
-**151429 Aktyor sənəti Ə 7/40 ( - ) 
+**157537 Dizayn Ə 7/50 ( - )
 
-Qərb Universiteti 
+[Xəzər Universiteti]
 
- V груп, Азярбайъан бюлмяси 35 
+**158452 Dizayn (tədris ingilis dilində) Ə 7/50 ( - )
 
-**157537 Dizayn Ə 7/50 ( - ) 
+["Odlar Yurdu" Universiteti]
 
-Xəzər Universiteti 
-
-**158452 Dizayn (tədris ingilis dilində) Ə 7/50 ( - ) 
-
-"Odlar Yurdu" Universiteti 
-
-**164446 Dizayn Ə 7/50 ( - ) 
-
+**164446 Dizayn Ə 7/50 ( - )
 *164462 Dizayn Ə 59 ( - ) 
 
-"Naxçıvan" Universiteti (Naxçıvan şəhəri) 
-
+["Naxçıvan" Universiteti (Naxçıvan şəhəri)]
 *168261 Bədən tərbiyəsi və idman Ə 47 ( - ) 
-
  
-
-8 Азярбайъан бюлмяси 
-
-2017/2018-ЪИ ТЯДРИС ИЛИ ЦЧЦН  
-
-БОШ ГАЛАН PLAN YERLЯRИ ЦZRЯ  МЦСАБИГЯ 
-
-НЯТИЪЯСИНЯ ЭЮРЯ АЛЫНМЫШ МИНИМАЛ КЕЧИД БАЛЛАРЫ 
-
- 
-
-1) Keçid balı sütununda mötərizə içərisində müvafiq ixtisas üzrə dövlət sifarişi əsasında qəbulun keçid balı 
-
-göstərilmişdir. 
-
-2) Nəticəsi balla qiymətləndirilən xüsusi qabiliyyət imtahanı tələb edən iki ulduzlu (**) ixtisasların keçid balı 
-
-kəsr (/) işarəsi ilə verilmişdir. Kəsrin surətində müvafiq ixtisas üzrə qabiliyyət imtahanından ən aşağı bal 
-
-toplayan abituriyentin qabiliyyət imtahanı üzrə balı, məxrəcində isə həmin abituriyentin test imtahanı üzrə 
-
-balı göstərilmişdir. 
-
-3) Keçid balı sütununda mötərizə içərisində tire ( – ) işarəsi göstərir ki, müvafiq ixtisasda dövlət sifarişi 
-
-əsasında təhsil almaq hüququ qazanmış abituriyent yoxdur. Təhsili yalnız ödənişli əsaslarla olan 
-
-ixtisasların qarşısında belə mötərizə göstərilməmişdir. 
-
- 
-
-Коду Ихтисасын ады Тящ. 
-
-фор. 
-
-кечид    
-
-балы 
-
- Коду Ихтисасын ады Тящ. 
-
-фор. 
-
-кечид    
-
-балы 
-
- 
-
-Бакы Дювлят Университети 
-
-111277 Эеолоэийа Я 311 
-
-111285 Эеолоэийа Г 250 
-
-111325 Компцтер елмляри Г 300 
-
-111366 Эеолоэийа мцщяндислийиa Г 200 
-
-111399 Щидроэеолоэийа мцщяндислийи Г 200 
-
-111422 Эеофизика мцщяндислийи Г 200 
-
-111463 Торпагшцнаслыг вя агрокимйа Г 200 
-
-111496 Йер гурулушу, торпаг вя шящяр кадастры Г 200 
-
-111569 Реэионшцнаслыг (Гафгаз цзря) Я 200 
-
-111585 Реэионшцнаслыг (яряб юлкяляри цзря) Я 200 
-
-111593 Реэионшцнаслыг (Иран цзря) Я 200 
-
-111625 Реэионшцнаслыг (Йапонийа цзря) Я 200 
-
-111641 Реэионшцнаслыг (Пакистан цзря) Я 200 
-
-111771 Бейнялхалг мцнасибятляр (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-112184 Филолоэийа (алман дили вя ядябиййаты) Я 200 
-
-112192 Филолоэийа (франсыз дили вя ядябиййаты) Я 200 
-
-112476 Китабханачылыг вя информасийа (тядрис 
-
-инэилис дилиндя) 
-
-Я 388 
-
-112727 Еколоэийа Г 449 
-
-112768 Физика мцяллимлийи (Газах филиалы) Я 200 
-
-112784 Рийазиййат мцяллимлийи (Газах филиалы) Я 200 
-
-112938 Кимйа вя биолоэийа мцяллимлийи (Газах 
-
-филиалы) 
-
-Я 200 
-
-Азярбайъан Дювлят Нефт вя Сянайе Университети 
-
-114225 Эеофизика мцщяндислийи (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-114411 Ъищазгайырма мцщяндислийи (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-114436 Техноложи машын вя аваданлыглар 
-
-мцщяндислийи 
-
-Г 200 
-
-114541 Мехатроника вя робототехника 
-
-мцщяндислийи 
-
-Я 250 
-
-114688 Метролоэийа, стандартлашдырма вя 
-
-сертификасийа мцщяндислийи (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-114728 Биотибби технолоэийа мцщяндислийи (тядрис 
-
-инэилис дилиндя) 
-
-Я 200 
-
-114752 Еколоэийа мцщяндислийи (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-114939 Бизнесин идаря едилмяси Г 238 
-
-Азярбайъан Техники Университети 
-
-116186 Компцтер елмляри Я 310 
-
-116194 Материалшцнаслыг мцщяндислийи Я 232 
-
-116242 Истилик енерэетикасы мцщяндислийи Г 200 
-
-116291 Машын мцщяндислийи Г 200 
-
-116348 Йерцстц няглиййат васитяляринин 
-
-мцщяндислийи 
-
-Г 200 
-
-116412 Електрик мцщяндислийи Г 200 
-
-116429 Електроника, телекоммуникасийа вя 
-
-радиотехника мцщяндислийи 
-
-Я 250 
-
-116437 Електроника, телекоммуникасийа вя 
-
-радиотехника мцщяндислийи 
-
-Г 250 
-
-116478 Просеслярин автоматлашдырылмасы 
-
-мцщяндислийи 
-
-Г 200 
-
-116591 Биотибби технолоэийа мцщяндислийи Г 200 
-
-116648 Информасийа технолоэийалары Г 250 
-
-Азярбайъан Мемарлыг вя Иншаат Университети 
-
-118195 Иншаат мцщяндислийи Г 250 
-
-118219 Иншаат мцщяндислийи Я 301 
-
-118243 Мцщяндис системляринин вя гурьуларынын 
-
-тикинтиси мцщяндислийи 
-
-Г 200 
-
-118268 Няглиййат тикинтиси мцщяндислийи Я 302 
-
-118276 Няглиййат тикинтиси мцщяндислийи Г 250 
-
-118284 Няглиййат тикинтиси мцщяндислийи Я 250 
-
-118316 Мелиорасийа вя су тясяррцфаты тикинтиси 
-
-мцщяндислийи 
-
-Г 200 
-
-118324 Мелиорасийа вя су тясяррцфаты тикинтиси 
-
-мцщяндислийи 
-
-Я 201 
-
-118373 Еколоэийа мцщяндислийи Я 200 
-
-118381 Еколоэийа мцщяндислийи (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-118421 Информасийа технолоэийалары Я 276 
-
-118438 Информасийа технолоэийалары (тядрис инэилис 
-
-дилиндя) 
-
-Я 250 
-
-*118454 Мемарлыг Я 200 
-
-*118462 Мемарлыг Я 200 
-
-Коду Ихтисасын ады Тящ. 
-
-фор. 
-
-кечид    
-
-балы 
-
- Коду Ихтисасын ады Тящ. 
-
-фор. 
-
-кечид    
-
-балы 
-
- 
-
- Азярбайъан бюлмяси 9 
-
-118519 Сянайенин тяшкили вя идаря олунмасы (тядрис 
-
-инэилис дилиндя) 
-
-Я 200 
-
-118535 Менеъмент Я 231 
-
-118592 Шящярсалма Я 200 
-
-Азярбайъан Дювлят Педагожи Университети 
-
-*122439 Мусиги мцяллимлийи Я 25 
-
-122699 Мяктябягядяр тялим вя тярбийя (Ъялилабад 
-
-филиалы) 
-
-Я 262 
-
-Азярбайъан Дювлят Игтисад Университети 
-
-123143 Гида мящсуллары мцщяндислийи Г 200 
-
-123176 Чохишлянян малларын технолоэийасы 
-
-мцщяндислийи 
-
-Г 200 
-
-123249 Метролоэийа, стандартлашдырма вя 
-
-сертификасийа мцщяндислийи 
-
-Г 200 
-
-123824 Мцщасибат учоту вя аудит (Загатала филиалы) Я 200 
-
-123832 Мцщасибат учоту вя аудит (Загатала филиалы) Г 200 
-
-123849 Малиййя (Загатала филиалы) Я 200 
-
-123857 Малиййя (Загатала филиалы) Г 200 
-
-123865 Игтисадиййат (Загатала филиалы) Я 200 
-
-123873 Игтисадиййат (Загатала филиалы) Г 200 
-
-123881 Бизнесин идаря едилмяси (Загатала филиалы) Я 200 
-
-123898 Бизнесин идаря едилмяси (Загатала филиалы) Г 200 
-
-Азярбайъан Дилляр Университети 
-
-126116 Реэионшцнаслыг (Бюйцк Британийа цзря) Я 200 
-
-126246 Реэионшцнаслыг (Норвеч цзря) Я 200 
-
-126473 Тяръцмя (Азярбайъан дили-алман дили) Я 200 
-
-126562 Журналистика (тядрис инэилис дилиндя) Я 200 
-
-Бакы Славйан Университети 
-
-127412 Тяръцмя (болгар дили) Я 383 
-
-Бакы Мцщяндислик Университети 
-
-128117 Електроенерэетика мцщяндислийи Я 200 
-
-128125 Машын мцщяндислийи Я 200 
-
-128141 Механика мцщяндислийи Я 200 
-
-128182 Иншаат мцщяндислийи Я 250 
-
-128199 Иншаат мцщяндислийи (тядрис инэилис дилиндя) Я 250 
-
-128214 Мцщяндис системляринин вя гурьуларынын 
-
-тикинтиси мцщяндислийи 
-
-Я 200 
-
-128222 Кимйа мцщяндислийи Я 200 
-
-128247 Еколоэийа мцщяндислийи Я 200 
-
-128255 Еколоэийа мцщяндислийи (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-128296 Сянайе мцщяндислийи Я 200 
-
-128311 Сянайе мцщяндислийи (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-128344 Шящярсалма Я 200 
-
-128369 Мемарлыг Я 200 
-
-128377 Мемарлыг (тядрис инэилис дилиндя) Я 200 
-
-128393 Дцнйа игтисадиййаты (тядрис инэилис дилиндя) Я 200 
-
-128425 Мцщасибат учоту вя аудит (тядрис инэилис 
-
-дилиндя) 
-
-Я 209 
-
-128441 Малиййя (тядрис инэилис дилиндя) Я 200 
-
-128466 Сянайенин тяшкили вя идаря олунмасы (тядрис 
-
-инэилис дилиндя) 
-
-Я 200 
-
-128482 Бизнесин идаря едилмяси (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-128514 Дювлят вя бялядиййя идаряетмяси (тядрис 
-
-инэилис дилиндя) 
-
-Я 200 
-
-Бакы Мусиги Академийасы 
-
-**132134 Инструментал ифачылыг (фортепиано, орган, 
-
-клавесин, виолин (скрипка), виола (алт симли), 
-
-виолончел, контрабас, арфа, флейта, гобой, 
-
-кларнет, саксофон, фагот, валторна, труба, 
-
-тромбон, туба, зярб алятляри) 
-
-Г 7/25 
-
-**132142 Соло охума Я 7/25 
-
-**132159 Дирижорлуг Я 7/25 
-
-**132183 Мусигишцнаслыг Я 7/25 
-
-Азярбайъан Милли Консерваторийасы 
-
-*133114 Мусиги мцяллимлийи Я 25 
-
-**133139 Соло охума (ханяндялик) Я 7/30 
-
-**133163 Бястякарлыг Я 7/25 
-
-**133171 Мусигишцнаслыг Я 7/25 
-
-**133211 Халг чальы алятляри ифачылыьы (тар, саз, 
-
-каманча, ганун, балабан, ней, зурна, 
-
-тцтяк) 
-
-Я 7/30 
-
-Азярбайъан Дювлят Мядяниййят вя Инъясянят 
-
-Университети 
-
-*134257 Мусиги мцяллимлийи Я 25 
-
-**134281 Инструментал ифачылыг (фортепиано, виолин 
-
-(скрипка), эитара, кларнет, саксофон, зярб 
-
-алятляри) 
-
-Я 7/25 
-
-**134321 Мусигишцнаслыг Я 7/25 
-
-**134354 Халг чальы алятляри ифачылыьы (тар, каманча, 
-
-саз, ганун, наьара, балабан) 
-
-Я 7/30 
-
-**134387 Декоратив сянят Я 7/50 
-
-**134419 Режиссорлуг Я 7/60 ( - ) 
-
-**134435 Оператор сяняти Я 7/40 ( - ) 
-
-Азярбайъан Дювлят Ряссамлыг Академийасы 
-
-*135115 Мемарлыг Я 200 
-
-**135156 Декоратив сянят Я 7/50 
-
-Бакы Хореографийа Академийасы 
-
-136525 Менеъмент (продцсер) Г 200 
-
-*136574 Рягс мцяллимлийи Г 25 
-
-*136582 Мусиги мцяллимлийи Я 25 
-
-**136614 Инструментал ифачылыг (фортепиано, кларнет, 
-
-зярб алятляри) 
-
-Я 7/25 
-
-**136622 Инструментал ифачылыг (фортепиано, кларнет, 
-
-зярб алятляри) 
-
-Г 7/25 
-
-**136639 Мусигишцнаслыг Я 7/25 
-
-**136647 Мусигишцнаслыг Г 7/25 
-
-**136671 Хореографийа сяняти (ифачылыг) Я 7/40 ( - ) 
-
-**136688 Хореографийа сяняти (ифачылыг) Г 7/25 ( - ) 
-
-**136728 Хореографийа сяняти (модерн рягсляр) Я 7/35 ( - ) 
-
-**136736 Хореографийа сяняти (модерн рягсляр) Г 7/25 ( - ) 
-
-**136744 Халг чальы алятляри ифачылыьы (наьара, тар, 
-
-балабан, каманча, гармон) 
-
-Я 7/30 
-
-**136752 Халг чальы алятляри ифачылыьы (наьара, тар, 
-
-балабан, каманча, гармон) 
-
-Г 7/30 
-
-**136769 Режиссорлуг Я 7/60 ( - ) 
-
-**136777 Режиссорлуг Г 7/60 ( - ) 
-
-Азярбайъан Дювлят Бядян Тярбийяси вя Идман 
-
-Академийасы 
-
-137124 Бядян тярбийяси вя идманда реабилитасийа Я 200 (299) 
-
-Милли Авиасийа Академийасы 
-
-138267 Просеслярин автоматлашдырылмасы 
-
-мцщяндислийи 
-
-Я 315 
-
-Нахчыван Дювлят Университети 
-
-142162 Дямирйол няглиййаты вя тясяррцфаты 
-
-мцщяндислийи 
-
-Я 200 
-
-Коду Ихтисасын ады Тящ. 
-
-фор. 
-
-кечид    
-
-балы 
-
- Коду Ихтисасын ады Тящ. 
-
-фор. 
-
-кечид    
-
-балы 
-
- 
-
-10 Азярбайъан бюлмяси 
-
-142187 Йерцстц няглиййат васитяляринин 
-
-мцщяндислийи 
-
-Г 200 
-
-142219 Эеодезийа вя хяритячилик мцщяндислийи Я 200 
-
-*142251 Мемарлыг Я 100 
-
-142276 Бейнялхалг мцнасибятляр Я 200 
-
-142413 Хариъи дил мцяллимлийи (алман дили цзря) Я 514 
-
-142446 Тяръцмя (яряб дили-Азярбайъан дили) Я 200 
-
-142487 Китабханачылыг вя информасийа Я 320 
-
-142527 Журналистика Я 342 
-
-142551 Байтарлыг Я 150 (170) 
-
-*142624 Мусиги мцяллимлийи Я 25 
-
-**142665 Инструментал ифачылыг (фортепиано) Я 7/25 
-
-**142673 Инструментал ифачылыг (виолин (скрипка), 
-
-виола (алт симли), виолончел, контрабас) 
-
-Я 7/25 
-
-**142681 Инструментал ифачылыг (флейта, кларнет, труба, 
-
-саксофон, тромбон, гобой, валторна, фагот) 
-
-Я 7/25 
-
-**142713 Дирижорлуг Я 7/25 
-
-**142738 Мусигишцнаслыг Я 9/59 
-
-**142762 Актйор сяняти Я 7/45 ( - ) 
-
-Нахчыван Мцяллимляр Институту 
-
-143126 Ибтидаи синиф мцяллимлийи Я 212 
-
-143134 Мяктябягядяр тялим вя тярбийя Я 200 
-
-143142 Тящсилдя сосиал-психоложи хидмят Я 324 
-
-143159 Китабханачылыг вя информасийа Я 206 
-
-Азярбайъан Дювлят Аграр Университети (Эянъя ш.) 
-
-144114 Машын мцщяндислийи Я 200 
-
-144139 Йерцстц няглиййат васитяляринин 
-
-мцщяндислийи 
-
-Г 200 
-
-144147 Електрик мцщяндислийи Я 200 
-
-144155 Електрик мцщяндислийи Г 200 
-
-144163 Просеслярин автоматлашдырылмасы 
-
-мцщяндислийи 
-
-Я 200 
-
-144196 Гида мящсуллары мцщяндислийи Я 200 
-
-144236 Метролоэийа, стандартлашдырма вя 
-
-сертификасийа мцщяндислийи 
-
-Я 200 
-
-144244 Информасийа технолоэийалары Я 250 
-
-144317 Агрономлуг (тядрис инэилис дилиндя) Я 150 (166) 
-
-144341 Йер гурулушу, торпаг вя шящяр кадастры Я 200 
-
-144447 Малиййя Г 200 
-
-144463 Игтисадиййат Г 200 
-
-144488 Игтисадиййат (тядрис инэилис дилиндя) Я 200 
-
-Эянъя Дювлят Университети 
-
-145176 Компцтер елмляри Я 300 
-
-145184 Еколоэийа мцщяндислийи Я 200 
-
-145232 Мцщасибат учоту вя аудит Г 200 
-
-145265 Игтисадиййат Г 200 
-
-145573 Психолоэийа Я 200 
-
-145581 Кимйа Я 200 
-
-145598 Биолоэийа Я 200 
-
-Азярбайъан Технолоэийа Университети (Эянъя ш.) 
-
-147111 Металлурэийа мцщяндислийи Я 200 
-
-147128 Машын мцщяндислийи Я 200 
-
-147152 Техноложи машын вя аваданлыглар 
-
-мцщяндислийи (йейинти сянайеси цзря) 
-
-Я 200 
-
-147169 Електроника, телекоммуникасийа вя 
-
-радиотехника мцщяндислийи 
-
-Я 250 
-
-147177 Просеслярин автоматлашдырылмасы 
-
-мцщяндислийи 
-
-Я 200 
-
-147217 Кимйа мцщяндислийи Я 200 
-
-147225 Гида мящсуллары мцщяндислийи Я 200 
-
-147258 Метролоэийа, стандартлашдырма вя 
-
-сертификасийа мцщяндислийи 
-
-Я 200 
-
-147266 Еколоэийа мцщяндислийи Я 200 
-
-147274 Информасийа технолоэийалары Я 250 
-
-147299 Мцщасибат учоту вя аудит Г 200 
-
-147339 Сянайенин тяшкили вя идаря олунмасы Г 200 
-
-147347 Менеъмент Я 200 
-
-147355 Менеъмент Г 200 
-
-147388 Бизнесин идаря едилмяси Я 200 
-
-147396 Бизнесин идаря едилмяси Г 200 
-
-147411 Дювлят вя бялядиййя идаряетмяси Я 200 
-
-147428 Дювлят вя бялядиййя идаряетмяси Г 200 
-
-Сумгайыт Дювлят Университети 
-
-148149 Рийазиййат Я 250 
-
-148157 Физика Я 250 
-
-148173 Нефт-газ мцщяндислийи Г 200 
-
-148198 Електроенерэетика мцщяндислийи Г 200 
-
-148213 Истилик енерэетикасы мцщяндислийи Я 200 
-
-148221 Истилик енерэетикасы мцщяндислийи Г 200 
-
-148238 Енержи машынгайырмасы мцщяндислийи Я 200 
-
-148254 Електрик мцщяндислийи Г 200 
-
-148287 Просеслярин автоматлашдырылмасы 
-
-мцщяндислийи 
-
-Г 200 
-
-148319 Компцтер мцщяндислийи Г 200 
-
-148343 Кимйа мцщяндислийи Г 200 
-
-148368 Метролоэийа, стандартлашдырма вя 
-
-сертификасийа мцщяндислийи 
-
-Я 200 
-
-148376 Еколоэийа мцщяндислийи Я 200 
-
-148384 Еколоэийа мцщяндислийи Г 200 
-
-148392 Информасийа технолоэийалары Я 250 
-
-148724 Психолоэийа Г 200 
-
-Минэячевир Дювлят Университети 
-
-149137 Електроенерэетика мцщяндислийи Я 200 
-
-149145 Истилик енерэетикасы мцщяндислийи Я 200 
-
-149153 Истилик енерэетикасы мцщяндислийи Г 200 
-
-149161 Йерцстц няглиййат васитяляринин 
-
-мцщяндислийи 
-
-Я 200 
-
-149178 Йерцстц няглиййат васитяляринин 
-
-мцщяндислийи 
-
-Г 200 
-
-149186 Еколоэийа мцщяндислийи Я 200 
-
-149194 Информасийа технолоэийалары Я 322 
-
-149226 Мцщасибат учоту вя аудит Г 200 
-
-149259 Игтисадиййат Г 200 
-
-149275 Сянайенин тяшкили вя идаря олунмасы Г 200 
-
-149283 Менеъмент Я 200 
-
-Лянкяран Дювлят Университети 
-
-151137 Гида мящсуллары мцщяндислийи Я 200 
-
-151218 Мцщасибат учоту вя аудит Г 200 
-
-151234 Малиййя Г 200 
-
-151242 Игтисадиййат Я 200 
-
-151259 Игтисадиййат Г 200 
-
-151267 Бизнесин идаря едилмяси Я 200 
-
-151275 Бизнесин идаря едилмяси Г 200 
-
-151348 Мяктябягядяр тялим вя тярбийя Я 339 
-
-151364 Тяръцмя (инэилис дили цзря) Я 383 
-
-151389 Кимйа вя биолоэийа мцяллимлийи Я 200 
-
-151412 Байтарлыг Я 150 (333) 
-
-**151429 Актйор сяняти Я 7/40 ( - ) 
-
-Азярбайъан Кооперасийа Университети 
-
-152117 Рийазиййат Я 250 
-
-152125 Гида мящсуллары мцщяндислийи Я 200 
-
-152158 Метролоэийа, стандартлашдырма вя 
-
-сертификасийа мцщяндислийи 
-
-Я 200 
-
-152166 Дцнйа игтисадиййаты Г 200 
-
-152174 Дцнйа игтисадиййаты Я 200 
-
-152182 Мцщасибат учоту вя аудит Г 200 
-
-152199 Мцщасибат учоту вя аудит Я 200 
-
-152214 Малиййя Г 200 
-
-Коду Ихтисасын ады Тящ. 
-
-фор. 
-
-кечид    
-
-балы 
-
- Коду Ихтисасын ады Тящ. 
-
-фор. 
-
-кечид    
-
-балы 
-
- 
-
- Азярбайъан бюлмяси 11 
-
-152222 Малиййя Я 200 
-
-152239 Игтисадиййат Г 200 
-
-152247 Игтисадиййат Я 200 
-
-152255 Сянайенин тяшкили вя идаря олунмасы Я 200 
-
-152263 Сянайенин тяшкили вя идаря олунмасы Г 200 
-
-152271 Менеъмент Я 200 
-
-152296 Бизнесин идаря едилмяси Я 200 
-
-152311 Бизнесин идаря едилмяси Г 200 
-
-152328 Дювлят вя бялядиййя идаряетмяси Я 200 
-
-Бакы Ислам Университети 
-
-154118 Диншцнаслыг Я 100 
-
-154126 Диншцнаслыг Г 100 
-
-"Азярбайъан" Университети 
-
-155114 Рийазиййат Я 250 
-
-155122 Компцтер елмляри Я 300 
-
-155139 Компцтер мцщяндислийи Я 200 
-
-155155 Дцнйа игтисадиййаты Я 200 
-
-155163 Дцнйа игтисадиййаты (тядрис инэилис дилиндя) Я 200 
-
-155171 Мцщасибат учоту вя аудит Я 200 
-
-155188 Мцщасибат учоту вя аудит (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-155196 Малиййя Я 200 
-
-155211 Малиййя (тядрис инэилис дилиндя) Я 200 
-
-155228 Игтисадиййат Я 200 
-
-155236 Менеъмент Я 200 
-
-155252 Дювлят вя бялядиййя идаряетмяси Я 200 
-
-Гярб Университети 
-
-157115 Ъищазгайырма мцщяндислийи Я 200 
-
-157123 Електроника, телекоммуникасийа вя 
-
-радиотехника мцщяндислийи 
-
-Я 250 
-
-157131 Мехатроника вя робототехника 
-
-мцщяндислийи 
-
-Я 200 
-
-157148 Механика мцщяндислийи Я 200 
-
-157164 Мцщяндис системляринин вя гурьуларынын 
-
-тикинтиси мцщяндислийи 
-
-Я 200 
-
-157212 Тякрар емал вя бярпа технолоэийалары 
-
-мцщяндислийи 
-
-Я 200 
-
-157229 Еколоэийа мцщяндислийи Я 200 
-
-157237 Информасийа технолоэийалары Я 250 
-
-157245 Систем мцщяндислийи Я 200 
-
-157253 Йер гурулушу, торпаг вя шящяр кадастры Я 200 
-
-157286 Бейнялхалг мцнасибятляр Г 200 
-
-157342 Игтисадиййат Г 200 
-
-157383 Дювлят вя бялядиййя идаряетмяси Я 200 
-
-157431 Фялсяфя Я 345 
-
-157512 Психолоэийа Г 200 
-
-**157537 Дизайн Я 7/50 
-
-157545 Биолоэийа Я 200 
-
-157553 Мемарлыг Я 200 
-
-Хязяр Университети 
-
-158111 Физика мцяллимлийи Я 200 
-
-158128 Рийазиййат вя информатика мцяллимлийи Я 200 
-
-158144 Нефт-газ мцщяндислийи (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-158152 Електроника, телекоммуникасийа вя 
-
-радиотехника мцщяндислийи (тядрис инэилис 
-
-дилиндя) 
-
-Я 250 
-
-158169 Механика мцщяндислийи (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-158177 Компцтер мцщяндислийи (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-158185 Иншаат мцщяндислийи Я 250 
-
-158193 Кимйа мцщяндислийи (тядрис инэилис дилиндя) Я 200 
-
-158217 Ъоьрафийа мцяллимлийи Я 200 
-
-158233 Бейнялхалг мцнасибятляр (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-158241 Мцщасибат учоту вя аудит (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-158258 Малиййя (тядрис инэилис дилиндя) Я 200 
-
-158266 Игтисадиййат (тядрис инэилис дилиндя) Я 200 
-
-158274 Менеъмент (тядрис инэилис дилиндя) Я 200 
-
-158299 Бизнесин идаря едилмяси (тядрис инэилис 
-
-дилиндя) 
-
-Я 200 
-
-158322 Азярбайъан дили вя ядябиййаты мцяллимлийи Я 329 
-
-158339 Хариъи дил мцяллимлийи (инэилис дили, тядрис 
-
-инэилис дилиндя) 
-
-Я 288 
-
-158347 Тарих мцяллимлийи Я 426 
-
-158355 Ибтидаи синиф мцяллимлийи Я 206 
-
-158363 Филолоэийа (Азярбайъан дили вя ядябиййаты) Я 203 
-
-158371 Филолоэийа (инэилис дили вя ядябиййаты, 
-
-тядрис инэилис дилиндя) 
-
-Я 200 
-
-158388 Тяръцмя (инэилис, яряб, фарс вя чин дили, 
-
-тядрис инэилис дилиндя) 
-
-Я 200 
-
-158396 Политолоэийа (тядрис инэилис дилиндя) Я 200 
-
-158411 Биолоэийа мцяллимлийи Я 200 
-
-158428 Кимйа мцяллимлийи Я 200 
-
-158436 Кимйа вя биолоэийа мцяллимлийи Я 200 
-
-158444 Психолоэийа (тядрис инэилис дилиндя) Я 200 
-
-**158452 Дизайн (тядрис инэилис дилиндя) Я 7/50 
-
-Бакы Аврасийа Университети 
-
-162153 Игтисадиййат Г 200 
-
-162242 Тяръцмя (яряб дили) Я 361 
-
-Бакы Гызлар Университети 
-
-163117 Рийазиййат вя информатика мцяллимлийи Я 240 
-
-163199 Психолоэийа Я 200 
-
-"Одлар Йурду" Университети 
-
-164113 Компцтер мцщяндислийи Я 200 
-
-164138 Еколоэийа мцщяндислийи Я 200 
-
-164154 Бейнялхалг мцнасибятляр Я 200 
-
-164179 Дцнйа игтисадиййаты Я 200 
-
-164195 Мцщасибат учоту вя аудит Я 200 
-
-164227 Малиййя Я 200 
-
-164243 Менеъмент Я 200 
-
-164284 Бизнесин идаря едилмяси Я 200 
-
-164316 Дювлят вя бялядиййя идаряетмяси Я 200 
-
-164413 Психолоэийа Я 200 
-
-164438 Биолоэийа Я 200 
-
-**164446 Дизайн Я 7/50 
-
-Бакы Бизнес Университети 
-
-165118 Дцнйа игтисадиййаты Я 200 
-
-165134 Малиййя Я 200 
-
-165159 Игтисадиййат Я 200 
-
-165167 Игтисадиййат (тядрис инэилис дилиндя) Я 200 
-
-165175 Сянайенин тяшкили вя идаря олунмасы Я 200 
-
-165183 Менеъмент Я 200 
-
-165215 Бизнесин идаря едилмяси Я 200 
-
-165223 Дювлят вя бялядиййя идаряетмяси Я 200 
-
-"Нахчыван" Университети (Нахчыван шящяри) 
-
-168115 Рийазиййат вя информатика мцяллимлийи Я 200 
-
-168123 Информатика мцяллимлийи Я 200 
-
-168148 Бейнялхалг мцнасибятляр Я 200 
-
-168156 Мцщасибат учоту вя аудит Я 200 
-
-168172 Игтисадиййат Я 200 
-
-168212 Хариъи дил мцяллимлийи (инэилис дили) Я 202 
-
-168237 Филолоэийа (алман дили вя ядябиййаты) Я 200 
-
-168245 Диншцнаслыг Я 200 (451) 
-
-Коду Ихтисасын ады Тящ. 
-
-фор. 
-
-кечид    
-
-балы 
-
- Коду Ихтисасын ады Тящ. 
-
-фор. 
-
-кечид    
-
-балы 
-
- 
-
-12 Азярбайъан бюлмяси 
-
-168253 Кимйа вя биолоэийа мцяллимлийи Я 200 
-
-Азярбайъан Ямяк вя Сосиал Мцнасибятляр 
-
-Академийасы 
-
-171111 Мцщасибат учоту вя аудит Я 200 
-
-171136 Малиййя Я 200 
-
-171152 Игтисадиййат Я 200 
-
-171169 Дювлят вя бялядиййя идаряетмяси Я 200

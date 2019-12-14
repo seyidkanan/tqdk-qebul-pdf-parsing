@@ -26,7 +26,9 @@ for line in text_file:
             if ixtisas_adin_elave_elesin == True:
                 ixtisas_adi = ixtisas_adi + " " + string
 
-            if len(string) == 6 and re.match(r'^([\s\d]+)$', string):
+            if (len(string) == 6 and re.match(r'^([\s\d]+)$', string)) or \
+                    (len(string) == 8 and re.match(r'^([\s\d]+)$', string.replace("*", ""))) or \
+                    (len(string) == 7 and re.match(r'^([\s\d]+)$', string.replace("*", ""))):
                 ixtisas_id = string
                 ixtisas_adin_elave_elesin = True
 
