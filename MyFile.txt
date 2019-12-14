@@ -442,6 +442,7 @@ Azərbaycan Texnologiya Universiteti (Gəncə ş.)
 [[II]]
  
 [Bakı Dövlət Universiteti]
+
 111511 Coğrafiya müəllimliyi Ə 431 (459) 
 111536 Sosiologiya Ə 426 (439) 
 111552 Sosiologiya (tədris ingilis dilində) Ə 441 (441) 
@@ -456,9 +457,7 @@ Azərbaycan Texnologiya Universiteti (Gəncə ş.)
 111658 Regionşünaslıq (Koreya üzrə) Ə 300 (475) 
 111739 Beynəlxalq münasibətlər Ə 254 (581) 
 111747 Beynəlxalq münasibətlər Q 235 ( - ) 
-111771 Beynəlxalq münasibətlər (tədris ingilis 
-dilində) 
-Ə 200 (586) 
+111771 Beynəlxalq münasibətlər (tədris ingilis dilində) Ə 200 (586)
 111788 Dünya iqtisadiyyatı Ə 322 (585) 
 111796 Dünya iqtisadiyyatı Q 257 ( - ) 
 111836 Dünya iqtisadiyyatı (tədris ingilis dilində) Ə 240 (600) 
@@ -471,81 +470,57 @@ dilində)
 111958 Hidrometeorologiya Ə 330 (442) 
 111966 Turizm və otelçilik Ə 477 (477) 
 111974 Turizm və otelçilik (tədris ingilis dilində) Ə 521 (521) 
-112792 Tarix və coğrafiya müəllimliyi (Qazax 
-filialı) 
-Ə 269 (463) 
+112792 Tarix və coğrafiya müəllimliyi (Qazax filialı) Ə 269 (463)
 112816 Coğrafiya müəllimliyi (Qazax filialı) Ə 224 ( - ) 
 112824 Turizm və otelçilik (Qazax filialı) Ə 193 (376) 
 112832 Turizm və otelçilik (Qazax filialı) Q 183 ( - ) 
-Azərbaycan Dövlət Neft və Sənaye Universiteti 
-114841 İqtisadiyyat (tədris ingilis dilində) Ə 422 (560) 
+
+[Azərbaycan Dövlət Neft və Sənaye Universiteti]
+
+114841 İqtisadiyyat (tədris ingilis dilində) Ə 422 (560)
 114858 Sənayenin təşkili və idarə olunması Ə 497 (497) 
 114866 Sənayenin təşkili və idarə olunması Q 213 ( - ) 
-114882 Sənayenin təşkili və idarə olunması (tədris 
-ingilis dilində) 
-Ə 527 (527) 
+114882 Sənayenin təşkili və idarə olunması (tədris ingilis dilində) Ə 527 (527)
 114899 Menecment (tədris ingilis dilində) Ə 309 (538) 
 114914 Marketinq (tədris ingilis dilində) Ə 393 (524) 
 114922 Biznesin idarə edilməsi Ə 367 (622) 
 114939 Biznesin idarə edilməsi Q 200 ( - ) 
-114955 Biznesin idarə edilməsi (tədris ingilis 
-dilində) 
-Ə 409 (581) 
-Azərbaycan Texniki Universiteti 
-116672 Sənayenin təşkili və idarə olunması Ə 320 (472) 
+114955 Biznesin idarə edilməsi (tədris ingilis dilində) Ə 409 (581)
+
+[Azərbaycan Texniki Universiteti]
+
+116672 Sənayenin təşkili və idarə olunması Ə 320 (472)
 116689 Sənayenin təşkili və idarə olunması Q 244 ( - ) 
 116712 Menecment Ə 340 ( - ) 
-116729 Nəqliyyat servisi (avtomobil nəqliyyatı 
-üzrə) 
-Ə 335 (449) 
-Azərbaycan Memarlıq və İnşaat Universiteti 
+116729 Nəqliyyat servisi (avtomobil nəqliyyatı üzrə) Ə 335 (449)
+
+[Azərbaycan Memarlıq və İnşaat Universiteti]
+
 118487 Sənayenin təşkili və idarə olunması Ə 309 (476) 
-118519 Sənayenin təşkili və idarə olunması (tədris 
-ingilis dilində) 
-Ə 200 (473) 
+118519 Sənayenin təşkili və idarə olunması (tədris ingilis dilində) Ə 200 (473)
 118527 Menecment Ə 302 ( - ) 
 118543 Marketinq Ə 294 ( - ) 
 118551 Biznesin idarə edilməsi Ə 303 ( - ) 
-Azərbaycan Dövlət Pedaqoji Universiteti 
-122188 Tarix və coğrafiya müəllimliyi Ə 447 (447) 
+
+[Azərbaycan Dövlət Pedaqoji Universiteti]
+
+122188 Tarix və coğrafiya müəllimliyi Ə 447 (447)
 122196 Coğrafiya müəllimliyi Ə 353 (462) 
-122471 Tarix və coğrafiya müəllimliyi (Şamaxı 
-filialı) 
-Ə 270 (465) 
-122536 Tarix və coğrafiya müəllimliyi (Şəki 
-filialı) 
-Ə 269 (438) 
-122625 Tarix və coğrafiya müəllimliyi (Ağcabədi 
-filialı) 
-Ə 248 ( - ) 
-122666 Tarix və coğrafiya müəllimliyi (Cəlilabad 
-filialı) 
-Ə 237 (435) 
-122722 Tarix və coğrafiya müəllimliyi (Quba 
-filialı) 
-Ə 309 (435) 
-Azərbaycan Dövlət İqtisad Universiteti 
-Ихтисасын  Тящ. 
-фор. 
-Кечид    
-балы 
- Ихтисасын Тящ. 
-фор. 
-кечид    
-балы коду ады  коду ады 
- 
- II груп, Азярбайъан бюлмяси 51 
-123313 Beynəlxalq münasibətlər (tədris türk 
-dilində) 
-Ə 317 (596) 
+122471 Tarix və coğrafiya müəllimliyi (Şamaxı filialı) Ə 270 (465)
+122536 Tarix və coğrafiya müəllimliyi (Şəki filialı) Ə 269 (438)
+122625 Tarix və coğrafiya müəllimliyi (Ağcabədi filialı) Ə 248 ( - )
+122666 Tarix və coğrafiya müəllimliyi (Cəlilabad filialı) Ə 237 (435)
+122722 Tarix və coğrafiya müəllimliyi (Quba filialı) Ə 309 (435)
+
+[Azərbaycan Dövlət İqtisad Universiteti]
+
+123313 Beynəlxalq münasibətlər (tədris türk dilində) Ə 317 (596)
 123321 Dünya iqtisadiyyatı Ə 347 (577) 
 123338 Dünya iqtisadiyyatı Q 254 ( - ) 
 123354 Dünya iqtisadiyyatı (tədris ingilis dilində) Ə 613 (613) 
 123362 Mühasibat uçotu və audit Ə 461 (586) 
 123379 Mühasibat uçotu və audit Q 291 ( - ) 
-123419 Mühasibat uçotu və audit (tədris ingilis 
-dilində) 
-Ə 641 (641) 
+123419 Mühasibat uçotu və audit (tədris ingilis dilində) Ə 641 (641)
 123427 Maliyyə Ə 433 (632) 
 123435 Maliyyə Q 285 ( - ) 
 123468 Maliyyə (tədris ingilis dilində) Ə 658 (658) 
@@ -564,12 +539,8 @@ dilində)
 123662 Marketinq Q 239 ( - ) 
 123687 Biznesin idarə edilməsi Ə 359 (575) 
 123695 Biznesin idarə edilməsi Q 254 ( - ) 
-123727 Biznesin idarə edilməsi (tədris ingilis 
-dilində) 
-Ə 609 (609) 
-123735 Biznesin idarə edilməsi (tədris türk 
-dilində) 
-Ə 319 (576) 
+123727 Biznesin idarə edilməsi (tədris ingilis dilində) Ə 609 (609)
+123735 Biznesin idarə edilməsi (tədris türk dilində) Ə 319 (576)
 123743 Dövlət və bələdiyyə idarəetməsi Ə 540 (540) 
 123751 Kommersiya Ə 344 (510) 
 123768 Kommersiya Q 233 ( - ) 
@@ -583,7 +554,7 @@ dilində)
 123898 Biznesin idarə edilməsi (Zaqatala filialı) Q 200 ( - ) 
 123913 Turizm və otelçilik (Zaqatala filialı) Ə 190 (312) 
 123921 Turizm və otelçilik (Zaqatala filialı) Q 187 (402) 
-Azərbaycan Dillər Universiteti 
+[Azərbaycan Dillər Universiteti]
 126116 Regionşünaslıq (Böyük Britaniya üzrə) Ə 200 (467) 
 126124 Regionşünaslıq (Almaniya üzrə) Ə 414 ( - ) 
 126132 Regionşünaslıq (Fransa üzrə) Ə 405 ( - ) 
