@@ -4,6 +4,10 @@ import csv
 txt_file_path = 'MyFile.txt'
 text_file = open(txt_file_path, "r")
 
+uni = ""
+sektor = ""
+qrup = ""
+
 for line in text_file:
     if len(line) > 0:
         print(line)
@@ -14,16 +18,36 @@ for line in text_file:
         ixtisas_pullu_kechid_bali = ""
         ixtisas_pulsuz_kechid_bali = ""
 
+        line = line.replace("\n", "")
+
+        if line.startswith("[") and line.endswith("]") and line.count("[") == 1:
+            uni = line.replace("[", "").replace("]", "")
+
+        if line.__eq__("[[[AZ]]]"):
+            sektor = "AZ"
+
+        if line.__eq__("[[I]]"):
+            qrup = "I"
+        if line.__eq__("[[II]]"):
+            qrup = "II"
+        if line.__eq__("[[III]]"):
+            qrup = "III"
+        if line.__eq__("[[IV]]"):
+            qrup = "IV"
+        if line.__eq__("[[V]]"):
+            qrup = "V"
+
         split_lines = line.split()
 
         ixtisas_adin_elave_elesin = False
 
         for string in split_lines:
+
             if len(string) == 1 and (string == "Ə" or string == "Q"):
                 ixtisas_eyani_or_qiyabi = string
                 ixtisas_adin_elave_elesin = False
 
-            if ixtisas_adin_elave_elesin == True:
+            if ixtisas_adin_elave_elesin:
                 ixtisas_adi = ixtisas_adi + " " + string
 
             if (len(string) == 6 and re.match(r'^([\s\d]+)$', string)) or \
@@ -44,5 +68,6 @@ for line in text_file:
         if len(ixtisas_id) > 0:
             with open('data.csv', 'a+', newline='') as file:
                 writer = csv.writer(file)
-                writer.writerow([ixtisas_id, ixtisas_adi, ixtisas_eyani_or_qiyabi, ixtisas_pullu_kechid_bali,
-                                 ixtisas_pulsuz_kechid_bali])
+                writer.writerow(
+                    [sektor, qrup, uni, ixtisas_id, ixtisas_adi, ixtisas_eyani_or_qiyabi, ixtisas_pullu_kechid_bali,
+                     ixtisas_pulsuz_kechid_bali])
