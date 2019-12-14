@@ -56,14 +56,20 @@ for line in text_file:
                 ixtisas_id = string
                 ixtisas_adin_elave_elesin = True
 
-            if len(string) == 3 and re.match(r'^([\s\d]+)$', string):
+            if (len(string) == 3 or len(string) == 2) and re.match(r'^([\s\d]+)$', string):
                 ixtisas_pullu_kechid_bali = string
 
-            if len(string) == 5 and string.startswith("(") and string.endswith(")"):
+            if (len(string) == 5 or len(string) == 4) and string.startswith("(") and string.endswith(")"):
                 ixtisas_pulsuz_kechid_bali = string.replace("(", "").replace(")", "")
 
             if len(string) == 1 and (string.__eq__("(") or string.__eq__("-") or string.__eq__(")")):
                 ixtisas_pulsuz_kechid_bali = " - "
+
+            if string.count("/") == 1 and not string.startswith("("):
+                ixtisas_pullu_kechid_bali = string
+
+            if string.count("/") == 1 and string.startswith("("):
+                ixtisas_pulsuz_kechid_bali = string
 
         if len(ixtisas_id) > 0:
             with open('data.csv', 'a+', newline='') as file:
