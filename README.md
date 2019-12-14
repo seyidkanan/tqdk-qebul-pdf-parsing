@@ -25,7 +25,7 @@ Datanı hazırlamaq üçün lazım olan addımlar:
 
 **Belə yazılan ixtisas adlarıda eyni qalır, script parse edə bilir.**
 
-*148757 Fiziki tərbiyə və çağırışaqədərki hazırlıq (qızlar üçün fiziki tərbiyə) müəllimliyi Ə 57 (80)
+*148757 Fiziki tərbiyə və çağırışaqədərki hazırlıq (qızlar üçün fiziki tərbiyə) müəllimliyi Ə 57 (80)<br/>
 **158452 Dizayn (tədris ingilis dilində) Ə 7/50 ( - )
 
 5. txt_to_csv.py faylında hansı csv faylına yazılacaq onu qeyd edirik, fayla data üzərinə yazılır, əgər yenisin istəyirsizsə köhəni pozun və ya yeni fayl adı qeyd edin.
