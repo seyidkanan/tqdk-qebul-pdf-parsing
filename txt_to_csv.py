@@ -18,7 +18,7 @@ for line in text_file:
         ixtisas_pullu_kechid_bali = ""
         ixtisas_pulsuz_kechid_bali = ""
 
-        line = line.replace("\n", "")
+        line = line.replace("\n", "").replace("\"", "")
 
         if line.startswith("[") and line.endswith("]") and line.count("[") == 1:
             uni = line.replace("[", "").replace("]", "")

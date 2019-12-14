@@ -189,9 +189,9 @@ AZ,I,Bakı Mühəndislik Universiteti,128344, Şəhərsalma,Ə,200,325
 AZ,I,Bakı Mühəndislik Universiteti,128369, Memarlıq,Ə,200,367
 AZ,I,Bakı Mühəndislik Universiteti,128377, Memarlıq (tədris ingilis dilində),Ə,200,372
 AZ,I,Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası,129113, Kompüter elmləri,Ə,642,642
-AZ,I,"""ADA"" Universiteti",131113, Kompüter elmləri (tədris ingilis dilində),Ə,377,
-AZ,I,"""ADA"" Universiteti",131121, Kompüter mühəndisliyi (tədris ingilis dilində),Ə,231,
-AZ,I,"""ADA"" Universiteti",131138, İnformasiya texnologiyaları (tədris ingilis dilində),Ə,322,
+AZ,I,ADA Universiteti,131113, Kompüter elmləri (tədris ingilis dilində),Ə,377,
+AZ,I,ADA Universiteti,131121, Kompüter mühəndisliyi (tədris ingilis dilində),Ə,231,
+AZ,I,ADA Universiteti,131138, İnformasiya texnologiyaları (tədris ingilis dilində),Ə,322,
 AZ,I,Azərbaycan Dövlət Rəssamlıq Akademiyası,*135115, Memarlıq,Ə,200, - 
 AZ,I,Azərbaycan Turizm və Menecment Universiteti,136111, Qida məhsulları mühəndisliyi,Ə,353,353
 AZ,I,Milli Aviasiya Akademiyası,138112, Elektroenergetika mühəndisliyi,Ə,329,407
@@ -322,9 +322,9 @@ AZ,I,Azərbaycan Kooperasiya Universiteti,152125, Qida məhsulları mühəndisli
 AZ,I,Azərbaycan Kooperasiya Universiteti,152133, Çoxişlənən malların texnologiyası mühəndisliyi,Ə,193,
 AZ,I,Azərbaycan Kooperasiya Universiteti,152141, İstehlak mallarının ekspertizası və marketinqi,Ə,194,
 AZ,I,Azərbaycan Kooperasiya Universiteti,152158," Metrologiya, standartlaşdırma və sertifikasiya mühəndisliyi",Ə,200,
-AZ,I,"""Azərbaycan"" Universiteti",155114, Riyaziyyat,Ə,250, - 
-AZ,I,"""Azərbaycan"" Universiteti",155122, Kompüter elmləri,Ə,300, - 
-AZ,I,"""Azərbaycan"" Universiteti",155139, Kompüter mühəndisliyi,Ə,200, - 
+AZ,I,Azərbaycan Universiteti,155114, Riyaziyyat,Ə,250, - 
+AZ,I,Azərbaycan Universiteti,155122, Kompüter elmləri,Ə,300, - 
+AZ,I,Azərbaycan Universiteti,155139, Kompüter mühəndisliyi,Ə,200, - 
 AZ,I,Qərb Universiteti,157115, Cihazqayırma mühəndisliyi,Ə,200, - 
 AZ,I,Qərb Universiteti,157123," Elektronika, telekommunikasiya və radiotexnika mühəndisliyi",Ə,250, - 
 AZ,I,Qərb Universiteti,157131, Mexatronika və robototexnika mühəndisliyi,Ə,200, - 
@@ -351,10 +351,10 @@ AZ,I,Xəzər Universiteti,158177, Kompüter mühəndisliyi (tədris ingilis dili
 AZ,I,Xəzər Universiteti,158185, İnşaat mühəndisliyi,Ə,250,435
 AZ,I,Xəzər Universiteti,158193, Kimya mühəndisliyi (tədris ingilis dilində),Ə,200,564
 AZ,I,Bakı Qızlar Universiteti,163117, Riyaziyyat və informatika müəllimliyi,Ə,200, - 
-AZ,I,"""Odlar Yurdu"" Universiteti",164113, Kompüter mühəndisliyi,Ə,200, - 
-AZ,I,"""Odlar Yurdu"" Universiteti",164138, Ekologiya mühəndisliyi,Ə,200, - 
-AZ,I,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168115, Riyaziyyat və informatika müəllimliyi,Ə,200, - 
-AZ,I,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168123, İnformatika müəllimliyi,Ə,200, - 
+AZ,I,Odlar Yurdu Universiteti,164113, Kompüter mühəndisliyi,Ə,200, - 
+AZ,I,Odlar Yurdu Universiteti,164138, Ekologiya mühəndisliyi,Ə,200, - 
+AZ,I,Naxçıvan Universiteti (Naxçıvan şəhəri),168115, Riyaziyyat və informatika müəllimliyi,Ə,200, - 
+AZ,I,Naxçıvan Universiteti (Naxçıvan şəhəri),168123, İnformatika müəllimliyi,Ə,200, - 
 AZ,II,Bakı Dövlət Universiteti,111511, Coğrafiya müəllimliyi,Ə,431,459
 AZ,II,Bakı Dövlət Universiteti,111536, Sosiologiya,Ə,426,439
 AZ,II,Bakı Dövlət Universiteti,111552, Sosiologiya (tədris ingilis dilində),Ə,441,441
@@ -488,9 +488,9 @@ AZ,II,Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akade
 AZ,II,Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası,129179, Menecment,Ə,559,559
 AZ,II,Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası,129195, Dövlət və bələdiyyə idarəetməsi,Ə,558,558
 AZ,II,Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası,129227, Davamlı inkişafın idarə edilməsi,Ə,494,507
-AZ,II,"""ADA"" Universiteti",131146, Beynəlxalq münasibətlər (tədris ingilis dilində),Ə,200,
-AZ,II,"""ADA"" Universiteti",131154, İqtisadiyyat (tədris ingilis dilində),Ə,200,
-AZ,II,"""ADA"" Universiteti",131162, Biznesin idarə edilməsi (tədris ingilis dilində),Ə,500,
+AZ,II,ADA Universiteti,131146, Beynəlxalq münasibətlər (tədris ingilis dilində),Ə,200,
+AZ,II,ADA Universiteti,131154, İqtisadiyyat (tədris ingilis dilində),Ə,200,
+AZ,II,ADA Universiteti,131162, Biznesin idarə edilməsi (tədris ingilis dilində),Ə,500,
 AZ,II,Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti,134119, Sosiologiya,Ə,280,444
 AZ,II,Azərbaycan Turizm və Menecment Universiteti,136128, Regionşünaslıq (Qafqaz üzrə),Ə,239, - 
 AZ,II,Azərbaycan Turizm və Menecment Universiteti,136136, Beynəlxalq münasibətlər,Ə,292, - 
@@ -609,16 +609,16 @@ AZ,II,Azərbaycan Kooperasiya Universiteti,152336, Kommersiya,Ə,186,
 AZ,II,Azərbaycan Kooperasiya Universiteti,152344, Kommersiya,Q,185,
 AZ,II,Azərbaycan Kooperasiya Universiteti,152352, Coğrafiya,Ə,206, - 
 AZ,II,Azərbaycan Kooperasiya Universiteti,152369, Turizm və otelçilik,Ə,196,
-AZ,II,"""Azərbaycan"" Universiteti",155155, Dünya iqtisadiyyatı,Ə,200, - 
-AZ,II,"""Azərbaycan"" Universiteti",155163, Dünya iqtisadiyyatı (tədris ingilis dilində),Ə,200, - 
-AZ,II,"""Azərbaycan"" Universiteti",155171, Mühasibat uçotu və audit,Ə,200, - 
-AZ,II,"""Azərbaycan"" Universiteti",155188, Mühasibat uçotu və audit (tədris ingilis dilində),Ə,200, - 
-AZ,II,"""Azərbaycan"" Universiteti",155196, Maliyyə,Ə,200, - 
-AZ,II,"""Azərbaycan"" Universiteti",155211, Maliyyə (tədris ingilis dilində),Ə,200, - 
-AZ,II,"""Azərbaycan"" Universiteti",155228, İqtisadiyyat,Ə,200, - 
-AZ,II,"""Azərbaycan"" Universiteti",155236, Menecment,Ə,200, - 
-AZ,II,"""Azərbaycan"" Universiteti",155244, Marketinq,Ə,194, - 
-AZ,II,"""Azərbaycan"" Universiteti",155252, Dövlət və bələdiyyə idarəetməsi,Ə,200, - 
+AZ,II,Azərbaycan Universiteti,155155, Dünya iqtisadiyyatı,Ə,200, - 
+AZ,II,Azərbaycan Universiteti,155163, Dünya iqtisadiyyatı (tədris ingilis dilində),Ə,200, - 
+AZ,II,Azərbaycan Universiteti,155171, Mühasibat uçotu və audit,Ə,200, - 
+AZ,II,Azərbaycan Universiteti,155188, Mühasibat uçotu və audit (tədris ingilis dilində),Ə,200, - 
+AZ,II,Azərbaycan Universiteti,155196, Maliyyə,Ə,200, - 
+AZ,II,Azərbaycan Universiteti,155211, Maliyyə (tədris ingilis dilində),Ə,200, - 
+AZ,II,Azərbaycan Universiteti,155228, İqtisadiyyat,Ə,200, - 
+AZ,II,Azərbaycan Universiteti,155236, Menecment,Ə,200, - 
+AZ,II,Azərbaycan Universiteti,155244, Marketinq,Ə,194, - 
+AZ,II,Azərbaycan Universiteti,155252, Dövlət və bələdiyyə idarəetməsi,Ə,200, - 
 AZ,II,Qərb Universiteti,157261, Regionşünaslıq (Qərbşünaslıq),Ə,198, - 
 AZ,II,Qərb Universiteti,157278, Beynəlxalq münasibətlər,Ə,216, - 
 AZ,II,Qərb Universiteti,157286, Beynəlxalq münasibətlər,Q,200, - 
@@ -648,15 +648,15 @@ AZ,II,Bakı Avrasiya Universiteti,162137, Regionşünaslıq (Yaxın və Orta Ş�
 AZ,II,Bakı Avrasiya Universiteti,162145, İqtisadiyyat,Ə,214, - 
 AZ,II,Bakı Avrasiya Universiteti,162153, İqtisadiyyat,Q,200, - 
 AZ,II,Bakı Qızlar Universiteti,163125, Coğrafiya müəllimliyi,Ə,227, - 
-AZ,II,"""Odlar Yurdu"" Universiteti",164154, Beynəlxalq münasibətlər,Ə,200, - 
-AZ,II,"""Odlar Yurdu"" Universiteti",164179, Dünya iqtisadiyyatı,Ə,200, - 
-AZ,II,"""Odlar Yurdu"" Universiteti",164195, Mühasibat uçotu və audit,Ə,200, - 
-AZ,II,"""Odlar Yurdu"" Universiteti",164227, Maliyyə,Ə,200, - 
-AZ,II,"""Odlar Yurdu"" Universiteti",164243, Menecment,Ə,200, - 
-AZ,II,"""Odlar Yurdu"" Universiteti",164268, Marketinq,Ə,191, - 
-AZ,II,"""Odlar Yurdu"" Universiteti",164284, Biznesin idarə edilməsi,Ə,200, - 
-AZ,II,"""Odlar Yurdu"" Universiteti",164316, Dövlət və bələdiyyə idarəetməsi,Ə,200, - 
-AZ,II,"""Odlar Yurdu"" Universiteti",164332, Turizm və otelçilik,Ə,197,344
+AZ,II,Odlar Yurdu Universiteti,164154, Beynəlxalq münasibətlər,Ə,200, - 
+AZ,II,Odlar Yurdu Universiteti,164179, Dünya iqtisadiyyatı,Ə,200, - 
+AZ,II,Odlar Yurdu Universiteti,164195, Mühasibat uçotu və audit,Ə,200, - 
+AZ,II,Odlar Yurdu Universiteti,164227, Maliyyə,Ə,200, - 
+AZ,II,Odlar Yurdu Universiteti,164243, Menecment,Ə,200, - 
+AZ,II,Odlar Yurdu Universiteti,164268, Marketinq,Ə,191, - 
+AZ,II,Odlar Yurdu Universiteti,164284, Biznesin idarə edilməsi,Ə,200, - 
+AZ,II,Odlar Yurdu Universiteti,164316, Dövlət və bələdiyyə idarəetməsi,Ə,200, - 
+AZ,II,Odlar Yurdu Universiteti,164332, Turizm və otelçilik,Ə,197,344
 AZ,II,Bakı Biznes Universiteti,165118, Dünya iqtisadiyyatı,Ə,200, - 
 AZ,II,Bakı Biznes Universiteti,165126, Mühasibat uçotu və audit,Ə,203, - 
 AZ,II,Bakı Biznes Universiteti,165134, Maliyyə,Ə,200, - 
@@ -667,12 +667,12 @@ AZ,II,Bakı Biznes Universiteti,165183, Menecment,Ə,200, -
 AZ,II,Bakı Biznes Universiteti,165191, Marketinq,Ə,189, - 
 AZ,II,Bakı Biznes Universiteti,165215, Biznesin idarə edilməsi,Ə,200, - 
 AZ,II,Bakı Biznes Universiteti,165223, Dövlət və bələdiyyə idarəetməsi,Ə,200, - 
-AZ,II,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168131, Coğrafiya müəllimliyi,Ə,209, - 
-AZ,II,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168148, Beynəlxalq münasibətlər,Ə,200, - 
-AZ,II,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168156, Mühasibat uçotu və audit,Ə,200, - 
-AZ,II,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168164, Maliyyə,Ə,203, - 
-AZ,II,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168172, İqtisadiyyat,Ə,200, - 
-AZ,II,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168189, Turizm və otelçilik,Ə,189,393
+AZ,II,Naxçıvan Universiteti (Naxçıvan şəhəri),168131, Coğrafiya müəllimliyi,Ə,209, - 
+AZ,II,Naxçıvan Universiteti (Naxçıvan şəhəri),168148, Beynəlxalq münasibətlər,Ə,200, - 
+AZ,II,Naxçıvan Universiteti (Naxçıvan şəhəri),168156, Mühasibat uçotu və audit,Ə,200, - 
+AZ,II,Naxçıvan Universiteti (Naxçıvan şəhəri),168164, Maliyyə,Ə,203, - 
+AZ,II,Naxçıvan Universiteti (Naxçıvan şəhəri),168172, İqtisadiyyat,Ə,200, - 
+AZ,II,Naxçıvan Universiteti (Naxçıvan şəhəri),168189, Turizm və otelçilik,Ə,189,393
 AZ,II,Azərbaycan Əmək və Sosial Münasibətlər Akademiyası,171111, Mühasibat uçotu və audit,Ə,200, - 
 AZ,II,Azərbaycan Əmək və Sosial Münasibətlər Akademiyası,171136, Maliyyə,Ə,200, - 
 AZ,II,Azərbaycan Əmək və Sosial Münasibətlər Akademiyası,171152, İqtisadiyyat,Ə,200, - 
@@ -780,7 +780,7 @@ AZ,III,Azərbaycan Dillər Universiteti,127445, Tərcümə (Azərbaycan-rus dill
 AZ,III,Azərbaycan Dillər Universiteti,127453, Jurnalistika,Ə,326,401
 AZ,III,Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası,129243, Politologiya,Ə,647,647
 AZ,III,Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası,129268, Hüquqşünaslıq,Ə,675,675
-AZ,III,"""ADA"" Universiteti",131179, Dövlət və ictimai münasibətlər (tədris ingilis dilində),Ə,472,
+AZ,III,ADA Universiteti,131179, Dövlət və ictimai münasibətlər (tədris ingilis dilində),Ə,472,
 AZ,III,Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti,134135, Kitabxanaçılıq və informasiya,Ə,285, - 
 AZ,III,Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti,134143," Muzeyşünaslıq, arxiv işi və abidələrin qorunması",Ə,280,413
 AZ,III,Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti,134168, Sənətşünaslıq,Ə,288,375
@@ -859,10 +859,10 @@ AZ,III,Azərbaycan Kooperasiya Universiteti,152377, Tərcümə (ingilis dili),Q,
 AZ,III,Azərbaycan Kooperasiya Universiteti,152385, Tərcümə (ingilis dili),Ə,203,
 AZ,III,Bakı İslam Universiteti,154118, Dinşünaslıq,Ə,100,
 AZ,III,Bakı İslam Universiteti,154126, Dinşünaslıq,Q,100,
-AZ,III,"""Azərbaycan"" Universiteti",155269, Filologiya (Azərbaycan dili və ədəbiyyatı),Ə,235, - 
-AZ,III,"""Azərbaycan"" Universiteti",155277, Tərcümə (ingilis dili),Ə,209, - 
-AZ,III,"""Azərbaycan"" Universiteti",155293, Tarix,Ə,258, - 
-AZ,III,"""Azərbaycan"" Universiteti",155317, Sosial iş,Ə,232, - 
+AZ,III,Azərbaycan Universiteti,155269, Filologiya (Azərbaycan dili və ədəbiyyatı),Ə,235, - 
+AZ,III,Azərbaycan Universiteti,155277, Tərcümə (ingilis dili),Ə,209, - 
+AZ,III,Azərbaycan Universiteti,155293, Tarix,Ə,258, - 
+AZ,III,Azərbaycan Universiteti,155317, Sosial iş,Ə,232, - 
 AZ,III,Qərb Universiteti,157415, Filologiya (Azərbaycan dili və ədəbiyyatı),Ə,237, - 
 AZ,III,Qərb Universiteti,157423, Filologiya (ingilis dili və ədəbiyyatı),Ə,226, - 
 AZ,III,Qərb Universiteti,157431, Fəlsəfə,Ə,200, - 
@@ -893,15 +893,15 @@ AZ,III,Bakı Qızlar Universiteti,163158, Tarix müəllimliyi,Ə,227, -
 AZ,III,Bakı Qızlar Universiteti,163166, İbtidai sinif müəllimliyi,Ə,228,442
 AZ,III,Bakı Qızlar Universiteti,163174, Məktəbəqədər təlim və tərbiyə,Ə,205, - 
 AZ,III,Bakı Qızlar Universiteti,163182, Təhsildə sosial-psixoloji xidmət,Ə,207, - 
-AZ,III,"""Odlar Yurdu"" Universiteti",164357, Xarici dil müəllimliyi (ingilis dili üzrə),Ə,265, - 
-AZ,III,"""Odlar Yurdu"" Universiteti",164373, Filologiya (dil və ədəbiyyat göstərilməklə),Ə,216, - 
-AZ,III,"""Odlar Yurdu"" Universiteti",164381, Tərcümə (ingilis dili üzrə),Ə,202, - 
+AZ,III,Odlar Yurdu Universiteti,164357, Xarici dil müəllimliyi (ingilis dili üzrə),Ə,265, - 
+AZ,III,Odlar Yurdu Universiteti,164373, Filologiya (dil və ədəbiyyat göstərilməklə),Ə,216, - 
+AZ,III,Odlar Yurdu Universiteti,164381, Tərcümə (ingilis dili üzrə),Ə,202, - 
 AZ,III,Bakı Biznes Universiteti,165231, Tərcümə (ingilis dili),Ə,206, - 
-AZ,III,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168197, Azərbaycan dili və ədəbiyyatı müəllimliyi,Ə,248, - 
-AZ,III,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168212, Xarici dil müəllimliyi (ingilis dili),Ə,200, - 
-AZ,III,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168229, Tarix müəllimliyi,Ə,236, - 
-AZ,III,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168237, Filologiya (alman dili və ədəbiyyatı),Ə,200, - 
-AZ,III,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168245, Dinşünaslıq,Ə,200, - 
+AZ,III,Naxçıvan Universiteti (Naxçıvan şəhəri),168197, Azərbaycan dili və ədəbiyyatı müəllimliyi,Ə,248, - 
+AZ,III,Naxçıvan Universiteti (Naxçıvan şəhəri),168212, Xarici dil müəllimliyi (ingilis dili),Ə,200, - 
+AZ,III,Naxçıvan Universiteti (Naxçıvan şəhəri),168229, Tarix müəllimliyi,Ə,236, - 
+AZ,III,Naxçıvan Universiteti (Naxçıvan şəhəri),168237, Filologiya (alman dili və ədəbiyyatı),Ə,200, - 
+AZ,III,Naxçıvan Universiteti (Naxçıvan şəhəri),168245, Dinşünaslıq,Ə,200, - 
 AZ,III,Azərbaycan Əmək və Sosial Münasibətlər Akademiyası,171177, Sosial iş,Ə,269, - 
 AZ,IV,Bakı Dövlət Universiteti,112557, Biologiya müəllimliyi,Ə,426,426
 AZ,IV,Bakı Dövlət Universiteti,112573, Kimya müəllimliyi,Ə,348,464
@@ -960,9 +960,9 @@ AZ,IV,Xəzər Universiteti,158428, Kimya müəllimliyi,Ə,200, -
 AZ,IV,Xəzər Universiteti,158436, Kimya və biologiya müəllimliyi,Ə,200,428
 AZ,IV,Xəzər Universiteti,158444, Psixologiya (tədris ingilis dilində),Ə,200, - 
 AZ,IV,Bakı Qızlar Universiteti,163199, Psixologiya,Ə,200, - 
-AZ,IV,"""Odlar Yurdu"" Universiteti",164413, Psixologiya,Ə,200, - 
-AZ,IV,"""Odlar Yurdu"" Universiteti",164438, Biologiya,Ə,200, - 
-AZ,IV,"""Naxçıvan"" Universiteti (Naxçıvan şəhəri)",168253, Kimya və biologiya müəllimliyi,Ə,200, - 
+AZ,IV,Odlar Yurdu Universiteti,164413, Psixologiya,Ə,200, - 
+AZ,IV,Odlar Yurdu Universiteti,164438, Biologiya,Ə,200, - 
+AZ,IV,Naxçıvan Universiteti (Naxçıvan şəhəri),168253, Kimya və biologiya müəllimliyi,Ə,200, - 
 AZ,V,Azərbaycan Memarlıq və İnşaat Universiteti,*118568, Dizayn,Ə,71,73
 AZ,V,Azərbaycan Dövlət Pedaqoji Universiteti,*122414, Fiziki tərbiyə və çağırışaqədərki hazırlıq (qızlar üçün fiziki tərbiyə) müəllimliyi,Ə,61,72
 AZ,V,Azərbaycan Dövlət Pedaqoji Universiteti,*122439, Musiqi müəllimliyi,Ə,25,65
@@ -1060,6 +1060,6 @@ AZ,V,Sumqayıt Dövlət Universiteti,*148757, Fiziki tərbiyə və çağırışa
 AZ,V,Lənkəran Dövlət Universiteti,**151429, Aktyor sənəti,Ə,7/40, - 
 AZ,V,Qərb Universiteti,**157537, Dizayn,Ə,7/50, - 
 AZ,V,Xəzər Universiteti,**158452, Dizayn (tədris ingilis dilində),Ə,7/50, - 
-AZ,V,"Odlar Yurdu" Universiteti,**164446, Dizayn,Ə,7/50, -
-AZ,V,"Odlar Yurdu" Universiteti,*164462, Dizayn,Ə,59, -
-AZ,V,"Naxçıvan" Universiteti (Naxçıvan şəhəri),*168261, Bədən tərbiyəsi və idman,Ə,47, -
+AZ,V,Odlar Yurdu Universiteti,**164446, Dizayn,Ə,7/50, - 
+AZ,V,Odlar Yurdu Universiteti,*164462, Dizayn,Ə,59, - 
+AZ,V,Naxçıvan Universiteti (Naxçıvan şəhəri),*168261, Bədən tərbiyəsi və idman,Ə,47, - 
